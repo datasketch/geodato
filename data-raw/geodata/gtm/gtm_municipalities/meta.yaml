@@ -1,0 +1,25 @@
+label: Guatemala departaments
+centroids: gtm_municipalities-centroids.csv
+altids: 
+altnames: gtm_municipalities-altnames.csv
+regions: 
+parent_map_name: gtm_departments
+id_format: "%04d"
+topojson:
+  scope: XXX
+  geographyName: name
+  geographyId: id
+  path: gtm_municipalities.topojson
+projections:
+  mercator:
+    name: mercator
+    center: [-90.30, 16.22]
+    rotate: [0, 0]
+    scale: 5.5
+    translate: [0,0]
+  equirectangular:
+    name: mercator
+    center: [-90.30, 16.22]
+    rotate: [0, 0]
+    scale: 5.5
+    translate: [0,0]
