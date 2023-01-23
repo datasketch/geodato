@@ -11,14 +11,17 @@ test_that("GTM", {
 
   depto_codes <- gd_codes("gtm_departments")
   muni_codes <- gd_codes("gtm_municipalities")
-  # Municipios
 
-  d <- read_csv(geodato_sys("sample/gtm/vacunados-muni.csv"))
+  # Municipios
+  d <- sample_data$gtm_muncipalities$`vacunados-muni`
 
   map_name <- "gtm_municipalities"
   col <- c("municipio", "departamento")
-  match <- gd_match_names2(d, map_name = map_name, col = col)
+  match_names2 <- gd_match_names2(d, map_name = map_name, col = col)
 
-  no_match <- match %>% filter(is.na(..gd_id)) %>% arrange(departamento)
+  match <- gd_match(d, map_name)
+  no_match <- gd_no_match(d, map_name)
+  codes <- gd_codes(map_name)
+
 
 })

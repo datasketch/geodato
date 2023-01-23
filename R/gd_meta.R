@@ -36,8 +36,21 @@ gd_altnames <- function(map_name){
 }
 
 #' @export
-gd_possiblenames <- function(map_name){
-  unique(str_clean(c(gd_codes(map_name)$name, gd_altnames(map_name)$altname)))
+gd_possiblenames <- function(map_name, with_parent = TRUE){
+  parent_possible_names <- NULL
+  if(with_parent){
+    parent <- gd_parent_map_name(map_name)
+    if(!is.null(parent)){
+      parent_possible_names <- c(gd_codes(parent)$name,
+                         gd_altnames(parent)$altname)
+    }
+  }
+  unique(str_clean(
+    c(gd_codes(map_name)$name,
+      gd_altnames(map_name)$altname,
+      parent_possible_names)
+    )
+  )
 }
 
 #' @export
@@ -55,6 +68,14 @@ gd_parent_map_name <- function(map_name){
 }
 
 #' @export
+gd_level <- function(map_name){
+  l <- geodato:::maps[[map_name]]
+  l$level
+}
+
+
+
+#' @export
 gd_id_format <- function(map_name){
   #validate_map_name(map_name)
   l <- geodato:::maps[[map_name]]
@@ -68,4 +89,11 @@ gd_tj <- function(map_name){
   l$tj
 }
 
+#' @export
+gd_centroids <- function(map_name){
+  l <- geodato:::maps[[map_name]]
+  ## OJOOOOO
+  d <- l$centroids |>
+    dplyr::mutate_at(c("lon", "lat"), as.numeric)
+}
 

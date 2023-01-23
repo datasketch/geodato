@@ -8,6 +8,7 @@ valid_geoids <-function(v, map_name){
 
   if(!is.null(gd_id_format(map_name))){
     # TODO INCLUDE FUNCTION TO VALIDATE DIFFERENT CODE IDS
+    if(is.character(v)) {v <- as.numeric(v)}
     v <- sprintf(l$id_format,v)
   }
   if(!any(v %in% codes$id))

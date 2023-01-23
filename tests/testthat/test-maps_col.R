@@ -16,4 +16,27 @@ test_that("Maps Col", {
 
 
 
+  ###
+
+  map_name <- "col_municipalities"
+
+  d <- dplyr::tribble(
+    ~ciudad,~value,
+    "Bogotá",1,
+    "Pasto",2,
+    "Buga",3
+  )
+  col <- "ciudad"
+  gd_match_names(d, map_name = map_name, col = col)
+
+
+  ###
+
+  map_name <- "col_municipalities"
+  d <- sample_data$col_municipalities$plebiscito_2016_municipios
+  d <- gd_match(d, map_name)
+
+
+
+
 })

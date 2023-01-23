@@ -21,6 +21,8 @@ map_name <- "col_municipalities"
 l <- gd_meta(map_name)
 
 
+#### OJO gd_centroids SE ESTÁ LEYENDO COMO CHR PARA LON LAT
+
 l <- map(dirs, purrr::safely(function(x){
   ## Read and validate metadata
   message(x)
@@ -33,7 +35,7 @@ message("maps = ", length(l))
 errors <- l %>% keep(~!is.null(.$error)) %>% map(~.$error)
 errors
 message("maps with errors = ", length(errors))
-
+message( paste0(paste0(" - ", names(errors)), collapse = "\n - "))
 
 maps <- l %>% keep(~!is.null(.$result))  %>% map(~.$result)
 pryr::object_size(maps)

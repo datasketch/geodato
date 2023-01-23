@@ -1,7 +1,8 @@
 label: Guatemala departaments
-centroids: gtm_municipalities-centroids.csv
-altids: 
-altnames: gtm_municipalities-altnames.csv
+centroids_file: gtm_municipalities-centroids.csv
+altids_file: 
+altnames_file: gtm_municipalities-altnames.csv
+level: ADM2
 regions: 
 parent_map_name: gtm_departments
 id_format: "%04d"

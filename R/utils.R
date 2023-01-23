@@ -19,6 +19,21 @@ leading_zeros <- function(x, n = 1){
 }
 
 
+
+
+#' @export
+parse_col <- function(d, col = NULL){
+  if(is.null(col)){
+    col <- names(d)[1]
+  }else{
+    if(is.numeric(col)) col <- names(d)[col]
+    if(!all(col %in% names(d)))
+      stop("Column not found in table")
+  }
+  col
+}
+
+
 rename_dotdot <- function(x){
   no_dotdot_idx <- !grepl("^\\.\\.gd", names(x))
   names(x)[no_dotdot_idx] <- paste0("..gd_", names(x)[no_dotdot_idx])

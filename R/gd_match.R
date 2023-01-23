@@ -1,10 +1,10 @@
 
 #' @export
-gd_match <- function(d, map_name, col = NULL){
+gd_match <- function(d, map_name, col = NULL, centroids = TRUE){
   if(is.null(d)) return(NULL)
   out <- NULL
   if(is.null(col)){
-    if(length(col == 2)) stop("TODO: auto match parent_geography")
+    #if(length(col == 2)) stop("TODO: auto match parent_geography")
     geocode_col <- which_geocode_col(d, map_name)
     if(!is.na(geocode_col)){
       # Guess first which is the geocode col
@@ -12,8 +12,13 @@ gd_match <- function(d, map_name, col = NULL){
     } else{
       # If none found try names
       geoname_col <- which_geoname_col(d, map_name)
-      if(!is.na(geoname_col)){
-        out <- gd_match_names(d, map_name = map_name, col = geoname_col)
+      if(!all(is.na(geoname_col))){
+        if(length(geoname_col) == 1){
+          out <- gd_match_names(d, map_name = map_name, col = geoname_col)
+        }
+        if(length(geoname_col) == 2){
+          out <- gd_match_names2(d, map_name = map_name, col = geoname_col)
+        }
       }
     }
   } else{
@@ -32,6 +37,14 @@ gd_match <- function(d, map_name, col = NULL){
     if(length(col) == 2){
       out <- gd_match_names2(d, map_name = map_name, col = col)
     }
+  }
+  if(centroids){
+    centroids <- gd_centroids(map_name) |>
+      dplyr::rename(..gd_id = id, ..gd_name = name)
+    if(all(c("zone", "zone_id") %in% names(centroids)))
+      centroids <- centroids |>
+        dplyr::rename(..gd_zone_id = zone_id, ..gd_zone = zone)
+    out <- out |> dplyr::left_join(centroids)
   }
   out
 }
@@ -86,6 +99,8 @@ gd_match_names <- function(d, map_name = NULL, col = NULL,
     if(!is.null(altnames)){
       altnames <- altnames %>% purrr::set_names(names(codes0)[1:2])
       codes <- dplyr::bind_rows(codes0, altnames)
+    }else{
+      codes <- codes0
     }
   }
 
@@ -119,7 +134,9 @@ gd_match_names2 <- function(d, map_name = NULL, col = NULL){
   # Add altnames if they exist
   altnames <- gd_altnames(map_name)
   if(!is.null(altnames)){
-    altnames <- altnames %>% purrr::set_names(names(codes0)[1:2])
+    ncols <- ncol(altnames)
+    altnames <- altnames %>%
+      purrr::set_names(names(codes0)[1:ncols])
     codes <- dplyr::bind_rows(codes0, altnames)
   } else{
     codes <- codes0
@@ -138,61 +155,16 @@ gd_match_names2 <- function(d, map_name = NULL, col = NULL){
     # message(parent)
     parent_gd_id <- d_parent_match$..gd_id[d_parent_match[[1]] == parent]
     parent_codes <- codes %>% dplyr::filter(..gd_zone_id == parent_gd_id)
-    gd_match_names(dd, map_name = map_name, codes = parent_codes)
+    gd_match_names(dd, map_name = map_name, col = col[1],codes = parent_codes)
   })
-  match <- l %>% dplyr::bind_rows()
-  dplyr::left_join(d, match, by = c(col, "value"))
-
+  l %>% dplyr::bind_rows()
 }
 
 
-parse_col <- function(d, col = NULL){
-  if(is.null(col)){
-    col <- names(d)[1]
-  }else{
-    if(is.numeric(col)) col <- names(d)[col]
-    if(!all(col %in% names(d)))
-      stop("Column not found in table")
-  }
-  col
-}
-
-which_geocode_col <- function(d, map_name){
-  x <- d |> dplyr::slice(1:50)
-  code_counts <- purrr::map_df(x, function(col){
-    sum(str_clean(col) %in% gd_codes(map_name)$id)
-  })
-  if(sum(code_counts) == 0) return(NA)
-  code_top_count <- code_counts |>
-    tidyr::pivot_longer(everything()) |>
-    dplyr::filter(value > 0) |>
-    dplyr::arrange(desc(value)) |>
-    dplyr::slice(1) |>
-    dplyr::pull(name)
-  code_top_count
-}
-
-which_geoname_col <- function(d, map_name){
-  x <- d |> dplyr::slice(1:50)
-  name_counts <- purrr::map_df(x, function(col){
-    sum(str_clean(col) %in% gd_possiblenames(map_name))
-  })
-  name_top_count <- name_counts |>
-    tidyr::pivot_longer(everything()) |>
-    dplyr::filter(value > 0) |>
-    dplyr::arrange(desc(value)) |>
-    dplyr::slice(1) |>
-    dplyr::pull(name)
-  name_top_count
-}
-
-is_code_or_name <- function(v, map_name){
-  v <- v[1:min(50,length(v))]
-  codes <- gd_codes(map_name)
-  n_codes <- sum(v %in% codes$id)
-  n_names <- sum(str_clean(v) %in% gd_possiblenames(map_name))
-  if(n_codes > n_names) return("code")
-  return("name")
+#' @export
+gd_no_match <- function(d, map_name, col = NULL){
+  match <- gd_match(d, map_name, col = col)
+  match %>% dplyr::filter(is.na(..gd_id))
 }
 
 

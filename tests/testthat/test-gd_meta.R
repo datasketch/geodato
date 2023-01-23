@@ -4,7 +4,7 @@ context("Metadata")
 
 test_that("All geofiles have the right metadata",{
 
-  l <- geodato::maps
+  l <- geodato:::maps
 
   # Required fields: centroids, topojson, tj
   purrr::walk(l, function(m){
@@ -21,6 +21,16 @@ test_that("All geofiles have the right metadata",{
 
   # Optional fields altnames, altids, regions
   # All regions have correct ids
+
+})
+
+
+
+test_that("Functions for extracting meta data work", {
+
+  map_name <- "col_departments"
+  tj <- gd_tj(map_name)
+  tj
 
 })
 

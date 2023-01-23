@@ -42,18 +42,20 @@ read_meta_path <- function(path){
   l$map_name <- map_name
 
   # Validate centroids
-  l$centroids <- read_csv(fs::path(path, l$centroids),
-                          col_types = cols(.default = "c"))
+  l$centroids <- read_csv(fs::path(path, l$centroids_file),
+                          col_types = cols(.default = "c",
+                                           lat = "n", lon = "n"))
   validate_centroids(l$centroids, map_name)
 
-  if(!is.null(l$parent_map_name))
+  if(!is.null(l$parent_map_name)){
     codes <- l$centroids %>% dplyr::select(id, name, zone, zone_id)
-  else
+  } else{
     codes <- l$centroids %>% dplyr::select(id, name)
+  }
 
   # Validate altnames
-  if(!is.null(l$altnames)){
-    l$altnames <- read_csv(fs::path(path, l$altnames),
+  if(!is.null(l$altnames_file)){
+    l$altnames <- read_csv(fs::path(path, l$altnames_file),
                            col_types = cols(.default = "c"))
     #validate_altnames(l$altnames, map_name)
     if(!all(c("id", "altname") %in% names(l$altnames)))
@@ -64,8 +66,8 @@ read_meta_path <- function(path){
       stop("Altnames colnames must be the same as centroids for: ", map_name)
   }
   # Validate altids
-  if(!is.null(l$altids)){
-    l$altids <- read_csv(fs::path(path, l$altids),
+  if(!is.null(l$altids_file)){
+    l$altids <- read_csv(fs::path(path, l$altids_file),
                          col_types = cols(.default = "c"))
     validate_altids(l$altids, map_name)
   }

@@ -1,23 +1,23 @@
-label: Guatemala departaments
-centroids: gtm_departments-centroids.csv
-altids: gtm_departments-altids.csv
-altnames: gtm_departments-altnames.csv
+label: World countries
+centroids_file: world_countries-centroids.csv
+altids_file: 
+altnames_file: world_countries-altnames.csv
 regions: 
-id_format: "%02d"
 topojson:
   scope: XXX
   geographyName: name
   geographyId: id
-  path: gtm_departments.topojson
+  path: world_countries.topojson
 projections:
   mercator:
+    name: mercator
     center: [-90.30, 16.22]
     rotate: [0, 0]
     scale: 5.5
     translate: [0,0]
   equirectangular:
+    name: mercator
     center: [-90.30, 16.22]
     rotate: [0, 0]
     scale: 5.5
     translate: [0,0]
-

@@ -1,6 +1,7 @@
 label: Bogotá Districts
-centroids: bog-localidades.csv
-altnames: 
+centroids_file: bog-localidades.csv
+altnames_file: 
+level: ADM3
 regions: 
 topojson:
   scope: localidades
