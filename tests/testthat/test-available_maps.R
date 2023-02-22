@@ -1,4 +1,5 @@
 test_that("Available maps", {
+  ## Available
 
   av_maps <- available_maps(type = "main")
   expect_equal(av_maps, names(geodato:::maps))
@@ -20,3 +21,18 @@ test_that("Available maps", {
 
 
 })
+
+test_that("Search works", {
+
+  q <- "col_muni"
+  search_maps(q, type = "main")
+
+  q <- "col_muni"
+  search_maps(q, type = "region")
+
+  q <- "europ"
+  search_maps(q)
+
+})
+
+

@@ -11,11 +11,10 @@ gd_meta <- function(map_name){
 gd_codes <- function(map_name){
   validate_map_name(map_name)
 
-  map_name_init <- map_name
-  map_name <- map_name_from_region(map_name)
-  region_filter_codes <- map_name_from_region_filter_codes(map_name_init)
+  map_name_main <- map_name_from_region(map_name)
+  region_filter_codes <- map_name_from_region_filter_codes(map_name)
 
-  l <- geodato:::maps[[map_name]]
+  l <- geodato:::maps[[map_name_main]]
   if(!is.null(l$parent_map_name)){
     codes <- l$centroids %>% dplyr::select(id, name, zone, zone_id)
   }else{
@@ -31,11 +30,10 @@ gd_codes <- function(map_name){
 gd_altnames <- function(map_name){
   #validate_map_name(map_name)
 
-  map_name_init <- map_name
-  map_name <- map_name_from_region(map_name)
-  region_filter_codes <- map_name_from_region_filter_codes(map_name_init)
+  map_name_main <- map_name_from_region(map_name)
+  region_filter_codes <- map_name_from_region_filter_codes(map_name)
 
-  l <- geodato:::maps[[map_name]]
+  l <- geodato:::maps[[map_name_main]]
   altnames <- l$altnames |>
     dplyr::filter(!is.na(id))
 
@@ -119,9 +117,18 @@ gd_id_format <- function(map_name){
 
 #' @export
 gd_tj <- function(map_name){
-  map_name <- map_name_from_region(map_name)
-  l <- geodato:::maps[[map_name]]
-  l$tj
+
+  map_name_main <- map_name_from_region(map_name)
+  region_filter_codes <- map_name_from_region_filter_codes(map_name)
+
+  l <- geodato:::maps[[map_name_main]]
+  tj <- l$tj
+
+  if(!is.null(region_filter_codes)){
+    tj <- tj |> dplyr::filter(id %in% region_filter_codes)
+  }
+  tj
+
 }
 
 #' @export

@@ -37,6 +37,11 @@ test_that("Match works",{
   no_match <- gd_no_match(d, map_name)
   expect_true("South Africa" %in% no_match$country)
 
+  tj <- gd_tj(map_name) # make sure tj returns the filtered region
+  expect_equal(nrow(tj), 6)
+
+
+
 })
 
 

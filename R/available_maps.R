@@ -1,4 +1,20 @@
 
+#' @export
+search_maps <- function(q, type = "all"){
+  # q <- "colombia"
+  maps_df <- geodato::available_maps_df
+  sel_type <- type
+  if(type == "main"){
+    maps_df <- maps_df |> dplyr::filter(type == sel_type)
+  }else if(type == "region"){
+    maps_df <- maps_df |> dplyr::filter(type == sel_type)
+  }
+  results <- maps_df |>
+    dplyr::filter(dplyr::if_any(dplyr::everything(), ~ grepl(q, .))) |>
+    dplyr::pull(map_name)
+  unname(results)
+
+}
 
 
 #' @export
@@ -18,7 +34,7 @@ available_maps <- function(type = "all"){
 
 #' @export
 available_region_maps <- function(map_name = NULL){
-  regs <- available_maps_df |>
+  regs <- geodato::available_maps_df |>
     dplyr::filter(type == "region") |>
     dplyr::pull(map_name)
   unname(regs)
@@ -50,7 +66,7 @@ map_name_from_region_filter_codes <- function(map_nm){
   }
   main_map <- map_type_info$main_map
   regs <- gd_regions(main_map) |>
-    filter(region_code == map_type_info$region)
+    dplyr::filter(region_code == map_type_info$region)
   regs$id
 }
 
