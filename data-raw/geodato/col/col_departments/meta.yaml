@@ -1,8 +1,9 @@
 label: Colombia departaments
 centroids_file: col-adm1-departments-centroids.csv
 altnames_file: col-adm1-departments-altnames.csv
+altids_file:
 level: ADM1
-regions: col-adm1-regions.csv
+regions_file: col-adm1-regions.csv
 id_format: "%02d"
 code_cols: ["cod_dane", "codigo", "dane"] 
 name_cols: ["depto", "dpto", "departamento"]

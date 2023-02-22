@@ -3,7 +3,7 @@ centroids_file: col-adm2-municipalities-centroids.csv
 altnames_file: col-adm2-municipalities-altnames.csv
 altids_file:
 level: ADM2
-regions: col-adm2-municipalities-regions.csv
+regions_file: col-adm2-municipalities-regions.csv
 parent_map_name: col_departments
 id_format: "%05d"
 topojson:

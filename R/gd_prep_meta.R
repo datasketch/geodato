@@ -71,6 +71,14 @@ read_meta_path <- function(path){
                          col_types = cols(.default = "c"))
     validate_altids(l$altids, map_name)
   }
+  # Get regions is they exist
+  if(!is.null(l$regions_file)){
+    l$regions <- read_csv(fs::path(path, l$regions_file),
+                         col_types = cols(.default = "c"))
+    validate_regions(l$regions, map_name)
+    l$region_codes <- unique(l$regions$region_code)
+  }
+
   # if(!is.null(l$parent_map_name)){
   #   geodato::validate_map_name(l$parent_map_name)
   # }

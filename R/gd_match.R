@@ -1,6 +1,9 @@
 
 #' @export
 gd_match <- function(d, map_name, col = NULL, centroids = TRUE){
+
+  validate_map_name(map_name)
+
   if(is.null(d)) return(NULL)
   out <- NULL
   if(is.null(col)){

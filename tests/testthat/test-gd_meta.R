@@ -22,6 +22,17 @@ test_that("All geofiles have the right metadata",{
   # Optional fields altnames, altids, regions
   # All regions have correct ids
 
+  # Required fields: centroids, topojson, tj
+  purrr::walk(l, function(m){
+    # m <- l[[3]]
+    message(m$map_name)
+    region_exists <- !is.null(m$regions)
+    if(region_exists){
+      regs <- gd_regions(m$map_name)
+      expect_true(all(c("region_code", "region_name", "id") %in% names(regs)))
+    }
+  })
+
 })
 
 
@@ -31,6 +42,15 @@ test_that("Functions for extracting meta data work", {
   map_name <- "col_departments"
   tj <- gd_tj(map_name)
   tj
+
+
+  available_maps_df
+  map_name <- "col_departments_amazonas"
+  codes <- gd_codes(map_name)
+  expect_equal(nrow(codes), 6)
+
+  an <- gd_altnames(map_name)
+  expect_true(all(an$id %in% codes$id))
 
 })
 

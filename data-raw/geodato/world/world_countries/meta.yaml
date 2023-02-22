@@ -1,8 +1,8 @@
 label: World countries
 centroids_file: world_countries-centroids.csv
-altids_file: 
 altnames_file: world_countries-altnames.csv
-regions: 
+altids_file: 
+regions_file: world_countries-regions.csv
 topojson:
   scope: XXX
   geographyName: name

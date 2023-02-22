@@ -1,0 +1,2903 @@
+region_code,region_name,id,name,region_custom_code,region_custom_code_source
+arab_world,Arab World,ARE,United Arab Emirates,ARB,worldbank
+arab_world,Arab World,BHR,Bahrain,ARB,worldbank
+arab_world,Arab World,COM,Comoros,ARB,worldbank
+arab_world,Arab World,DJI,Djibouti,ARB,worldbank
+arab_world,Arab World,DZA,Algeria,ARB,worldbank
+arab_world,Arab World,EGY,"Egypt, Arab Rep.",ARB,worldbank
+arab_world,Arab World,IRQ,Iraq,ARB,worldbank
+arab_world,Arab World,JOR,Jordan,ARB,worldbank
+arab_world,Arab World,KWT,Kuwait,ARB,worldbank
+arab_world,Arab World,LBN,Lebanon,ARB,worldbank
+arab_world,Arab World,LBY,Libya,ARB,worldbank
+arab_world,Arab World,MAR,Morocco,ARB,worldbank
+arab_world,Arab World,MRT,Mauritania,ARB,worldbank
+arab_world,Arab World,OMN,Oman,ARB,worldbank
+arab_world,Arab World,PSE,West Bank and Gaza,ARB,worldbank
+arab_world,Arab World,QAT,Qatar,ARB,worldbank
+arab_world,Arab World,SAU,Saudi Arabia,ARB,worldbank
+arab_world,Arab World,SDN,Sudan,ARB,worldbank
+arab_world,Arab World,SOM,Somalia,ARB,worldbank
+arab_world,Arab World,SYR,Syrian Arab Republic,ARB,worldbank
+arab_world,Arab World,TUN,Tunisia,ARB,worldbank
+arab_world,Arab World,YEM,"Yemen, Rep.",ARB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,BGR,Bulgaria,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,CZE,Czech Republic,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,EST,Estonia,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,HRV,Croatia,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,HUN,Hungary,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,LTU,Lithuania,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,LVA,Latvia,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,POL,Poland,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,ROU,Romania,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,SVK,Slovak Republic,CEB,worldbank
+central_europe_and_the_baltics,Central Europe and the Baltics,SVN,Slovenia,CEB,worldbank
+caribbean_small_states,Caribbean small states,ATG,Antigua and Barbuda,CSS,worldbank
+caribbean_small_states,Caribbean small states,BHS,"Bahamas, The",CSS,worldbank
+caribbean_small_states,Caribbean small states,BLZ,Belize,CSS,worldbank
+caribbean_small_states,Caribbean small states,BRB,Barbados,CSS,worldbank
+caribbean_small_states,Caribbean small states,DMA,Dominica,CSS,worldbank
+caribbean_small_states,Caribbean small states,GRD,Grenada,CSS,worldbank
+caribbean_small_states,Caribbean small states,GUY,Guyana,CSS,worldbank
+caribbean_small_states,Caribbean small states,JAM,Jamaica,CSS,worldbank
+caribbean_small_states,Caribbean small states,KNA,St. Kitts and Nevis,CSS,worldbank
+caribbean_small_states,Caribbean small states,LCA,St. Lucia,CSS,worldbank
+caribbean_small_states,Caribbean small states,SUR,Suriname,CSS,worldbank
+caribbean_small_states,Caribbean small states,TTO,Trinidad and Tobago,CSS,worldbank
+caribbean_small_states,Caribbean small states,VCT,St. Vincent and the Grenadines,CSS,worldbank
+early_demographic_dividend,Early-demographic dividend,ARG,Argentina,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,BGD,Bangladesh,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,BHR,Bahrain,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,BLZ,Belize,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,BOL,Bolivia,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,BTN,Bhutan,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,BWA,Botswana,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,CPV,Cabo Verde,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,DJI,Djibouti,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,DOM,Dominican Republic,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,DZA,Algeria,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,ECU,Ecuador,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,EGY,"Egypt, Arab Rep.",EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,ETH,Ethiopia,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,FSM,"Micronesia, Fed. Sts.",EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,GAB,Gabon,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,GHA,Ghana,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,GRD,Grenada,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,GTM,Guatemala,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,HND,Honduras,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,HTI,Haiti,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,IDN,Indonesia,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,IND,India,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,IRN,"Iran, Islamic Rep.",EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,ISR,Israel,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,JOR,Jordan,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,KHM,Cambodia,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,KIR,Kiribati,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,LAO,Lao PDR,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,LBY,Libya,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,LSO,Lesotho,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,MDV,Maldives,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,MEX,Mexico,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,MMR,Myanmar,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,NAM,Namibia,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,NIC,Nicaragua,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,NPL,Nepal,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,PAK,Pakistan,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,PAN,Panama,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,PER,Peru,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,PHL,Philippines,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,PNG,Papua New Guinea,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,PRY,Paraguay,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,PSE,West Bank and Gaza,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,RWA,Rwanda,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,SAU,Saudi Arabia,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,SLB,Solomon Islands,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,SLV,El Salvador,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,SUR,Suriname,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,SWZ,Eswatini,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,SYR,Syrian Arab Republic,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,TJK,Tajikistan,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,TKM,Turkmenistan,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,TON,Tonga,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,TUR,Türkiye,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,UZB,Uzbekistan,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,VEN,"Venezuela, RB",EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,VUT,Vanuatu,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,WSM,Samoa,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,YEM,"Yemen, Rep.",EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,ZAF,South Africa,EAR,worldbank
+early_demographic_dividend,Early-demographic dividend,ZWE,Zimbabwe,EAR,worldbank
+east_asia_pacific,East Asia & Pacific,ASM,American Samoa,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,AUS,Australia,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,BRN,Brunei Darussalam,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,CHN,China,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,FJI,Fiji,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,FSM,"Micronesia, Fed. Sts.",EAS,worldbank
+east_asia_pacific,East Asia & Pacific,GUM,Guam,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,HKG,"Hong Kong SAR, China",EAS,worldbank
+east_asia_pacific,East Asia & Pacific,IDN,Indonesia,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,JPN,Japan,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,KHM,Cambodia,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,KIR,Kiribati,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,KOR,"Korea, Rep.",EAS,worldbank
+east_asia_pacific,East Asia & Pacific,LAO,Lao PDR,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,MAC,"Macao SAR, China",EAS,worldbank
+east_asia_pacific,East Asia & Pacific,MHL,Marshall Islands,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,MMR,Myanmar,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,MNG,Mongolia,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,MNP,Northern Mariana Islands,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,MYS,Malaysia,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,NCL,New Caledonia,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,NRU,Nauru,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,NZL,New Zealand,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,PHL,Philippines,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,PLW,Palau,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,PNG,Papua New Guinea,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,PRK,"Korea, Dem. People's Rep.",EAS,worldbank
+east_asia_pacific,East Asia & Pacific,PYF,French Polynesia,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,SGP,Singapore,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,SLB,Solomon Islands,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,THA,Thailand,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,TLS,Timor-Leste,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,TON,Tonga,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,TUV,Tuvalu,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,TWN,"Taiwan, China",EAS,worldbank
+east_asia_pacific,East Asia & Pacific,VNM,Vietnam,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,VUT,Vanuatu,EAS,worldbank
+east_asia_pacific,East Asia & Pacific,WSM,Samoa,EAS,worldbank
+europe_central_asia,Europe & Central Asia,ALB,Albania,ECS,worldbank
+europe_central_asia,Europe & Central Asia,AND,Andorra,ECS,worldbank
+europe_central_asia,Europe & Central Asia,ARM,Armenia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,AUT,Austria,ECS,worldbank
+europe_central_asia,Europe & Central Asia,AZE,Azerbaijan,ECS,worldbank
+europe_central_asia,Europe & Central Asia,BEL,Belgium,ECS,worldbank
+europe_central_asia,Europe & Central Asia,BGR,Bulgaria,ECS,worldbank
+europe_central_asia,Europe & Central Asia,BIH,Bosnia and Herzegovina,ECS,worldbank
+europe_central_asia,Europe & Central Asia,BLR,Belarus,ECS,worldbank
+europe_central_asia,Europe & Central Asia,CHE,Switzerland,ECS,worldbank
+europe_central_asia,Europe & Central Asia,CHI,Channel Islands,ECS,worldbank
+europe_central_asia,Europe & Central Asia,CYP,Cyprus,ECS,worldbank
+europe_central_asia,Europe & Central Asia,CZE,Czech Republic,ECS,worldbank
+europe_central_asia,Europe & Central Asia,DEU,Germany,ECS,worldbank
+europe_central_asia,Europe & Central Asia,DNK,Denmark,ECS,worldbank
+europe_central_asia,Europe & Central Asia,ESP,Spain,ECS,worldbank
+europe_central_asia,Europe & Central Asia,EST,Estonia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,FIN,Finland,ECS,worldbank
+europe_central_asia,Europe & Central Asia,FRA,France,ECS,worldbank
+europe_central_asia,Europe & Central Asia,FRO,Faroe Islands,ECS,worldbank
+europe_central_asia,Europe & Central Asia,GBR,United Kingdom,ECS,worldbank
+europe_central_asia,Europe & Central Asia,GEO,Georgia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,GIB,Gibraltar,ECS,worldbank
+europe_central_asia,Europe & Central Asia,GRC,Greece,ECS,worldbank
+europe_central_asia,Europe & Central Asia,GRL,Greenland,ECS,worldbank
+europe_central_asia,Europe & Central Asia,HRV,Croatia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,HUN,Hungary,ECS,worldbank
+europe_central_asia,Europe & Central Asia,IMN,Isle of Man,ECS,worldbank
+europe_central_asia,Europe & Central Asia,IRL,Ireland,ECS,worldbank
+europe_central_asia,Europe & Central Asia,ISL,Iceland,ECS,worldbank
+europe_central_asia,Europe & Central Asia,ITA,Italy,ECS,worldbank
+europe_central_asia,Europe & Central Asia,KAZ,Kazakhstan,ECS,worldbank
+europe_central_asia,Europe & Central Asia,KGZ,Kyrgyz Republic,ECS,worldbank
+europe_central_asia,Europe & Central Asia,LIE,Liechtenstein,ECS,worldbank
+europe_central_asia,Europe & Central Asia,LTU,Lithuania,ECS,worldbank
+europe_central_asia,Europe & Central Asia,LUX,Luxembourg,ECS,worldbank
+europe_central_asia,Europe & Central Asia,LVA,Latvia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,MCO,Monaco,ECS,worldbank
+europe_central_asia,Europe & Central Asia,MDA,Moldova,ECS,worldbank
+europe_central_asia,Europe & Central Asia,MKD,North Macedonia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,MNE,Montenegro,ECS,worldbank
+europe_central_asia,Europe & Central Asia,NLD,Netherlands,ECS,worldbank
+europe_central_asia,Europe & Central Asia,NOR,Norway,ECS,worldbank
+europe_central_asia,Europe & Central Asia,POL,Poland,ECS,worldbank
+europe_central_asia,Europe & Central Asia,PRT,Portugal,ECS,worldbank
+europe_central_asia,Europe & Central Asia,ROU,Romania,ECS,worldbank
+europe_central_asia,Europe & Central Asia,RUS,Russian Federation,ECS,worldbank
+europe_central_asia,Europe & Central Asia,SMR,San Marino,ECS,worldbank
+europe_central_asia,Europe & Central Asia,SRB,Serbia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,SVK,Slovak Republic,ECS,worldbank
+europe_central_asia,Europe & Central Asia,SVN,Slovenia,ECS,worldbank
+europe_central_asia,Europe & Central Asia,SWE,Sweden,ECS,worldbank
+europe_central_asia,Europe & Central Asia,TJK,Tajikistan,ECS,worldbank
+europe_central_asia,Europe & Central Asia,TKM,Turkmenistan,ECS,worldbank
+europe_central_asia,Europe & Central Asia,TUR,Türkiye,ECS,worldbank
+europe_central_asia,Europe & Central Asia,UKR,Ukraine,ECS,worldbank
+europe_central_asia,Europe & Central Asia,UZB,Uzbekistan,ECS,worldbank
+europe_central_asia,Europe & Central Asia,XKX,Kosovo,ECS,worldbank
+euro_area,Euro area,AUT,Austria,EMU,worldbank
+euro_area,Euro area,BEL,Belgium,EMU,worldbank
+euro_area,Euro area,CYP,Cyprus,EMU,worldbank
+euro_area,Euro area,DEU,Germany,EMU,worldbank
+euro_area,Euro area,ESP,Spain,EMU,worldbank
+euro_area,Euro area,EST,Estonia,EMU,worldbank
+euro_area,Euro area,FIN,Finland,EMU,worldbank
+euro_area,Euro area,FRA,France,EMU,worldbank
+euro_area,Euro area,GRC,Greece,EMU,worldbank
+euro_area,Euro area,IRL,Ireland,EMU,worldbank
+euro_area,Euro area,ITA,Italy,EMU,worldbank
+euro_area,Euro area,LTU,Lithuania,EMU,worldbank
+euro_area,Euro area,LUX,Luxembourg,EMU,worldbank
+euro_area,Euro area,LVA,Latvia,EMU,worldbank
+euro_area,Euro area,MLT,Malta,EMU,worldbank
+euro_area,Euro area,NLD,Netherlands,EMU,worldbank
+euro_area,Euro area,PRT,Portugal,EMU,worldbank
+euro_area,Euro area,SVK,Slovak Republic,EMU,worldbank
+euro_area,Euro area,SVN,Slovenia,EMU,worldbank
+european_union,European Union,AUT,Austria,EUU,worldbank
+european_union,European Union,BEL,Belgium,EUU,worldbank
+european_union,European Union,BGR,Bulgaria,EUU,worldbank
+european_union,European Union,CYP,Cyprus,EUU,worldbank
+european_union,European Union,CZE,Czech Republic,EUU,worldbank
+european_union,European Union,DEU,Germany,EUU,worldbank
+european_union,European Union,DNK,Denmark,EUU,worldbank
+european_union,European Union,ESP,Spain,EUU,worldbank
+european_union,European Union,EST,Estonia,EUU,worldbank
+european_union,European Union,FIN,Finland,EUU,worldbank
+european_union,European Union,FRA,France,EUU,worldbank
+european_union,European Union,GRC,Greece,EUU,worldbank
+european_union,European Union,HRV,Croatia,EUU,worldbank
+european_union,European Union,HUN,Hungary,EUU,worldbank
+european_union,European Union,IRL,Ireland,EUU,worldbank
+european_union,European Union,ITA,Italy,EUU,worldbank
+european_union,European Union,LTU,Lithuania,EUU,worldbank
+european_union,European Union,LUX,Luxembourg,EUU,worldbank
+european_union,European Union,LVA,Latvia,EUU,worldbank
+european_union,European Union,MLT,Malta,EUU,worldbank
+european_union,European Union,NLD,Netherlands,EUU,worldbank
+european_union,European Union,POL,Poland,EUU,worldbank
+european_union,European Union,PRT,Portugal,EUU,worldbank
+european_union,European Union,ROU,Romania,EUU,worldbank
+european_union,European Union,SVK,Slovak Republic,EUU,worldbank
+european_union,European Union,SVN,Slovenia,EUU,worldbank
+european_union,European Union,SWE,Sweden,EUU,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),AFG,Afghanistan,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),BDI,Burundi,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),BEN,Benin,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),BFA,Burkina Faso,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),BOL,Bolivia,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),CAF,Central African Republic,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),CIV,Côte d’Ivoire,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),CMR,Cameroon,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),COD,"Congo, Dem. Rep.",HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),COG,"Congo, Rep.",HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),COM,Comoros,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),ERI,Eritrea,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),ETH,Ethiopia,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),GHA,Ghana,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),GIN,Guinea,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),GMB,"Gambia, The",HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),GNB,Guinea-Bissau,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),GUY,Guyana,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),HND,Honduras,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),HTI,Haiti,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),LBR,Liberia,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),MDG,Madagascar,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),MLI,Mali,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),MOZ,Mozambique,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),MRT,Mauritania,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),MWI,Malawi,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),NER,Niger,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),NIC,Nicaragua,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),RWA,Rwanda,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),SDN,Sudan,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),SEN,Senegal,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),SLE,Sierra Leone,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),SOM,Somalia,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),STP,São Tomé and Príncipe,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),TCD,Chad,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),TGO,Togo,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),TZA,Tanzania,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),UGA,Uganda,HPC,worldbank
+heavily_indebted_poor_countries_hipc,Heavily indebted poor countries (HIPC),ZMB,Zambia,HPC,worldbank
+ibrd_only,IBRD only,AGO,Angola,IBD,worldbank
+ibrd_only,IBRD only,ALB,Albania,IBD,worldbank
+ibrd_only,IBRD only,ARG,Argentina,IBD,worldbank
+ibrd_only,IBRD only,ARM,Armenia,IBD,worldbank
+ibrd_only,IBRD only,ATG,Antigua and Barbuda,IBD,worldbank
+ibrd_only,IBRD only,AZE,Azerbaijan,IBD,worldbank
+ibrd_only,IBRD only,BGR,Bulgaria,IBD,worldbank
+ibrd_only,IBRD only,BIH,Bosnia and Herzegovina,IBD,worldbank
+ibrd_only,IBRD only,BLR,Belarus,IBD,worldbank
+ibrd_only,IBRD only,BLZ,Belize,IBD,worldbank
+ibrd_only,IBRD only,BOL,Bolivia,IBD,worldbank
+ibrd_only,IBRD only,BRA,Brazil,IBD,worldbank
+ibrd_only,IBRD only,BWA,Botswana,IBD,worldbank
+ibrd_only,IBRD only,CHL,Chile,IBD,worldbank
+ibrd_only,IBRD only,CHN,China,IBD,worldbank
+ibrd_only,IBRD only,COL,Colombia,IBD,worldbank
+ibrd_only,IBRD only,CRI,Costa Rica,IBD,worldbank
+ibrd_only,IBRD only,DOM,Dominican Republic,IBD,worldbank
+ibrd_only,IBRD only,DZA,Algeria,IBD,worldbank
+ibrd_only,IBRD only,ECU,Ecuador,IBD,worldbank
+ibrd_only,IBRD only,EGY,"Egypt, Arab Rep.",IBD,worldbank
+ibrd_only,IBRD only,GAB,Gabon,IBD,worldbank
+ibrd_only,IBRD only,GEO,Georgia,IBD,worldbank
+ibrd_only,IBRD only,GNQ,Equatorial Guinea,IBD,worldbank
+ibrd_only,IBRD only,GTM,Guatemala,IBD,worldbank
+ibrd_only,IBRD only,HRV,Croatia,IBD,worldbank
+ibrd_only,IBRD only,IDN,Indonesia,IBD,worldbank
+ibrd_only,IBRD only,IND,India,IBD,worldbank
+ibrd_only,IBRD only,IRN,"Iran, Islamic Rep.",IBD,worldbank
+ibrd_only,IBRD only,IRQ,Iraq,IBD,worldbank
+ibrd_only,IBRD only,JAM,Jamaica,IBD,worldbank
+ibrd_only,IBRD only,JOR,Jordan,IBD,worldbank
+ibrd_only,IBRD only,KAZ,Kazakhstan,IBD,worldbank
+ibrd_only,IBRD only,KNA,St. Kitts and Nevis,IBD,worldbank
+ibrd_only,IBRD only,LBN,Lebanon,IBD,worldbank
+ibrd_only,IBRD only,LBY,Libya,IBD,worldbank
+ibrd_only,IBRD only,LKA,Sri Lanka,IBD,worldbank
+ibrd_only,IBRD only,MAR,Morocco,IBD,worldbank
+ibrd_only,IBRD only,MDA,Moldova,IBD,worldbank
+ibrd_only,IBRD only,MEX,Mexico,IBD,worldbank
+ibrd_only,IBRD only,MKD,North Macedonia,IBD,worldbank
+ibrd_only,IBRD only,MNE,Montenegro,IBD,worldbank
+ibrd_only,IBRD only,MNG,Mongolia,IBD,worldbank
+ibrd_only,IBRD only,MUS,Mauritius,IBD,worldbank
+ibrd_only,IBRD only,MYS,Malaysia,IBD,worldbank
+ibrd_only,IBRD only,NAM,Namibia,IBD,worldbank
+ibrd_only,IBRD only,NRU,Nauru,IBD,worldbank
+ibrd_only,IBRD only,PAN,Panama,IBD,worldbank
+ibrd_only,IBRD only,PER,Peru,IBD,worldbank
+ibrd_only,IBRD only,PHL,Philippines,IBD,worldbank
+ibrd_only,IBRD only,PLW,Palau,IBD,worldbank
+ibrd_only,IBRD only,POL,Poland,IBD,worldbank
+ibrd_only,IBRD only,PRY,Paraguay,IBD,worldbank
+ibrd_only,IBRD only,ROU,Romania,IBD,worldbank
+ibrd_only,IBRD only,RUS,Russian Federation,IBD,worldbank
+ibrd_only,IBRD only,SLV,El Salvador,IBD,worldbank
+ibrd_only,IBRD only,SRB,Serbia,IBD,worldbank
+ibrd_only,IBRD only,SUR,Suriname,IBD,worldbank
+ibrd_only,IBRD only,SWZ,Eswatini,IBD,worldbank
+ibrd_only,IBRD only,SYC,Seychelles,IBD,worldbank
+ibrd_only,IBRD only,THA,Thailand,IBD,worldbank
+ibrd_only,IBRD only,TKM,Turkmenistan,IBD,worldbank
+ibrd_only,IBRD only,TTO,Trinidad and Tobago,IBD,worldbank
+ibrd_only,IBRD only,TUN,Tunisia,IBD,worldbank
+ibrd_only,IBRD only,TUR,Türkiye,IBD,worldbank
+ibrd_only,IBRD only,UKR,Ukraine,IBD,worldbank
+ibrd_only,IBRD only,URY,Uruguay,IBD,worldbank
+ibrd_only,IBRD only,VEN,"Venezuela, RB",IBD,worldbank
+ibrd_only,IBRD only,VNM,Vietnam,IBD,worldbank
+ibrd_only,IBRD only,ZAF,South Africa,IBD,worldbank
+ida_ibrd_total,IDA & IBRD total,AFG,Afghanistan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,AGO,Angola,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ALB,Albania,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ARG,Argentina,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ARM,Armenia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ATG,Antigua and Barbuda,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,AZE,Azerbaijan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BDI,Burundi,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BEN,Benin,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BFA,Burkina Faso,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BGD,Bangladesh,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BGR,Bulgaria,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BIH,Bosnia and Herzegovina,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BLR,Belarus,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BLZ,Belize,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BOL,Bolivia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BRA,Brazil,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BTN,Bhutan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,BWA,Botswana,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,CAF,Central African Republic,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,CHL,Chile,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,CHN,China,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,CIV,Côte d’Ivoire,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,CMR,Cameroon,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,COD,"Congo, Dem. Rep.",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,COG,"Congo, Rep.",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,COL,Colombia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,COM,Comoros,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,CPV,Cabo Verde,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,CRI,Costa Rica,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,DJI,Djibouti,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,DMA,Dominica,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,DOM,Dominican Republic,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,DZA,Algeria,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ECU,Ecuador,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,EGY,"Egypt, Arab Rep.",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ERI,Eritrea,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ETH,Ethiopia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,FJI,Fiji,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,FSM,"Micronesia, Fed. Sts.",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GAB,Gabon,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GEO,Georgia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GHA,Ghana,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GIN,Guinea,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GMB,"Gambia, The",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GNB,Guinea-Bissau,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GNQ,Equatorial Guinea,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GRD,Grenada,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GTM,Guatemala,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,GUY,Guyana,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,HND,Honduras,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,HRV,Croatia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,HTI,Haiti,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,IDN,Indonesia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,IND,India,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,IRN,"Iran, Islamic Rep.",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,IRQ,Iraq,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,JAM,Jamaica,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,JOR,Jordan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,KAZ,Kazakhstan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,KEN,Kenya,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,KGZ,Kyrgyz Republic,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,KHM,Cambodia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,KIR,Kiribati,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,KNA,St. Kitts and Nevis,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,LAO,Lao PDR,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,LBN,Lebanon,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,LBR,Liberia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,LBY,Libya,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,LCA,St. Lucia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,LKA,Sri Lanka,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,LSO,Lesotho,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MAR,Morocco,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MDA,Moldova,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MDG,Madagascar,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MDV,Maldives,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MEX,Mexico,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MHL,Marshall Islands,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MKD,North Macedonia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MLI,Mali,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MMR,Myanmar,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MNE,Montenegro,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MNG,Mongolia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MOZ,Mozambique,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MRT,Mauritania,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MUS,Mauritius,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MWI,Malawi,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,MYS,Malaysia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,NAM,Namibia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,NER,Niger,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,NGA,Nigeria,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,NIC,Nicaragua,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,NPL,Nepal,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,NRU,Nauru,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,PAK,Pakistan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,PAN,Panama,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,PER,Peru,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,PHL,Philippines,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,PLW,Palau,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,PNG,Papua New Guinea,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,POL,Poland,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,PRY,Paraguay,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ROU,Romania,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,RUS,Russian Federation,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,RWA,Rwanda,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SDN,Sudan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SEN,Senegal,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SLB,Solomon Islands,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SLE,Sierra Leone,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SLV,El Salvador,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SOM,Somalia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SRB,Serbia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SSD,South Sudan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,STP,São Tomé and Príncipe,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SUR,Suriname,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SWZ,Eswatini,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SYC,Seychelles,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,SYR,Syrian Arab Republic,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TCD,Chad,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TGO,Togo,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,THA,Thailand,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TJK,Tajikistan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TKM,Turkmenistan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TLS,Timor-Leste,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TON,Tonga,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TTO,Trinidad and Tobago,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TUN,Tunisia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TUR,Türkiye,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TUV,Tuvalu,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,TZA,Tanzania,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,UGA,Uganda,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,UKR,Ukraine,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,URY,Uruguay,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,UZB,Uzbekistan,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,VCT,St. Vincent and the Grenadines,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,VEN,"Venezuela, RB",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,VNM,Vietnam,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,VUT,Vanuatu,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,WSM,Samoa,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,XKX,Kosovo,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,YEM,"Yemen, Rep.",IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ZAF,South Africa,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ZMB,Zambia,IBT,worldbank
+ida_ibrd_total,IDA & IBRD total,ZWE,Zimbabwe,IBT,worldbank
+ida_total,IDA total,AFG,Afghanistan,IDA,worldbank
+ida_total,IDA total,BDI,Burundi,IDA,worldbank
+ida_total,IDA total,BEN,Benin,IDA,worldbank
+ida_total,IDA total,BFA,Burkina Faso,IDA,worldbank
+ida_total,IDA total,BGD,Bangladesh,IDA,worldbank
+ida_total,IDA total,BTN,Bhutan,IDA,worldbank
+ida_total,IDA total,CAF,Central African Republic,IDA,worldbank
+ida_total,IDA total,CIV,Côte d’Ivoire,IDA,worldbank
+ida_total,IDA total,CMR,Cameroon,IDA,worldbank
+ida_total,IDA total,COD,"Congo, Dem. Rep.",IDA,worldbank
+ida_total,IDA total,COG,"Congo, Rep.",IDA,worldbank
+ida_total,IDA total,COM,Comoros,IDA,worldbank
+ida_total,IDA total,CPV,Cabo Verde,IDA,worldbank
+ida_total,IDA total,DJI,Djibouti,IDA,worldbank
+ida_total,IDA total,DMA,Dominica,IDA,worldbank
+ida_total,IDA total,ERI,Eritrea,IDA,worldbank
+ida_total,IDA total,ETH,Ethiopia,IDA,worldbank
+ida_total,IDA total,FJI,Fiji,IDA,worldbank
+ida_total,IDA total,FSM,"Micronesia, Fed. Sts.",IDA,worldbank
+ida_total,IDA total,GHA,Ghana,IDA,worldbank
+ida_total,IDA total,GIN,Guinea,IDA,worldbank
+ida_total,IDA total,GMB,"Gambia, The",IDA,worldbank
+ida_total,IDA total,GNB,Guinea-Bissau,IDA,worldbank
+ida_total,IDA total,GRD,Grenada,IDA,worldbank
+ida_total,IDA total,GUY,Guyana,IDA,worldbank
+ida_total,IDA total,HND,Honduras,IDA,worldbank
+ida_total,IDA total,HTI,Haiti,IDA,worldbank
+ida_total,IDA total,KEN,Kenya,IDA,worldbank
+ida_total,IDA total,KGZ,Kyrgyz Republic,IDA,worldbank
+ida_total,IDA total,KHM,Cambodia,IDA,worldbank
+ida_total,IDA total,KIR,Kiribati,IDA,worldbank
+ida_total,IDA total,LAO,Lao PDR,IDA,worldbank
+ida_total,IDA total,LBR,Liberia,IDA,worldbank
+ida_total,IDA total,LCA,St. Lucia,IDA,worldbank
+ida_total,IDA total,LSO,Lesotho,IDA,worldbank
+ida_total,IDA total,MDG,Madagascar,IDA,worldbank
+ida_total,IDA total,MDV,Maldives,IDA,worldbank
+ida_total,IDA total,MHL,Marshall Islands,IDA,worldbank
+ida_total,IDA total,MLI,Mali,IDA,worldbank
+ida_total,IDA total,MMR,Myanmar,IDA,worldbank
+ida_total,IDA total,MOZ,Mozambique,IDA,worldbank
+ida_total,IDA total,MRT,Mauritania,IDA,worldbank
+ida_total,IDA total,MWI,Malawi,IDA,worldbank
+ida_total,IDA total,NER,Niger,IDA,worldbank
+ida_total,IDA total,NGA,Nigeria,IDA,worldbank
+ida_total,IDA total,NIC,Nicaragua,IDA,worldbank
+ida_total,IDA total,NPL,Nepal,IDA,worldbank
+ida_total,IDA total,PAK,Pakistan,IDA,worldbank
+ida_total,IDA total,PNG,Papua New Guinea,IDA,worldbank
+ida_total,IDA total,RWA,Rwanda,IDA,worldbank
+ida_total,IDA total,SDN,Sudan,IDA,worldbank
+ida_total,IDA total,SEN,Senegal,IDA,worldbank
+ida_total,IDA total,SLB,Solomon Islands,IDA,worldbank
+ida_total,IDA total,SLE,Sierra Leone,IDA,worldbank
+ida_total,IDA total,SOM,Somalia,IDA,worldbank
+ida_total,IDA total,SSD,South Sudan,IDA,worldbank
+ida_total,IDA total,STP,São Tomé and Príncipe,IDA,worldbank
+ida_total,IDA total,SYR,Syrian Arab Republic,IDA,worldbank
+ida_total,IDA total,TCD,Chad,IDA,worldbank
+ida_total,IDA total,TGO,Togo,IDA,worldbank
+ida_total,IDA total,TJK,Tajikistan,IDA,worldbank
+ida_total,IDA total,TLS,Timor-Leste,IDA,worldbank
+ida_total,IDA total,TON,Tonga,IDA,worldbank
+ida_total,IDA total,TUV,Tuvalu,IDA,worldbank
+ida_total,IDA total,TZA,Tanzania,IDA,worldbank
+ida_total,IDA total,UGA,Uganda,IDA,worldbank
+ida_total,IDA total,UZB,Uzbekistan,IDA,worldbank
+ida_total,IDA total,VCT,St. Vincent and the Grenadines,IDA,worldbank
+ida_total,IDA total,VUT,Vanuatu,IDA,worldbank
+ida_total,IDA total,WSM,Samoa,IDA,worldbank
+ida_total,IDA total,XKX,Kosovo,IDA,worldbank
+ida_total,IDA total,YEM,"Yemen, Rep.",IDA,worldbank
+ida_total,IDA total,ZMB,Zambia,IDA,worldbank
+ida_total,IDA total,ZWE,Zimbabwe,IDA,worldbank
+ida_blend,IDA blend,CMR,Cameroon,IDB,worldbank
+ida_blend,IDA blend,COG,"Congo, Rep.",IDB,worldbank
+ida_blend,IDA blend,CPV,Cabo Verde,IDB,worldbank
+ida_blend,IDA blend,DMA,Dominica,IDB,worldbank
+ida_blend,IDA blend,FJI,Fiji,IDB,worldbank
+ida_blend,IDA blend,GRD,Grenada,IDB,worldbank
+ida_blend,IDA blend,KEN,Kenya,IDB,worldbank
+ida_blend,IDA blend,LCA,St. Lucia,IDB,worldbank
+ida_blend,IDA blend,NGA,Nigeria,IDB,worldbank
+ida_blend,IDA blend,PAK,Pakistan,IDB,worldbank
+ida_blend,IDA blend,PNG,Papua New Guinea,IDB,worldbank
+ida_blend,IDA blend,TLS,Timor-Leste,IDB,worldbank
+ida_blend,IDA blend,UZB,Uzbekistan,IDB,worldbank
+ida_blend,IDA blend,VCT,St. Vincent and the Grenadines,IDB,worldbank
+ida_blend,IDA blend,ZWE,Zimbabwe,IDB,worldbank
+ida_only,IDA only,AFG,Afghanistan,IDX,worldbank
+ida_only,IDA only,BDI,Burundi,IDX,worldbank
+ida_only,IDA only,BEN,Benin,IDX,worldbank
+ida_only,IDA only,BFA,Burkina Faso,IDX,worldbank
+ida_only,IDA only,BGD,Bangladesh,IDX,worldbank
+ida_only,IDA only,BTN,Bhutan,IDX,worldbank
+ida_only,IDA only,CAF,Central African Republic,IDX,worldbank
+ida_only,IDA only,CIV,Côte d’Ivoire,IDX,worldbank
+ida_only,IDA only,COD,"Congo, Dem. Rep.",IDX,worldbank
+ida_only,IDA only,COM,Comoros,IDX,worldbank
+ida_only,IDA only,DJI,Djibouti,IDX,worldbank
+ida_only,IDA only,ERI,Eritrea,IDX,worldbank
+ida_only,IDA only,ETH,Ethiopia,IDX,worldbank
+ida_only,IDA only,FSM,"Micronesia, Fed. Sts.",IDX,worldbank
+ida_only,IDA only,GHA,Ghana,IDX,worldbank
+ida_only,IDA only,GIN,Guinea,IDX,worldbank
+ida_only,IDA only,GMB,"Gambia, The",IDX,worldbank
+ida_only,IDA only,GNB,Guinea-Bissau,IDX,worldbank
+ida_only,IDA only,GUY,Guyana,IDX,worldbank
+ida_only,IDA only,HND,Honduras,IDX,worldbank
+ida_only,IDA only,HTI,Haiti,IDX,worldbank
+ida_only,IDA only,KGZ,Kyrgyz Republic,IDX,worldbank
+ida_only,IDA only,KHM,Cambodia,IDX,worldbank
+ida_only,IDA only,KIR,Kiribati,IDX,worldbank
+ida_only,IDA only,LAO,Lao PDR,IDX,worldbank
+ida_only,IDA only,LBR,Liberia,IDX,worldbank
+ida_only,IDA only,LSO,Lesotho,IDX,worldbank
+ida_only,IDA only,MDG,Madagascar,IDX,worldbank
+ida_only,IDA only,MDV,Maldives,IDX,worldbank
+ida_only,IDA only,MHL,Marshall Islands,IDX,worldbank
+ida_only,IDA only,MLI,Mali,IDX,worldbank
+ida_only,IDA only,MMR,Myanmar,IDX,worldbank
+ida_only,IDA only,MOZ,Mozambique,IDX,worldbank
+ida_only,IDA only,MRT,Mauritania,IDX,worldbank
+ida_only,IDA only,MWI,Malawi,IDX,worldbank
+ida_only,IDA only,NER,Niger,IDX,worldbank
+ida_only,IDA only,NIC,Nicaragua,IDX,worldbank
+ida_only,IDA only,NPL,Nepal,IDX,worldbank
+ida_only,IDA only,RWA,Rwanda,IDX,worldbank
+ida_only,IDA only,SDN,Sudan,IDX,worldbank
+ida_only,IDA only,SEN,Senegal,IDX,worldbank
+ida_only,IDA only,SLB,Solomon Islands,IDX,worldbank
+ida_only,IDA only,SLE,Sierra Leone,IDX,worldbank
+ida_only,IDA only,SOM,Somalia,IDX,worldbank
+ida_only,IDA only,SSD,South Sudan,IDX,worldbank
+ida_only,IDA only,STP,São Tomé and Príncipe,IDX,worldbank
+ida_only,IDA only,SYR,Syrian Arab Republic,IDX,worldbank
+ida_only,IDA only,TCD,Chad,IDX,worldbank
+ida_only,IDA only,TGO,Togo,IDX,worldbank
+ida_only,IDA only,TJK,Tajikistan,IDX,worldbank
+ida_only,IDA only,TON,Tonga,IDX,worldbank
+ida_only,IDA only,TUV,Tuvalu,IDX,worldbank
+ida_only,IDA only,TZA,Tanzania,IDX,worldbank
+ida_only,IDA only,UGA,Uganda,IDX,worldbank
+ida_only,IDA only,VUT,Vanuatu,IDX,worldbank
+ida_only,IDA only,WSM,Samoa,IDX,worldbank
+ida_only,IDA only,XKX,Kosovo,IDX,worldbank
+ida_only,IDA only,YEM,"Yemen, Rep.",IDX,worldbank
+ida_only,IDA only,ZMB,Zambia,IDX,worldbank
+latin_america_caribbean,Latin America & Caribbean,ABW,Aruba,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,ARG,Argentina,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,ATG,Antigua and Barbuda,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,BHS,"Bahamas, The",LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,BLZ,Belize,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,BOL,Bolivia,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,BRA,Brazil,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,BRB,Barbados,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,CHL,Chile,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,COL,Colombia,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,CRI,Costa Rica,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,CUB,Cuba,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,CUW,Curacao,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,CYM,Cayman Islands,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,DMA,Dominica,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,DOM,Dominican Republic,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,ECU,Ecuador,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,GRD,Grenada,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,GTM,Guatemala,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,GUY,Guyana,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,HND,Honduras,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,HTI,Haiti,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,JAM,Jamaica,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,KNA,St. Kitts and Nevis,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,LCA,St. Lucia,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,MAF,St. Martin (French part),LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,MEX,Mexico,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,NIC,Nicaragua,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,PAN,Panama,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,PER,Peru,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,PRI,Puerto Rico,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,PRY,Paraguay,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,SLV,El Salvador,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,SUR,Suriname,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,SXM,Sint Maarten (Dutch part),LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,TCA,Turks and Caicos Islands,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,TTO,Trinidad and Tobago,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,URY,Uruguay,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,VCT,St. Vincent and the Grenadines,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,VEN,"Venezuela, RB",LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,VGB,British Virgin Islands,LCN,worldbank
+latin_america_caribbean,Latin America & Caribbean,VIR,Virgin Islands (U.S.),LCN,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,AFG,Afghanistan,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,AGO,Angola,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,BDI,Burundi,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,BEN,Benin,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,BFA,Burkina Faso,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,BGD,Bangladesh,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,BTN,Bhutan,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,CAF,Central African Republic,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,COD,"Congo, Dem. Rep.",LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,COM,Comoros,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,DJI,Djibouti,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,ERI,Eritrea,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,ETH,Ethiopia,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,GIN,Guinea,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,GMB,"Gambia, The",LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,GNB,Guinea-Bissau,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,HTI,Haiti,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,KHM,Cambodia,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,KIR,Kiribati,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,LAO,Lao PDR,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,LBR,Liberia,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,LSO,Lesotho,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,MDG,Madagascar,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,MLI,Mali,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,MMR,Myanmar,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,MOZ,Mozambique,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,MRT,Mauritania,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,MWI,Malawi,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,NER,Niger,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,NPL,Nepal,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,RWA,Rwanda,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,SDN,Sudan,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,SEN,Senegal,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,SLB,Solomon Islands,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,SLE,Sierra Leone,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,SOM,Somalia,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,SSD,South Sudan,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,STP,São Tomé and Príncipe,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,TCD,Chad,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,TGO,Togo,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,TLS,Timor-Leste,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,TUV,Tuvalu,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,TZA,Tanzania,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,UGA,Uganda,LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,YEM,"Yemen, Rep.",LDC,worldbank
+least_developed_countries_un_classification,Least developed countries: UN classification,ZMB,Zambia,LDC,worldbank
+late_demographic_dividend,Late-demographic dividend,ABW,Aruba,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,ALB,Albania,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,ARE,United Arab Emirates,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,ARM,Armenia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,AZE,Azerbaijan,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,BHS,"Bahamas, The",LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,BRA,Brazil,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,BRN,Brunei Darussalam,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,CHL,Chile,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,CHN,China,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,COL,Colombia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,CRI,Costa Rica,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,CYP,Cyprus,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,EST,Estonia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,FJI,Fiji,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,GEO,Georgia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,GUM,Guam,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,GUY,Guyana,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,IRL,Ireland,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,ISL,Iceland,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,JAM,Jamaica,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,KAZ,Kazakhstan,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,KGZ,Kyrgyz Republic,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,KWT,Kuwait,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,LBN,Lebanon,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,LCA,St. Lucia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,LKA,Sri Lanka,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,LVA,Latvia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,MAR,Morocco,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,MDA,Moldova,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,MKD,North Macedonia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,MNE,Montenegro,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,MNG,Mongolia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,MUS,Mauritius,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,MYS,Malaysia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,NCL,New Caledonia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,OMN,Oman,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,POL,Poland,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,PRI,Puerto Rico,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,PRK,"Korea, Dem. People's Rep.",LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,PYF,French Polynesia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,QAT,Qatar,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,ROU,Romania,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,RUS,Russian Federation,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,SRB,Serbia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,SVK,Slovak Republic,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,SYC,Seychelles,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,THA,Thailand,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,TTO,Trinidad and Tobago,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,TUN,Tunisia,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,URY,Uruguay,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,VCT,St. Vincent and the Grenadines,LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,VIR,Virgin Islands (U.S.),LTE,worldbank
+late_demographic_dividend,Late-demographic dividend,VNM,Vietnam,LTE,worldbank
+middle_east_north_africa,Middle East & North Africa,ARE,United Arab Emirates,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,BHR,Bahrain,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,DJI,Djibouti,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,DZA,Algeria,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,EGY,"Egypt, Arab Rep.",MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,IRN,"Iran, Islamic Rep.",MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,IRQ,Iraq,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,ISR,Israel,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,JOR,Jordan,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,KWT,Kuwait,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,LBN,Lebanon,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,LBY,Libya,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,MAR,Morocco,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,MLT,Malta,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,OMN,Oman,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,PSE,West Bank and Gaza,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,QAT,Qatar,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,SAU,Saudi Arabia,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,SYR,Syrian Arab Republic,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,TUN,Tunisia,MEA,worldbank
+middle_east_north_africa,Middle East & North Africa,YEM,"Yemen, Rep.",MEA,worldbank
+north_america,North America,BMU,Bermuda,NAC,worldbank
+north_america,North America,CAN,Canada,NAC,worldbank
+north_america,North America,USA,United States,NAC,worldbank
+oecd_members,OECD members,AUS,Australia,OED,worldbank
+oecd_members,OECD members,AUT,Austria,OED,worldbank
+oecd_members,OECD members,BEL,Belgium,OED,worldbank
+oecd_members,OECD members,CAN,Canada,OED,worldbank
+oecd_members,OECD members,CHE,Switzerland,OED,worldbank
+oecd_members,OECD members,CHL,Chile,OED,worldbank
+oecd_members,OECD members,COL,Colombia,OED,worldbank
+oecd_members,OECD members,CZE,Czech Republic,OED,worldbank
+oecd_members,OECD members,DEU,Germany,OED,worldbank
+oecd_members,OECD members,DNK,Denmark,OED,worldbank
+oecd_members,OECD members,ESP,Spain,OED,worldbank
+oecd_members,OECD members,EST,Estonia,OED,worldbank
+oecd_members,OECD members,FIN,Finland,OED,worldbank
+oecd_members,OECD members,FRA,France,OED,worldbank
+oecd_members,OECD members,GBR,United Kingdom,OED,worldbank
+oecd_members,OECD members,GRC,Greece,OED,worldbank
+oecd_members,OECD members,HUN,Hungary,OED,worldbank
+oecd_members,OECD members,IRL,Ireland,OED,worldbank
+oecd_members,OECD members,ISL,Iceland,OED,worldbank
+oecd_members,OECD members,ISR,Israel,OED,worldbank
+oecd_members,OECD members,ITA,Italy,OED,worldbank
+oecd_members,OECD members,JPN,Japan,OED,worldbank
+oecd_members,OECD members,KOR,"Korea, Rep.",OED,worldbank
+oecd_members,OECD members,LTU,Lithuania,OED,worldbank
+oecd_members,OECD members,LUX,Luxembourg,OED,worldbank
+oecd_members,OECD members,LVA,Latvia,OED,worldbank
+oecd_members,OECD members,MEX,Mexico,OED,worldbank
+oecd_members,OECD members,NLD,Netherlands,OED,worldbank
+oecd_members,OECD members,NOR,Norway,OED,worldbank
+oecd_members,OECD members,NZL,New Zealand,OED,worldbank
+oecd_members,OECD members,POL,Poland,OED,worldbank
+oecd_members,OECD members,PRT,Portugal,OED,worldbank
+oecd_members,OECD members,SVK,Slovak Republic,OED,worldbank
+oecd_members,OECD members,SVN,Slovenia,OED,worldbank
+oecd_members,OECD members,SWE,Sweden,OED,worldbank
+oecd_members,OECD members,TUR,Türkiye,OED,worldbank
+oecd_members,OECD members,USA,United States,OED,worldbank
+other_small_states,Other small states,BHR,Bahrain,OSS,worldbank
+other_small_states,Other small states,BRN,Brunei Darussalam,OSS,worldbank
+other_small_states,Other small states,BTN,Bhutan,OSS,worldbank
+other_small_states,Other small states,BWA,Botswana,OSS,worldbank
+other_small_states,Other small states,COM,Comoros,OSS,worldbank
+other_small_states,Other small states,CPV,Cabo Verde,OSS,worldbank
+other_small_states,Other small states,CYP,Cyprus,OSS,worldbank
+other_small_states,Other small states,DJI,Djibouti,OSS,worldbank
+other_small_states,Other small states,EST,Estonia,OSS,worldbank
+other_small_states,Other small states,GAB,Gabon,OSS,worldbank
+other_small_states,Other small states,GMB,"Gambia, The",OSS,worldbank
+other_small_states,Other small states,GNB,Guinea-Bissau,OSS,worldbank
+other_small_states,Other small states,GNQ,Equatorial Guinea,OSS,worldbank
+other_small_states,Other small states,ISL,Iceland,OSS,worldbank
+other_small_states,Other small states,LSO,Lesotho,OSS,worldbank
+other_small_states,Other small states,MDV,Maldives,OSS,worldbank
+other_small_states,Other small states,MLT,Malta,OSS,worldbank
+other_small_states,Other small states,MNE,Montenegro,OSS,worldbank
+other_small_states,Other small states,MUS,Mauritius,OSS,worldbank
+other_small_states,Other small states,NAM,Namibia,OSS,worldbank
+other_small_states,Other small states,QAT,Qatar,OSS,worldbank
+other_small_states,Other small states,SMR,San Marino,OSS,worldbank
+other_small_states,Other small states,STP,São Tomé and Príncipe,OSS,worldbank
+other_small_states,Other small states,SWZ,Eswatini,OSS,worldbank
+other_small_states,Other small states,SYC,Seychelles,OSS,worldbank
+other_small_states,Other small states,TLS,Timor-Leste,OSS,worldbank
+pre_demographic_dividend,Pre-demographic dividend,AFG,Afghanistan,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,AGO,Angola,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,BDI,Burundi,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,BEN,Benin,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,BFA,Burkina Faso,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,CAF,Central African Republic,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,CIV,Côte d’Ivoire,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,CMR,Cameroon,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,COD,"Congo, Dem. Rep.",PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,COG,"Congo, Rep.",PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,COM,Comoros,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,ERI,Eritrea,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,GIN,Guinea,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,GMB,"Gambia, The",PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,GNB,Guinea-Bissau,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,GNQ,Equatorial Guinea,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,IRQ,Iraq,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,KEN,Kenya,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,LBR,Liberia,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,MDG,Madagascar,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,MLI,Mali,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,MOZ,Mozambique,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,MRT,Mauritania,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,MWI,Malawi,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,NER,Niger,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,NGA,Nigeria,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,SDN,Sudan,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,SEN,Senegal,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,SLE,Sierra Leone,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,SOM,Somalia,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,SSD,South Sudan,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,TCD,Chad,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,TGO,Togo,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,TLS,Timor-Leste,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,TZA,Tanzania,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,UGA,Uganda,PRE,worldbank
+pre_demographic_dividend,Pre-demographic dividend,ZMB,Zambia,PRE,worldbank
+pacific_island_small_states,Pacific island small states,FJI,Fiji,PSS,worldbank
+pacific_island_small_states,Pacific island small states,FSM,"Micronesia, Fed. Sts.",PSS,worldbank
+pacific_island_small_states,Pacific island small states,KIR,Kiribati,PSS,worldbank
+pacific_island_small_states,Pacific island small states,MHL,Marshall Islands,PSS,worldbank
+pacific_island_small_states,Pacific island small states,NRU,Nauru,PSS,worldbank
+pacific_island_small_states,Pacific island small states,PLW,Palau,PSS,worldbank
+pacific_island_small_states,Pacific island small states,SLB,Solomon Islands,PSS,worldbank
+pacific_island_small_states,Pacific island small states,TON,Tonga,PSS,worldbank
+pacific_island_small_states,Pacific island small states,TUV,Tuvalu,PSS,worldbank
+pacific_island_small_states,Pacific island small states,VUT,Vanuatu,PSS,worldbank
+pacific_island_small_states,Pacific island small states,WSM,Samoa,PSS,worldbank
+post_demographic_dividend,Post-demographic dividend,ATG,Antigua and Barbuda,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,AUS,Australia,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,AUT,Austria,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,BEL,Belgium,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,BGR,Bulgaria,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,BIH,Bosnia and Herzegovina,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,BLR,Belarus,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,BRB,Barbados,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,CAN,Canada,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,CHE,Switzerland,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,CUB,Cuba,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,CZE,Czech Republic,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,DEU,Germany,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,DNK,Denmark,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,ESP,Spain,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,FIN,Finland,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,FRA,France,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,GBR,United Kingdom,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,GRC,Greece,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,HKG,"Hong Kong SAR, China",PST,worldbank
+post_demographic_dividend,Post-demographic dividend,HRV,Croatia,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,HUN,Hungary,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,ITA,Italy,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,JPN,Japan,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,KOR,"Korea, Rep.",PST,worldbank
+post_demographic_dividend,Post-demographic dividend,LTU,Lithuania,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,LUX,Luxembourg,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,MAC,"Macao SAR, China",PST,worldbank
+post_demographic_dividend,Post-demographic dividend,MLT,Malta,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,NLD,Netherlands,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,NOR,Norway,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,NZL,New Zealand,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,PRT,Portugal,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,SGP,Singapore,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,SVN,Slovenia,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,SWE,Sweden,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,UKR,Ukraine,PST,worldbank
+post_demographic_dividend,Post-demographic dividend,USA,United States,PST,worldbank
+south_asia,South Asia,AFG,Afghanistan,SAS,worldbank
+south_asia,South Asia,BGD,Bangladesh,SAS,worldbank
+south_asia,South Asia,BTN,Bhutan,SAS,worldbank
+south_asia,South Asia,IND,India,SAS,worldbank
+south_asia,South Asia,LKA,Sri Lanka,SAS,worldbank
+south_asia,South Asia,MDV,Maldives,SAS,worldbank
+south_asia,South Asia,NPL,Nepal,SAS,worldbank
+south_asia,South Asia,PAK,Pakistan,SAS,worldbank
+sub_saharan_africa,Sub-Saharan Africa,AGO,Angola,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,BDI,Burundi,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,BEN,Benin,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,BFA,Burkina Faso,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,BWA,Botswana,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,CAF,Central African Republic,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,CIV,Côte d’Ivoire,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,CMR,Cameroon,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,COD,"Congo, Dem. Rep.",SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,COG,"Congo, Rep.",SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,COM,Comoros,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,CPV,Cabo Verde,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,ERI,Eritrea,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,ETH,Ethiopia,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,GAB,Gabon,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,GHA,Ghana,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,GIN,Guinea,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,GMB,"Gambia, The",SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,GNB,Guinea-Bissau,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,GNQ,Equatorial Guinea,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,KEN,Kenya,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,LBR,Liberia,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,LSO,Lesotho,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,MDG,Madagascar,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,MLI,Mali,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,MOZ,Mozambique,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,MRT,Mauritania,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,MUS,Mauritius,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,MWI,Malawi,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,NAM,Namibia,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,NER,Niger,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,NGA,Nigeria,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,RWA,Rwanda,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,SDN,Sudan,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,SEN,Senegal,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,SLE,Sierra Leone,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,SOM,Somalia,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,SSD,South Sudan,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,STP,São Tomé and Príncipe,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,SWZ,Eswatini,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,SYC,Seychelles,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,TCD,Chad,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,TGO,Togo,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,TZA,Tanzania,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,UGA,Uganda,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,ZAF,South Africa,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,ZMB,Zambia,SSF,worldbank
+sub_saharan_africa,Sub-Saharan Africa,ZWE,Zimbabwe,SSF,worldbank
+small_states,Small states,ATG,Antigua and Barbuda,SST,worldbank
+small_states,Small states,BHR,Bahrain,SST,worldbank
+small_states,Small states,BHS,"Bahamas, The",SST,worldbank
+small_states,Small states,BLZ,Belize,SST,worldbank
+small_states,Small states,BRB,Barbados,SST,worldbank
+small_states,Small states,BRN,Brunei Darussalam,SST,worldbank
+small_states,Small states,BTN,Bhutan,SST,worldbank
+small_states,Small states,BWA,Botswana,SST,worldbank
+small_states,Small states,COM,Comoros,SST,worldbank
+small_states,Small states,CPV,Cabo Verde,SST,worldbank
+small_states,Small states,CYP,Cyprus,SST,worldbank
+small_states,Small states,DJI,Djibouti,SST,worldbank
+small_states,Small states,DMA,Dominica,SST,worldbank
+small_states,Small states,EST,Estonia,SST,worldbank
+small_states,Small states,FJI,Fiji,SST,worldbank
+small_states,Small states,FSM,"Micronesia, Fed. Sts.",SST,worldbank
+small_states,Small states,GAB,Gabon,SST,worldbank
+small_states,Small states,GMB,"Gambia, The",SST,worldbank
+small_states,Small states,GNB,Guinea-Bissau,SST,worldbank
+small_states,Small states,GNQ,Equatorial Guinea,SST,worldbank
+small_states,Small states,GRD,Grenada,SST,worldbank
+small_states,Small states,GUY,Guyana,SST,worldbank
+small_states,Small states,ISL,Iceland,SST,worldbank
+small_states,Small states,JAM,Jamaica,SST,worldbank
+small_states,Small states,KIR,Kiribati,SST,worldbank
+small_states,Small states,KNA,St. Kitts and Nevis,SST,worldbank
+small_states,Small states,LCA,St. Lucia,SST,worldbank
+small_states,Small states,LSO,Lesotho,SST,worldbank
+small_states,Small states,MDV,Maldives,SST,worldbank
+small_states,Small states,MHL,Marshall Islands,SST,worldbank
+small_states,Small states,MLT,Malta,SST,worldbank
+small_states,Small states,MNE,Montenegro,SST,worldbank
+small_states,Small states,MUS,Mauritius,SST,worldbank
+small_states,Small states,NAM,Namibia,SST,worldbank
+small_states,Small states,NRU,Nauru,SST,worldbank
+small_states,Small states,PLW,Palau,SST,worldbank
+small_states,Small states,QAT,Qatar,SST,worldbank
+small_states,Small states,SLB,Solomon Islands,SST,worldbank
+small_states,Small states,SMR,San Marino,SST,worldbank
+small_states,Small states,STP,São Tomé and Príncipe,SST,worldbank
+small_states,Small states,SUR,Suriname,SST,worldbank
+small_states,Small states,SWZ,Eswatini,SST,worldbank
+small_states,Small states,SYC,Seychelles,SST,worldbank
+small_states,Small states,TLS,Timor-Leste,SST,worldbank
+small_states,Small states,TON,Tonga,SST,worldbank
+small_states,Small states,TTO,Trinidad and Tobago,SST,worldbank
+small_states,Small states,TUV,Tuvalu,SST,worldbank
+small_states,Small states,VCT,St. Vincent and the Grenadines,SST,worldbank
+small_states,Small states,VUT,Vanuatu,SST,worldbank
+small_states,Small states,WSM,Samoa,SST,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),CHN,China,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),FJI,Fiji,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),FSM,"Micronesia, Fed. Sts.",TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),IDN,Indonesia,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),KHM,Cambodia,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),KIR,Kiribati,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),LAO,Lao PDR,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),MHL,Marshall Islands,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),MMR,Myanmar,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),MNG,Mongolia,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),MYS,Malaysia,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),NRU,Nauru,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),PHL,Philippines,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),PLW,Palau,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),PNG,Papua New Guinea,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),SLB,Solomon Islands,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),THA,Thailand,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),TLS,Timor-Leste,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),TON,Tonga,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),TUV,Tuvalu,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),VNM,Vietnam,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),VUT,Vanuatu,TEA,worldbank
+east_asia_pacific_ida_ibrd,East Asia & Pacific (IDA & IBRD),WSM,Samoa,TEA,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),ALB,Albania,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),ARM,Armenia,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),AZE,Azerbaijan,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),BGR,Bulgaria,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),BIH,Bosnia and Herzegovina,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),BLR,Belarus,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),GEO,Georgia,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),HRV,Croatia,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),KAZ,Kazakhstan,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),KGZ,Kyrgyz Republic,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),MDA,Moldova,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),MKD,North Macedonia,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),MNE,Montenegro,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),POL,Poland,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),ROU,Romania,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),RUS,Russian Federation,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),SRB,Serbia,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),TJK,Tajikistan,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),TKM,Turkmenistan,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),TUR,Türkiye,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),UKR,Ukraine,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),UZB,Uzbekistan,TEC,worldbank
+europe_central_asia_ida_ibrd,Europe & Central Asia (IDA & IBRD),XKX,Kosovo,TEC,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),ARG,Argentina,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),ATG,Antigua and Barbuda,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),BLZ,Belize,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),BOL,Bolivia,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),BRA,Brazil,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),CHL,Chile,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),COL,Colombia,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),CRI,Costa Rica,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),DMA,Dominica,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),DOM,Dominican Republic,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),ECU,Ecuador,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),GRD,Grenada,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),GTM,Guatemala,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),GUY,Guyana,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),HND,Honduras,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),HTI,Haiti,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),JAM,Jamaica,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),KNA,St. Kitts and Nevis,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),LCA,St. Lucia,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),MEX,Mexico,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),NIC,Nicaragua,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),PAN,Panama,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),PER,Peru,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),PRY,Paraguay,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),SLV,El Salvador,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),SUR,Suriname,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),TTO,Trinidad and Tobago,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),URY,Uruguay,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),VCT,St. Vincent and the Grenadines,TLA,worldbank
+latin_america_caribbean_ida_ibrd,Latin America & Caribbean (IDA & IBRD),VEN,"Venezuela, RB",TLA,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),DJI,Djibouti,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),DZA,Algeria,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),EGY,"Egypt, Arab Rep.",TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),IRN,"Iran, Islamic Rep.",TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),IRQ,Iraq,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),JOR,Jordan,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),LBN,Lebanon,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),LBY,Libya,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),MAR,Morocco,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),SYR,Syrian Arab Republic,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),TUN,Tunisia,TMN,worldbank
+middle_east_north_africa_ida_ibrd,Middle East & North Africa (IDA & IBRD),YEM,"Yemen, Rep.",TMN,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),AFG,Afghanistan,TSA,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),BGD,Bangladesh,TSA,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),BTN,Bhutan,TSA,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),IND,India,TSA,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),LKA,Sri Lanka,TSA,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),MDV,Maldives,TSA,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),NPL,Nepal,TSA,worldbank
+south_asia_ida_ibrd,South Asia (IDA & IBRD),PAK,Pakistan,TSA,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),AGO,Angola,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),BDI,Burundi,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),BEN,Benin,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),BFA,Burkina Faso,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),BWA,Botswana,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),CAF,Central African Republic,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),CIV,Côte d’Ivoire,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),CMR,Cameroon,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),COD,"Congo, Dem. Rep.",TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),COG,"Congo, Rep.",TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),COM,Comoros,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),CPV,Cabo Verde,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),ERI,Eritrea,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),ETH,Ethiopia,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),GAB,Gabon,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),GHA,Ghana,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),GIN,Guinea,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),GMB,"Gambia, The",TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),GNB,Guinea-Bissau,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),GNQ,Equatorial Guinea,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),KEN,Kenya,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),LBR,Liberia,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),LSO,Lesotho,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),MDG,Madagascar,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),MLI,Mali,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),MOZ,Mozambique,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),MRT,Mauritania,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),MUS,Mauritius,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),MWI,Malawi,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),NAM,Namibia,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),NER,Niger,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),NGA,Nigeria,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),RWA,Rwanda,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),SDN,Sudan,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),SEN,Senegal,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),SLE,Sierra Leone,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),SOM,Somalia,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),SSD,South Sudan,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),STP,São Tomé and Príncipe,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),SWZ,Eswatini,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),SYC,Seychelles,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),TCD,Chad,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),TGO,Togo,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),TZA,Tanzania,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),UGA,Uganda,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),ZAF,South Africa,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),ZMB,Zambia,TSS,worldbank
+sub_saharan_africa_ida_ibrd,Sub-Saharan Africa (IDA & IBRD),ZWE,Zimbabwe,TSS,worldbank
+world,World,ABW,Aruba,WLD,worldbank
+world,World,AFG,Afghanistan,WLD,worldbank
+world,World,AGO,Angola,WLD,worldbank
+world,World,ALB,Albania,WLD,worldbank
+world,World,AND,Andorra,WLD,worldbank
+world,World,ARE,United Arab Emirates,WLD,worldbank
+world,World,ARG,Argentina,WLD,worldbank
+world,World,ARM,Armenia,WLD,worldbank
+world,World,ASM,American Samoa,WLD,worldbank
+world,World,ATG,Antigua and Barbuda,WLD,worldbank
+world,World,AUS,Australia,WLD,worldbank
+world,World,AUT,Austria,WLD,worldbank
+world,World,AZE,Azerbaijan,WLD,worldbank
+world,World,BDI,Burundi,WLD,worldbank
+world,World,BEL,Belgium,WLD,worldbank
+world,World,BEN,Benin,WLD,worldbank
+world,World,BFA,Burkina Faso,WLD,worldbank
+world,World,BGD,Bangladesh,WLD,worldbank
+world,World,BGR,Bulgaria,WLD,worldbank
+world,World,BHR,Bahrain,WLD,worldbank
+world,World,BHS,"Bahamas, The",WLD,worldbank
+world,World,BIH,Bosnia and Herzegovina,WLD,worldbank
+world,World,BLR,Belarus,WLD,worldbank
+world,World,BLZ,Belize,WLD,worldbank
+world,World,BMU,Bermuda,WLD,worldbank
+world,World,BOL,Bolivia,WLD,worldbank
+world,World,BRA,Brazil,WLD,worldbank
+world,World,BRB,Barbados,WLD,worldbank
+world,World,BRN,Brunei Darussalam,WLD,worldbank
+world,World,BTN,Bhutan,WLD,worldbank
+world,World,BWA,Botswana,WLD,worldbank
+world,World,CAF,Central African Republic,WLD,worldbank
+world,World,CAN,Canada,WLD,worldbank
+world,World,CHE,Switzerland,WLD,worldbank
+world,World,CHI,Channel Islands,WLD,worldbank
+world,World,CHL,Chile,WLD,worldbank
+world,World,CHN,China,WLD,worldbank
+world,World,CIV,Côte d’Ivoire,WLD,worldbank
+world,World,CMR,Cameroon,WLD,worldbank
+world,World,COD,"Congo, Dem. Rep.",WLD,worldbank
+world,World,COG,"Congo, Rep.",WLD,worldbank
+world,World,COL,Colombia,WLD,worldbank
+world,World,COM,Comoros,WLD,worldbank
+world,World,CPV,Cabo Verde,WLD,worldbank
+world,World,CRI,Costa Rica,WLD,worldbank
+world,World,CUB,Cuba,WLD,worldbank
+world,World,CUW,Curacao,WLD,worldbank
+world,World,CYM,Cayman Islands,WLD,worldbank
+world,World,CYP,Cyprus,WLD,worldbank
+world,World,CZE,Czech Republic,WLD,worldbank
+world,World,DEU,Germany,WLD,worldbank
+world,World,DJI,Djibouti,WLD,worldbank
+world,World,DMA,Dominica,WLD,worldbank
+world,World,DNK,Denmark,WLD,worldbank
+world,World,DOM,Dominican Republic,WLD,worldbank
+world,World,DZA,Algeria,WLD,worldbank
+world,World,ECU,Ecuador,WLD,worldbank
+world,World,EGY,"Egypt, Arab Rep.",WLD,worldbank
+world,World,ERI,Eritrea,WLD,worldbank
+world,World,ESP,Spain,WLD,worldbank
+world,World,EST,Estonia,WLD,worldbank
+world,World,ETH,Ethiopia,WLD,worldbank
+world,World,FIN,Finland,WLD,worldbank
+world,World,FJI,Fiji,WLD,worldbank
+world,World,FRA,France,WLD,worldbank
+world,World,FRO,Faroe Islands,WLD,worldbank
+world,World,FSM,"Micronesia, Fed. Sts.",WLD,worldbank
+world,World,GAB,Gabon,WLD,worldbank
+world,World,GBR,United Kingdom,WLD,worldbank
+world,World,GEO,Georgia,WLD,worldbank
+world,World,GHA,Ghana,WLD,worldbank
+world,World,GIB,Gibraltar,WLD,worldbank
+world,World,GIN,Guinea,WLD,worldbank
+world,World,GMB,"Gambia, The",WLD,worldbank
+world,World,GNB,Guinea-Bissau,WLD,worldbank
+world,World,GNQ,Equatorial Guinea,WLD,worldbank
+world,World,GRC,Greece,WLD,worldbank
+world,World,GRD,Grenada,WLD,worldbank
+world,World,GRL,Greenland,WLD,worldbank
+world,World,GTM,Guatemala,WLD,worldbank
+world,World,GUM,Guam,WLD,worldbank
+world,World,GUY,Guyana,WLD,worldbank
+world,World,HKG,"Hong Kong SAR, China",WLD,worldbank
+world,World,HND,Honduras,WLD,worldbank
+world,World,HRV,Croatia,WLD,worldbank
+world,World,HTI,Haiti,WLD,worldbank
+world,World,HUN,Hungary,WLD,worldbank
+world,World,IDN,Indonesia,WLD,worldbank
+world,World,IMN,Isle of Man,WLD,worldbank
+world,World,IND,India,WLD,worldbank
+world,World,IRL,Ireland,WLD,worldbank
+world,World,IRN,"Iran, Islamic Rep.",WLD,worldbank
+world,World,IRQ,Iraq,WLD,worldbank
+world,World,ISL,Iceland,WLD,worldbank
+world,World,ISR,Israel,WLD,worldbank
+world,World,ITA,Italy,WLD,worldbank
+world,World,JAM,Jamaica,WLD,worldbank
+world,World,JOR,Jordan,WLD,worldbank
+world,World,JPN,Japan,WLD,worldbank
+world,World,KAZ,Kazakhstan,WLD,worldbank
+world,World,KEN,Kenya,WLD,worldbank
+world,World,KGZ,Kyrgyz Republic,WLD,worldbank
+world,World,KHM,Cambodia,WLD,worldbank
+world,World,KIR,Kiribati,WLD,worldbank
+world,World,KNA,St. Kitts and Nevis,WLD,worldbank
+world,World,KOR,"Korea, Rep.",WLD,worldbank
+world,World,KWT,Kuwait,WLD,worldbank
+world,World,LAO,Lao PDR,WLD,worldbank
+world,World,LBN,Lebanon,WLD,worldbank
+world,World,LBR,Liberia,WLD,worldbank
+world,World,LBY,Libya,WLD,worldbank
+world,World,LCA,St. Lucia,WLD,worldbank
+world,World,LIE,Liechtenstein,WLD,worldbank
+world,World,LKA,Sri Lanka,WLD,worldbank
+world,World,LSO,Lesotho,WLD,worldbank
+world,World,LTU,Lithuania,WLD,worldbank
+world,World,LUX,Luxembourg,WLD,worldbank
+world,World,LVA,Latvia,WLD,worldbank
+world,World,MAC,"Macao SAR, China",WLD,worldbank
+world,World,MAF,St. Martin (French part),WLD,worldbank
+world,World,MAR,Morocco,WLD,worldbank
+world,World,MCO,Monaco,WLD,worldbank
+world,World,MDA,Moldova,WLD,worldbank
+world,World,MDG,Madagascar,WLD,worldbank
+world,World,MDV,Maldives,WLD,worldbank
+world,World,MEX,Mexico,WLD,worldbank
+world,World,MHL,Marshall Islands,WLD,worldbank
+world,World,MKD,North Macedonia,WLD,worldbank
+world,World,MLI,Mali,WLD,worldbank
+world,World,MLT,Malta,WLD,worldbank
+world,World,MMR,Myanmar,WLD,worldbank
+world,World,MNE,Montenegro,WLD,worldbank
+world,World,MNG,Mongolia,WLD,worldbank
+world,World,MNP,Northern Mariana Islands,WLD,worldbank
+world,World,MOZ,Mozambique,WLD,worldbank
+world,World,MRT,Mauritania,WLD,worldbank
+world,World,MUS,Mauritius,WLD,worldbank
+world,World,MWI,Malawi,WLD,worldbank
+world,World,MYS,Malaysia,WLD,worldbank
+world,World,NAM,Namibia,WLD,worldbank
+world,World,NCL,New Caledonia,WLD,worldbank
+world,World,NER,Niger,WLD,worldbank
+world,World,NGA,Nigeria,WLD,worldbank
+world,World,NIC,Nicaragua,WLD,worldbank
+world,World,NLD,Netherlands,WLD,worldbank
+world,World,NOR,Norway,WLD,worldbank
+world,World,NPL,Nepal,WLD,worldbank
+world,World,NRU,Nauru,WLD,worldbank
+world,World,NZL,New Zealand,WLD,worldbank
+world,World,OMN,Oman,WLD,worldbank
+world,World,PAK,Pakistan,WLD,worldbank
+world,World,PAN,Panama,WLD,worldbank
+world,World,PER,Peru,WLD,worldbank
+world,World,PHL,Philippines,WLD,worldbank
+world,World,PLW,Palau,WLD,worldbank
+world,World,PNG,Papua New Guinea,WLD,worldbank
+world,World,POL,Poland,WLD,worldbank
+world,World,PRI,Puerto Rico,WLD,worldbank
+world,World,PRK,"Korea, Dem. People's Rep.",WLD,worldbank
+world,World,PRT,Portugal,WLD,worldbank
+world,World,PRY,Paraguay,WLD,worldbank
+world,World,PSE,West Bank and Gaza,WLD,worldbank
+world,World,PYF,French Polynesia,WLD,worldbank
+world,World,QAT,Qatar,WLD,worldbank
+world,World,ROU,Romania,WLD,worldbank
+world,World,RUS,Russian Federation,WLD,worldbank
+world,World,RWA,Rwanda,WLD,worldbank
+world,World,SAU,Saudi Arabia,WLD,worldbank
+world,World,SDN,Sudan,WLD,worldbank
+world,World,SEN,Senegal,WLD,worldbank
+world,World,SGP,Singapore,WLD,worldbank
+world,World,SLB,Solomon Islands,WLD,worldbank
+world,World,SLE,Sierra Leone,WLD,worldbank
+world,World,SLV,El Salvador,WLD,worldbank
+world,World,SMR,San Marino,WLD,worldbank
+world,World,SOM,Somalia,WLD,worldbank
+world,World,SRB,Serbia,WLD,worldbank
+world,World,SSD,South Sudan,WLD,worldbank
+world,World,STP,São Tomé and Príncipe,WLD,worldbank
+world,World,SUR,Suriname,WLD,worldbank
+world,World,SVK,Slovak Republic,WLD,worldbank
+world,World,SVN,Slovenia,WLD,worldbank
+world,World,SWE,Sweden,WLD,worldbank
+world,World,SWZ,Eswatini,WLD,worldbank
+world,World,SXM,Sint Maarten (Dutch part),WLD,worldbank
+world,World,SYC,Seychelles,WLD,worldbank
+world,World,SYR,Syrian Arab Republic,WLD,worldbank
+world,World,TCA,Turks and Caicos Islands,WLD,worldbank
+world,World,TCD,Chad,WLD,worldbank
+world,World,TGO,Togo,WLD,worldbank
+world,World,THA,Thailand,WLD,worldbank
+world,World,TJK,Tajikistan,WLD,worldbank
+world,World,TKM,Turkmenistan,WLD,worldbank
+world,World,TLS,Timor-Leste,WLD,worldbank
+world,World,TON,Tonga,WLD,worldbank
+world,World,TTO,Trinidad and Tobago,WLD,worldbank
+world,World,TUN,Tunisia,WLD,worldbank
+world,World,TUR,Türkiye,WLD,worldbank
+world,World,TUV,Tuvalu,WLD,worldbank
+world,World,TWN,"Taiwan, China",WLD,worldbank
+world,World,TZA,Tanzania,WLD,worldbank
+world,World,UGA,Uganda,WLD,worldbank
+world,World,UKR,Ukraine,WLD,worldbank
+world,World,URY,Uruguay,WLD,worldbank
+world,World,USA,United States,WLD,worldbank
+world,World,UZB,Uzbekistan,WLD,worldbank
+world,World,VCT,St. Vincent and the Grenadines,WLD,worldbank
+world,World,VEN,"Venezuela, RB",WLD,worldbank
+world,World,VGB,British Virgin Islands,WLD,worldbank
+world,World,VIR,Virgin Islands (U.S.),WLD,worldbank
+world,World,VNM,Vietnam,WLD,worldbank
+world,World,VUT,Vanuatu,WLD,worldbank
+world,World,WSM,Samoa,WLD,worldbank
+world,World,XKX,Kosovo,WLD,worldbank
+world,World,YEM,"Yemen, Rep.",WLD,worldbank
+world,World,ZAF,South Africa,WLD,worldbank
+world,World,ZMB,Zambia,WLD,worldbank
+world,World,ZWE,Zimbabwe,WLD,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,AGO,Angola,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,BDI,Burundi,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,BWA,Botswana,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,COD,"Congo, Dem. Rep.",AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,COM,Comoros,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,ERI,Eritrea,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,ETH,Ethiopia,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,KEN,Kenya,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,LSO,Lesotho,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,MDG,Madagascar,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,MOZ,Mozambique,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,MUS,Mauritius,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,MWI,Malawi,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,NAM,Namibia,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,RWA,Rwanda,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,SDN,Sudan,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,SOM,Somalia,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,SSD,South Sudan,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,STP,São Tomé and Príncipe,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,SWZ,Eswatini,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,SYC,Seychelles,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,TZA,Tanzania,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,UGA,Uganda,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,ZAF,South Africa,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,ZMB,Zambia,AFE,worldbank
+africa_eastern_and_southern,Africa Eastern and Southern,ZWE,Zimbabwe,AFE,worldbank
+africa_western_and_central,Africa Western and Central,BEN,Benin,AFW,worldbank
+africa_western_and_central,Africa Western and Central,BFA,Burkina Faso,AFW,worldbank
+africa_western_and_central,Africa Western and Central,CAF,Central African Republic,AFW,worldbank
+africa_western_and_central,Africa Western and Central,CIV,Côte d’Ivoire,AFW,worldbank
+africa_western_and_central,Africa Western and Central,CMR,Cameroon,AFW,worldbank
+africa_western_and_central,Africa Western and Central,COG,"Congo, Rep.",AFW,worldbank
+africa_western_and_central,Africa Western and Central,CPV,Cabo Verde,AFW,worldbank
+africa_western_and_central,Africa Western and Central,GAB,Gabon,AFW,worldbank
+africa_western_and_central,Africa Western and Central,GHA,Ghana,AFW,worldbank
+africa_western_and_central,Africa Western and Central,GIN,Guinea,AFW,worldbank
+africa_western_and_central,Africa Western and Central,GMB,"Gambia, The",AFW,worldbank
+africa_western_and_central,Africa Western and Central,GNB,Guinea-Bissau,AFW,worldbank
+africa_western_and_central,Africa Western and Central,GNQ,Equatorial Guinea,AFW,worldbank
+africa_western_and_central,Africa Western and Central,LBR,Liberia,AFW,worldbank
+africa_western_and_central,Africa Western and Central,MLI,Mali,AFW,worldbank
+africa_western_and_central,Africa Western and Central,MRT,Mauritania,AFW,worldbank
+africa_western_and_central,Africa Western and Central,NER,Niger,AFW,worldbank
+africa_western_and_central,Africa Western and Central,NGA,Nigeria,AFW,worldbank
+africa_western_and_central,Africa Western and Central,SEN,Senegal,AFW,worldbank
+africa_western_and_central,Africa Western and Central,SLE,Sierra Leone,AFW,worldbank
+africa_western_and_central,Africa Western and Central,TCD,Chad,AFW,worldbank
+africa_western_and_central,Africa Western and Central,TGO,Togo,AFW,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,AFG,Afghanistan,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,BDI,Burundi,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,BFA,Burkina Faso,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,CAF,Central African Republic,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,CMR,Cameroon,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,COD,"Congo, Dem. Rep.",FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,COG,"Congo, Rep.",FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,COM,Comoros,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,ERI,Eritrea,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,ETH,Ethiopia,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,FSM,"Micronesia, Fed. Sts.",FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,GNB,Guinea-Bissau,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,HTI,Haiti,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,IRQ,Iraq,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,LBN,Lebanon,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,LBY,Libya,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,MHL,Marshall Islands,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,MLI,Mali,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,MMR,Myanmar,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,MOZ,Mozambique,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,NER,Niger,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,NGA,Nigeria,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,PNG,Papua New Guinea,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,PSE,West Bank and Gaza,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,SDN,Sudan,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,SLB,Solomon Islands,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,SOM,Somalia,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,SSD,South Sudan,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,SYR,Syrian Arab Republic,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,TCD,Chad,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,TLS,Timor-Leste,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,TUV,Tuvalu,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,UKR,Ukraine,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,VEN,"Venezuela, RB",FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,XKX,Kosovo,FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,YEM,"Yemen, Rep.",FCS,worldbank
+fragile_and_conflict_affected_situations,Fragile and conflict affected situations,ZWE,Zimbabwe,FCS,worldbank
+oecd_members,OECD members,AUS,Australia,OED,worldbank
+oecd_members,OECD members,AUT,Austria,OED,worldbank
+oecd_members,OECD members,BEL,Belgium,OED,worldbank
+oecd_members,OECD members,CAN,Canada,OED,worldbank
+oecd_members,OECD members,CHE,Switzerland,OED,worldbank
+oecd_members,OECD members,CHL,Chile,OED,worldbank
+oecd_members,OECD members,COL,Colombia,OED,worldbank
+oecd_members,OECD members,CRI,Costa Rica,OED,worldbank
+oecd_members,OECD members,CZE,Czech Republic,OED,worldbank
+oecd_members,OECD members,DEU,Germany,OED,worldbank
+oecd_members,OECD members,DNK,Denmark,OED,worldbank
+oecd_members,OECD members,ESP,Spain,OED,worldbank
+oecd_members,OECD members,EST,Estonia,OED,worldbank
+oecd_members,OECD members,FIN,Finland,OED,worldbank
+oecd_members,OECD members,FRA,France,OED,worldbank
+oecd_members,OECD members,GBR,United Kingdom,OED,worldbank
+oecd_members,OECD members,GRC,Greece,OED,worldbank
+oecd_members,OECD members,HUN,Hungary,OED,worldbank
+oecd_members,OECD members,IRL,Ireland,OED,worldbank
+oecd_members,OECD members,ISL,Iceland,OED,worldbank
+oecd_members,OECD members,ISR,Israel,OED,worldbank
+oecd_members,OECD members,ITA,Italy,OED,worldbank
+oecd_members,OECD members,JPN,Japan,OED,worldbank
+oecd_members,OECD members,KOR,"Korea, Rep.",OED,worldbank
+oecd_members,OECD members,LTU,Lithuania,OED,worldbank
+oecd_members,OECD members,LUX,Luxembourg,OED,worldbank
+oecd_members,OECD members,LVA,Latvia,OED,worldbank
+oecd_members,OECD members,MEX,Mexico,OED,worldbank
+oecd_members,OECD members,NLD,Netherlands,OED,worldbank
+oecd_members,OECD members,NOR,Norway,OED,worldbank
+oecd_members,OECD members,NZL,New Zealand,OED,worldbank
+oecd_members,OECD members,POL,Poland,OED,worldbank
+oecd_members,OECD members,PRT,Portugal,OED,worldbank
+oecd_members,OECD members,SVK,Slovak Republic,OED,worldbank
+oecd_members,OECD members,SVN,Slovenia,OED,worldbank
+oecd_members,OECD members,SWE,Sweden,OED,worldbank
+oecd_members,OECD members,TUR,Türkiye,OED,worldbank
+oecd_members,OECD members,USA,United States,OED,worldbank
+high_income,High income,ABW,Aruba,HIC,worldbank
+low_income,Low income,AFG,Afghanistan,LIC,worldbank
+lower_middle_income,Lower middle income,AGO,Angola,LMC,worldbank
+upper_middle_income,Upper middle income,ALB,Albania,UMC,worldbank
+high_income,High income,AND,Andorra,HIC,worldbank
+high_income,High income,ARE,United Arab Emirates,HIC,worldbank
+upper_middle_income,Upper middle income,ARG,Argentina,UMC,worldbank
+upper_middle_income,Upper middle income,ARM,Armenia,UMC,worldbank
+upper_middle_income,Upper middle income,ASM,American Samoa,UMC,worldbank
+high_income,High income,ATG,Antigua and Barbuda,HIC,worldbank
+high_income,High income,AUS,Australia,HIC,worldbank
+high_income,High income,AUT,Austria,HIC,worldbank
+upper_middle_income,Upper middle income,AZE,Azerbaijan,UMC,worldbank
+low_income,Low income,BDI,Burundi,LIC,worldbank
+high_income,High income,BEL,Belgium,HIC,worldbank
+lower_middle_income,Lower middle income,BEN,Benin,LMC,worldbank
+low_income,Low income,BFA,Burkina Faso,LIC,worldbank
+lower_middle_income,Lower middle income,BGD,Bangladesh,LMC,worldbank
+upper_middle_income,Upper middle income,BGR,Bulgaria,UMC,worldbank
+high_income,High income,BHR,Bahrain,HIC,worldbank
+high_income,High income,BHS,"Bahamas, The",HIC,worldbank
+upper_middle_income,Upper middle income,BIH,Bosnia and Herzegovina,UMC,worldbank
+upper_middle_income,Upper middle income,BLR,Belarus,UMC,worldbank
+upper_middle_income,Upper middle income,BLZ,Belize,UMC,worldbank
+high_income,High income,BMU,Bermuda,HIC,worldbank
+lower_middle_income,Lower middle income,BOL,Bolivia,LMC,worldbank
+upper_middle_income,Upper middle income,BRA,Brazil,UMC,worldbank
+high_income,High income,BRB,Barbados,HIC,worldbank
+high_income,High income,BRN,Brunei Darussalam,HIC,worldbank
+lower_middle_income,Lower middle income,BTN,Bhutan,LMC,worldbank
+upper_middle_income,Upper middle income,BWA,Botswana,UMC,worldbank
+low_income,Low income,CAF,Central African Republic,LIC,worldbank
+high_income,High income,CAN,Canada,HIC,worldbank
+high_income,High income,CHE,Switzerland,HIC,worldbank
+high_income,High income,CHI,Channel Islands,HIC,worldbank
+high_income,High income,CHL,Chile,HIC,worldbank
+upper_middle_income,Upper middle income,CHN,China,UMC,worldbank
+lower_middle_income,Lower middle income,CIV,Côte d'Ivoire,LMC,worldbank
+lower_middle_income,Lower middle income,CMR,Cameroon,LMC,worldbank
+low_income,Low income,COD,"Congo, Dem. Rep.",LIC,worldbank
+lower_middle_income,Lower middle income,COG,"Congo, Rep.",LMC,worldbank
+upper_middle_income,Upper middle income,COL,Colombia,UMC,worldbank
+lower_middle_income,Lower middle income,COM,Comoros,LMC,worldbank
+lower_middle_income,Lower middle income,CPV,Cabo Verde,LMC,worldbank
+upper_middle_income,Upper middle income,CRI,Costa Rica,UMC,worldbank
+upper_middle_income,Upper middle income,CUB,Cuba,UMC,worldbank
+high_income,High income,CUW,Curaçao,HIC,worldbank
+high_income,High income,CYM,Cayman Islands,HIC,worldbank
+high_income,High income,CYP,Cyprus,HIC,worldbank
+high_income,High income,CZE,Czech Republic,HIC,worldbank
+high_income,High income,DEU,Germany,HIC,worldbank
+lower_middle_income,Lower middle income,DJI,Djibouti,LMC,worldbank
+upper_middle_income,Upper middle income,DMA,Dominica,UMC,worldbank
+high_income,High income,DNK,Denmark,HIC,worldbank
+upper_middle_income,Upper middle income,DOM,Dominican Republic,UMC,worldbank
+lower_middle_income,Lower middle income,DZA,Algeria,LMC,worldbank
+upper_middle_income,Upper middle income,ECU,Ecuador,UMC,worldbank
+lower_middle_income,Lower middle income,EGY,"Egypt, Arab Rep.",LMC,worldbank
+low_income,Low income,ERI,Eritrea,LIC,worldbank
+high_income,High income,ESP,Spain,HIC,worldbank
+high_income,High income,EST,Estonia,HIC,worldbank
+low_income,Low income,ETH,Ethiopia,LIC,worldbank
+high_income,High income,FIN,Finland,HIC,worldbank
+upper_middle_income,Upper middle income,FJI,Fiji,UMC,worldbank
+high_income,High income,FRA,France,HIC,worldbank
+high_income,High income,FRO,Faeroe Islands,HIC,worldbank
+lower_middle_income,Lower middle income,FSM,"Micronesia, Fed. Sts.",LMC,worldbank
+upper_middle_income,Upper middle income,GAB,Gabon,UMC,worldbank
+high_income,High income,GBR,United Kingdom,HIC,worldbank
+upper_middle_income,Upper middle income,GEO,Georgia,UMC,worldbank
+lower_middle_income,Lower middle income,GHA,Ghana,LMC,worldbank
+high_income,High income,GIB,Gibraltar,HIC,worldbank
+low_income,Low income,GIN,Guinea,LIC,worldbank
+low_income,Low income,GMB,"Gambia, The",LIC,worldbank
+low_income,Low income,GNB,Guinea-Bissau,LIC,worldbank
+upper_middle_income,Upper middle income,GNQ,Equatorial Guinea,UMC,worldbank
+high_income,High income,GRC,Greece,HIC,worldbank
+upper_middle_income,Upper middle income,GRD,Grenada,UMC,worldbank
+high_income,High income,GRL,Greenland,HIC,worldbank
+upper_middle_income,Upper middle income,GTM,Guatemala,UMC,worldbank
+high_income,High income,GUM,Guam,HIC,worldbank
+upper_middle_income,Upper middle income,GUY,Guyana,UMC,worldbank
+high_income,High income,HKG,"Hong Kong SAR, China",HIC,worldbank
+lower_middle_income,Lower middle income,HND,Honduras,LMC,worldbank
+high_income,High income,HRV,Croatia,HIC,worldbank
+lower_middle_income,Lower middle income,HTI,Haiti,LMC,worldbank
+high_income,High income,HUN,Hungary,HIC,worldbank
+lower_middle_income,Lower middle income,IDN,Indonesia,LMC,worldbank
+high_income,High income,IMN,Isle of Man,HIC,worldbank
+lower_middle_income,Lower middle income,IND,India,LMC,worldbank
+high_income,High income,IRL,Ireland,HIC,worldbank
+lower_middle_income,Lower middle income,IRN,"Iran, Islamic Rep.",LMC,worldbank
+upper_middle_income,Upper middle income,IRQ,Iraq,UMC,worldbank
+high_income,High income,ISL,Iceland,HIC,worldbank
+high_income,High income,ISR,Israel,HIC,worldbank
+high_income,High income,ITA,Italy,HIC,worldbank
+upper_middle_income,Upper middle income,JAM,Jamaica,UMC,worldbank
+upper_middle_income,Upper middle income,JOR,Jordan,UMC,worldbank
+high_income,High income,JPN,Japan,HIC,worldbank
+upper_middle_income,Upper middle income,KAZ,Kazakhstan,UMC,worldbank
+lower_middle_income,Lower middle income,KEN,Kenya,LMC,worldbank
+lower_middle_income,Lower middle income,KGZ,Kyrgyz Republic,LMC,worldbank
+lower_middle_income,Lower middle income,KHM,Cambodia,LMC,worldbank
+lower_middle_income,Lower middle income,KIR,Kiribati,LMC,worldbank
+high_income,High income,KNA,St. Kitts and Nevis,HIC,worldbank
+high_income,High income,KOR,"Korea, Rep.",HIC,worldbank
+high_income,High income,KWT,Kuwait,HIC,worldbank
+lower_middle_income,Lower middle income,LAO,Lao PDR,LMC,worldbank
+lower_middle_income,Lower middle income,LBN,Lebanon,LMC,worldbank
+low_income,Low income,LBR,Liberia,LIC,worldbank
+upper_middle_income,Upper middle income,LBY,Libya,UMC,worldbank
+upper_middle_income,Upper middle income,LCA,St. Lucia,UMC,worldbank
+high_income,High income,LIE,Liechtenstein,HIC,worldbank
+lower_middle_income,Lower middle income,LKA,Sri Lanka,LMC,worldbank
+lower_middle_income,Lower middle income,LSO,Lesotho,LMC,worldbank
+high_income,High income,LTU,Lithuania,HIC,worldbank
+high_income,High income,LUX,Luxembourg,HIC,worldbank
+high_income,High income,LVA,Latvia,HIC,worldbank
+high_income,High income,MAC,"Macao SAR, China",HIC,worldbank
+high_income,High income,MAF,St. Martin (French part),HIC,worldbank
+lower_middle_income,Lower middle income,MAR,Morocco,LMC,worldbank
+high_income,High income,MCO,Monaco,HIC,worldbank
+upper_middle_income,Upper middle income,MDA,Moldova,UMC,worldbank
+low_income,Low income,MDG,Madagascar,LIC,worldbank
+upper_middle_income,Upper middle income,MDV,Maldives,UMC,worldbank
+upper_middle_income,Upper middle income,MEX,Mexico,UMC,worldbank
+upper_middle_income,Upper middle income,MHL,Marshall Islands,UMC,worldbank
+upper_middle_income,Upper middle income,MKD,North Macedonia,UMC,worldbank
+low_income,Low income,MLI,Mali,LIC,worldbank
+high_income,High income,MLT,Malta,HIC,worldbank
+lower_middle_income,Lower middle income,MMR,Myanmar,LMC,worldbank
+upper_middle_income,Upper middle income,MNE,Montenegro,UMC,worldbank
+lower_middle_income,Lower middle income,MNG,Mongolia,LMC,worldbank
+high_income,High income,MNP,Northern Mariana Islands,HIC,worldbank
+low_income,Low income,MOZ,Mozambique,LIC,worldbank
+lower_middle_income,Lower middle income,MRT,Mauritania,LMC,worldbank
+upper_middle_income,Upper middle income,MUS,Mauritius,UMC,worldbank
+low_income,Low income,MWI,Malawi,LIC,worldbank
+upper_middle_income,Upper middle income,MYS,Malaysia,UMC,worldbank
+upper_middle_income,Upper middle income,NAM,Namibia,UMC,worldbank
+high_income,High income,NCL,New Caledonia,HIC,worldbank
+low_income,Low income,NER,Niger,LIC,worldbank
+lower_middle_income,Lower middle income,NGA,Nigeria,LMC,worldbank
+lower_middle_income,Lower middle income,NIC,Nicaragua,LMC,worldbank
+high_income,High income,NLD,Netherlands,HIC,worldbank
+high_income,High income,NOR,Norway,HIC,worldbank
+lower_middle_income,Lower middle income,NPL,Nepal,LMC,worldbank
+high_income,High income,NRU,Nauru,HIC,worldbank
+high_income,High income,NZL,New Zealand,HIC,worldbank
+high_income,High income,OMN,Oman,HIC,worldbank
+lower_middle_income,Lower middle income,PAK,Pakistan,LMC,worldbank
+high_income,High income,PAN,Panama,HIC,worldbank
+upper_middle_income,Upper middle income,PER,Peru,UMC,worldbank
+lower_middle_income,Lower middle income,PHL,Philippines,LMC,worldbank
+upper_middle_income,Upper middle income,PLW,Palau,UMC,worldbank
+lower_middle_income,Lower middle income,PNG,Papua New Guinea,LMC,worldbank
+high_income,High income,POL,Poland,HIC,worldbank
+high_income,High income,PRI,Puerto Rico,HIC,worldbank
+low_income,Low income,PRK,"Korea, Dem. Rep.",LIC,worldbank
+high_income,High income,PRT,Portugal,HIC,worldbank
+upper_middle_income,Upper middle income,PRY,Paraguay,UMC,worldbank
+lower_middle_income,Lower middle income,PSE,West Bank and Gaza,LMC,worldbank
+high_income,High income,PYF,French Polynesia,HIC,worldbank
+high_income,High income,QAT,Qatar,HIC,worldbank
+high_income,High income,ROU,Romania,HIC,worldbank
+upper_middle_income,Upper middle income,RUS,Russian Federation,UMC,worldbank
+low_income,Low income,RWA,Rwanda,LIC,worldbank
+high_income,High income,SAU,Saudi Arabia,HIC,worldbank
+low_income,Low income,SDN,Sudan,LIC,worldbank
+lower_middle_income,Lower middle income,SEN,Senegal,LMC,worldbank
+high_income,High income,SGP,Singapore,HIC,worldbank
+lower_middle_income,Lower middle income,SLB,Solomon Islands,LMC,worldbank
+low_income,Low income,SLE,Sierra Leone,LIC,worldbank
+lower_middle_income,Lower middle income,SLV,El Salvador,LMC,worldbank
+high_income,High income,SMR,San Marino,HIC,worldbank
+low_income,Low income,SOM,Somalia,LIC,worldbank
+upper_middle_income,Upper middle income,SRB,Serbia,UMC,worldbank
+low_income,Low income,SSD,South Sudan,LIC,worldbank
+lower_middle_income,Lower middle income,STP,São Tomé and Principe,LMC,worldbank
+upper_middle_income,Upper middle income,SUR,Suriname,UMC,worldbank
+high_income,High income,SVK,Slovak Republic,HIC,worldbank
+high_income,High income,SVN,Slovenia,HIC,worldbank
+high_income,High income,SWE,Sweden,HIC,worldbank
+lower_middle_income,Lower middle income,SWZ,Eswatini,LMC,worldbank
+high_income,High income,SXM,Sint Maarten (Dutch part),HIC,worldbank
+high_income,High income,SYC,Seychelles,HIC,worldbank
+low_income,Low income,SYR,Syrian Arab Republic,LIC,worldbank
+high_income,High income,TCA,Turks and Caicos Islands,HIC,worldbank
+low_income,Low income,TCD,Chad,LIC,worldbank
+low_income,Low income,TGO,Togo,LIC,worldbank
+upper_middle_income,Upper middle income,THA,Thailand,UMC,worldbank
+lower_middle_income,Lower middle income,TJK,Tajikistan,LMC,worldbank
+upper_middle_income,Upper middle income,TKM,Turkmenistan,UMC,worldbank
+lower_middle_income,Lower middle income,TLS,Timor-Leste,LMC,worldbank
+upper_middle_income,Upper middle income,TON,Tonga,UMC,worldbank
+high_income,High income,TTO,Trinidad and Tobago,HIC,worldbank
+lower_middle_income,Lower middle income,TUN,Tunisia,LMC,worldbank
+upper_middle_income,Upper middle income,TUR,Türkiye,UMC,worldbank
+upper_middle_income,Upper middle income,TUV,Tuvalu,UMC,worldbank
+high_income,High income,TWN,"Taiwan, China",HIC,worldbank
+lower_middle_income,Lower middle income,TZA,Tanzania,LMC,worldbank
+low_income,Low income,UGA,Uganda,LIC,worldbank
+lower_middle_income,Lower middle income,UKR,Ukraine,LMC,worldbank
+high_income,High income,URY,Uruguay,HIC,worldbank
+high_income,High income,USA,United States,HIC,worldbank
+lower_middle_income,Lower middle income,UZB,Uzbekistan,LMC,worldbank
+upper_middle_income,Upper middle income,VCT,St. Vincent and the Grenadines,UMC,worldbank
+high_income,High income,VGB,British Virgin Islands,HIC,worldbank
+high_income,High income,VIR,Virgin Islands (U.S.),HIC,worldbank
+lower_middle_income,Lower middle income,VNM,Vietnam,LMC,worldbank
+lower_middle_income,Lower middle income,VUT,Vanuatu,LMC,worldbank
+lower_middle_income,Lower middle income,WSM,Samoa,LMC,worldbank
+upper_middle_income,Upper middle income,XKX,Kosovo,UMC,worldbank
+low_income,Low income,YEM,"Yemen, Rep.",LIC,worldbank
+upper_middle_income,Upper middle income,ZAF,South Africa,UMC,worldbank
+low_income,Low income,ZMB,Zambia,LIC,worldbank
+lower_middle_income,Lower middle income,ZWE,Zimbabwe,LMC,worldbank
+low_middle_income,Low & middle income,AFG,Afghanistan,LMY,worldbank
+low_middle_income,Low & middle income,AGO,Angola,LMY,worldbank
+low_middle_income,Low & middle income,ALB,Albania,LMY,worldbank
+low_middle_income,Low & middle income,ARG,Argentina,LMY,worldbank
+low_middle_income,Low & middle income,ARM,Armenia,LMY,worldbank
+low_middle_income,Low & middle income,ASM,American Samoa,LMY,worldbank
+low_middle_income,Low & middle income,AZE,Azerbaijan,LMY,worldbank
+low_middle_income,Low & middle income,BDI,Burundi,LMY,worldbank
+low_middle_income,Low & middle income,BEN,Benin,LMY,worldbank
+low_middle_income,Low & middle income,BFA,Burkina Faso,LMY,worldbank
+low_middle_income,Low & middle income,BGD,Bangladesh,LMY,worldbank
+low_middle_income,Low & middle income,BGR,Bulgaria,LMY,worldbank
+low_middle_income,Low & middle income,BIH,Bosnia and Herzegovina,LMY,worldbank
+low_middle_income,Low & middle income,BLR,Belarus,LMY,worldbank
+low_middle_income,Low & middle income,BLZ,Belize,LMY,worldbank
+low_middle_income,Low & middle income,BOL,Bolivia,LMY,worldbank
+low_middle_income,Low & middle income,BRA,Brazil,LMY,worldbank
+low_middle_income,Low & middle income,BTN,Bhutan,LMY,worldbank
+low_middle_income,Low & middle income,BWA,Botswana,LMY,worldbank
+low_middle_income,Low & middle income,CAF,Central African Republic,LMY,worldbank
+low_middle_income,Low & middle income,CHN,China,LMY,worldbank
+low_middle_income,Low & middle income,CIV,Côte d'Ivoire,LMY,worldbank
+low_middle_income,Low & middle income,CMR,Cameroon,LMY,worldbank
+low_middle_income,Low & middle income,COD,"Congo, Dem. Rep.",LMY,worldbank
+low_middle_income,Low & middle income,COG,"Congo, Rep.",LMY,worldbank
+low_middle_income,Low & middle income,COL,Colombia,LMY,worldbank
+low_middle_income,Low & middle income,COM,Comoros,LMY,worldbank
+low_middle_income,Low & middle income,CPV,Cabo Verde,LMY,worldbank
+low_middle_income,Low & middle income,CRI,Costa Rica,LMY,worldbank
+low_middle_income,Low & middle income,CUB,Cuba,LMY,worldbank
+low_middle_income,Low & middle income,DJI,Djibouti,LMY,worldbank
+low_middle_income,Low & middle income,DMA,Dominica,LMY,worldbank
+low_middle_income,Low & middle income,DOM,Dominican Republic,LMY,worldbank
+low_middle_income,Low & middle income,DZA,Algeria,LMY,worldbank
+low_middle_income,Low & middle income,ECU,Ecuador,LMY,worldbank
+low_middle_income,Low & middle income,EGY,"Egypt, Arab Rep.",LMY,worldbank
+low_middle_income,Low & middle income,ERI,Eritrea,LMY,worldbank
+low_middle_income,Low & middle income,ETH,Ethiopia,LMY,worldbank
+low_middle_income,Low & middle income,FJI,Fiji,LMY,worldbank
+low_middle_income,Low & middle income,FSM,"Micronesia, Fed. Sts.",LMY,worldbank
+low_middle_income,Low & middle income,GAB,Gabon,LMY,worldbank
+low_middle_income,Low & middle income,GEO,Georgia,LMY,worldbank
+low_middle_income,Low & middle income,GHA,Ghana,LMY,worldbank
+low_middle_income,Low & middle income,GIN,Guinea,LMY,worldbank
+low_middle_income,Low & middle income,GMB,"Gambia, The",LMY,worldbank
+low_middle_income,Low & middle income,GNB,Guinea-Bissau,LMY,worldbank
+low_middle_income,Low & middle income,GNQ,Equatorial Guinea,LMY,worldbank
+low_middle_income,Low & middle income,GRD,Grenada,LMY,worldbank
+low_middle_income,Low & middle income,GTM,Guatemala,LMY,worldbank
+low_middle_income,Low & middle income,GUY,Guyana,LMY,worldbank
+low_middle_income,Low & middle income,HND,Honduras,LMY,worldbank
+low_middle_income,Low & middle income,HTI,Haiti,LMY,worldbank
+low_middle_income,Low & middle income,IDN,Indonesia,LMY,worldbank
+low_middle_income,Low & middle income,IND,India,LMY,worldbank
+low_middle_income,Low & middle income,IRN,"Iran, Islamic Rep.",LMY,worldbank
+low_middle_income,Low & middle income,IRQ,Iraq,LMY,worldbank
+low_middle_income,Low & middle income,JAM,Jamaica,LMY,worldbank
+low_middle_income,Low & middle income,JOR,Jordan,LMY,worldbank
+low_middle_income,Low & middle income,KAZ,Kazakhstan,LMY,worldbank
+low_middle_income,Low & middle income,KEN,Kenya,LMY,worldbank
+low_middle_income,Low & middle income,KGZ,Kyrgyz Republic,LMY,worldbank
+low_middle_income,Low & middle income,KHM,Cambodia,LMY,worldbank
+low_middle_income,Low & middle income,KIR,Kiribati,LMY,worldbank
+low_middle_income,Low & middle income,LAO,Lao PDR,LMY,worldbank
+low_middle_income,Low & middle income,LBN,Lebanon,LMY,worldbank
+low_middle_income,Low & middle income,LBR,Liberia,LMY,worldbank
+low_middle_income,Low & middle income,LBY,Libya,LMY,worldbank
+low_middle_income,Low & middle income,LCA,St. Lucia,LMY,worldbank
+low_middle_income,Low & middle income,LKA,Sri Lanka,LMY,worldbank
+low_middle_income,Low & middle income,LSO,Lesotho,LMY,worldbank
+low_middle_income,Low & middle income,MAR,Morocco,LMY,worldbank
+low_middle_income,Low & middle income,MDA,Moldova,LMY,worldbank
+low_middle_income,Low & middle income,MDG,Madagascar,LMY,worldbank
+low_middle_income,Low & middle income,MDV,Maldives,LMY,worldbank
+low_middle_income,Low & middle income,MEX,Mexico,LMY,worldbank
+low_middle_income,Low & middle income,MHL,Marshall Islands,LMY,worldbank
+low_middle_income,Low & middle income,MKD,North Macedonia,LMY,worldbank
+low_middle_income,Low & middle income,MLI,Mali,LMY,worldbank
+low_middle_income,Low & middle income,MMR,Myanmar,LMY,worldbank
+low_middle_income,Low & middle income,MNE,Montenegro,LMY,worldbank
+low_middle_income,Low & middle income,MNG,Mongolia,LMY,worldbank
+low_middle_income,Low & middle income,MOZ,Mozambique,LMY,worldbank
+low_middle_income,Low & middle income,MRT,Mauritania,LMY,worldbank
+low_middle_income,Low & middle income,MUS,Mauritius,LMY,worldbank
+low_middle_income,Low & middle income,MWI,Malawi,LMY,worldbank
+low_middle_income,Low & middle income,MYS,Malaysia,LMY,worldbank
+low_middle_income,Low & middle income,NAM,Namibia,LMY,worldbank
+low_middle_income,Low & middle income,NER,Niger,LMY,worldbank
+low_middle_income,Low & middle income,NGA,Nigeria,LMY,worldbank
+low_middle_income,Low & middle income,NIC,Nicaragua,LMY,worldbank
+low_middle_income,Low & middle income,NPL,Nepal,LMY,worldbank
+low_middle_income,Low & middle income,PAK,Pakistan,LMY,worldbank
+low_middle_income,Low & middle income,PER,Peru,LMY,worldbank
+low_middle_income,Low & middle income,PHL,Philippines,LMY,worldbank
+low_middle_income,Low & middle income,PLW,Palau,LMY,worldbank
+low_middle_income,Low & middle income,PNG,Papua New Guinea,LMY,worldbank
+low_middle_income,Low & middle income,PRK,"Korea, Dem. Rep.",LMY,worldbank
+low_middle_income,Low & middle income,PRY,Paraguay,LMY,worldbank
+low_middle_income,Low & middle income,PSE,West Bank and Gaza,LMY,worldbank
+low_middle_income,Low & middle income,RUS,Russian Federation,LMY,worldbank
+low_middle_income,Low & middle income,RWA,Rwanda,LMY,worldbank
+low_middle_income,Low & middle income,SDN,Sudan,LMY,worldbank
+low_middle_income,Low & middle income,SEN,Senegal,LMY,worldbank
+low_middle_income,Low & middle income,SLB,Solomon Islands,LMY,worldbank
+low_middle_income,Low & middle income,SLE,Sierra Leone,LMY,worldbank
+low_middle_income,Low & middle income,SLV,El Salvador,LMY,worldbank
+low_middle_income,Low & middle income,SOM,Somalia,LMY,worldbank
+low_middle_income,Low & middle income,SRB,Serbia,LMY,worldbank
+low_middle_income,Low & middle income,SSD,South Sudan,LMY,worldbank
+low_middle_income,Low & middle income,STP,São Tomé and Principe,LMY,worldbank
+low_middle_income,Low & middle income,SUR,Suriname,LMY,worldbank
+low_middle_income,Low & middle income,SWZ,Eswatini,LMY,worldbank
+low_middle_income,Low & middle income,SYR,Syrian Arab Republic,LMY,worldbank
+low_middle_income,Low & middle income,TCD,Chad,LMY,worldbank
+low_middle_income,Low & middle income,TGO,Togo,LMY,worldbank
+low_middle_income,Low & middle income,THA,Thailand,LMY,worldbank
+low_middle_income,Low & middle income,TJK,Tajikistan,LMY,worldbank
+low_middle_income,Low & middle income,TKM,Turkmenistan,LMY,worldbank
+low_middle_income,Low & middle income,TLS,Timor-Leste,LMY,worldbank
+low_middle_income,Low & middle income,TON,Tonga,LMY,worldbank
+low_middle_income,Low & middle income,TUN,Tunisia,LMY,worldbank
+low_middle_income,Low & middle income,TUR,Türkiye,LMY,worldbank
+low_middle_income,Low & middle income,TUV,Tuvalu,LMY,worldbank
+low_middle_income,Low & middle income,TZA,Tanzania,LMY,worldbank
+low_middle_income,Low & middle income,UGA,Uganda,LMY,worldbank
+low_middle_income,Low & middle income,UKR,Ukraine,LMY,worldbank
+low_middle_income,Low & middle income,UZB,Uzbekistan,LMY,worldbank
+low_middle_income,Low & middle income,VCT,St. Vincent and the Grenadines,LMY,worldbank
+low_middle_income,Low & middle income,VNM,Vietnam,LMY,worldbank
+low_middle_income,Low & middle income,VUT,Vanuatu,LMY,worldbank
+low_middle_income,Low & middle income,WSM,Samoa,LMY,worldbank
+low_middle_income,Low & middle income,XKX,Kosovo,LMY,worldbank
+low_middle_income,Low & middle income,YEM,"Yemen, Rep.",LMY,worldbank
+low_middle_income,Low & middle income,ZAF,South Africa,LMY,worldbank
+low_middle_income,Low & middle income,ZMB,Zambia,LMY,worldbank
+low_middle_income,Low & middle income,ZWE,Zimbabwe,LMY,worldbank
+middle_income,Middle income,AGO,Angola,MIC,worldbank
+middle_income,Middle income,ALB,Albania,MIC,worldbank
+middle_income,Middle income,ARG,Argentina,MIC,worldbank
+middle_income,Middle income,ARM,Armenia,MIC,worldbank
+middle_income,Middle income,ASM,American Samoa,MIC,worldbank
+middle_income,Middle income,AZE,Azerbaijan,MIC,worldbank
+middle_income,Middle income,BEN,Benin,MIC,worldbank
+middle_income,Middle income,BGD,Bangladesh,MIC,worldbank
+middle_income,Middle income,BGR,Bulgaria,MIC,worldbank
+middle_income,Middle income,BIH,Bosnia and Herzegovina,MIC,worldbank
+middle_income,Middle income,BLR,Belarus,MIC,worldbank
+middle_income,Middle income,BLZ,Belize,MIC,worldbank
+middle_income,Middle income,BOL,Bolivia,MIC,worldbank
+middle_income,Middle income,BRA,Brazil,MIC,worldbank
+middle_income,Middle income,BTN,Bhutan,MIC,worldbank
+middle_income,Middle income,BWA,Botswana,MIC,worldbank
+middle_income,Middle income,CHN,China,MIC,worldbank
+middle_income,Middle income,CIV,Côte d'Ivoire,MIC,worldbank
+middle_income,Middle income,CMR,Cameroon,MIC,worldbank
+middle_income,Middle income,COG,"Congo, Rep.",MIC,worldbank
+middle_income,Middle income,COL,Colombia,MIC,worldbank
+middle_income,Middle income,COM,Comoros,MIC,worldbank
+middle_income,Middle income,CPV,Cabo Verde,MIC,worldbank
+middle_income,Middle income,CRI,Costa Rica,MIC,worldbank
+middle_income,Middle income,CUB,Cuba,MIC,worldbank
+middle_income,Middle income,DJI,Djibouti,MIC,worldbank
+middle_income,Middle income,DMA,Dominica,MIC,worldbank
+middle_income,Middle income,DOM,Dominican Republic,MIC,worldbank
+middle_income,Middle income,DZA,Algeria,MIC,worldbank
+middle_income,Middle income,ECU,Ecuador,MIC,worldbank
+middle_income,Middle income,EGY,"Egypt, Arab Rep.",MIC,worldbank
+middle_income,Middle income,FJI,Fiji,MIC,worldbank
+middle_income,Middle income,FSM,"Micronesia, Fed. Sts.",MIC,worldbank
+middle_income,Middle income,GAB,Gabon,MIC,worldbank
+middle_income,Middle income,GEO,Georgia,MIC,worldbank
+middle_income,Middle income,GHA,Ghana,MIC,worldbank
+middle_income,Middle income,GNQ,Equatorial Guinea,MIC,worldbank
+middle_income,Middle income,GRD,Grenada,MIC,worldbank
+middle_income,Middle income,GTM,Guatemala,MIC,worldbank
+middle_income,Middle income,GUY,Guyana,MIC,worldbank
+middle_income,Middle income,HND,Honduras,MIC,worldbank
+middle_income,Middle income,HTI,Haiti,MIC,worldbank
+middle_income,Middle income,IDN,Indonesia,MIC,worldbank
+middle_income,Middle income,IND,India,MIC,worldbank
+middle_income,Middle income,IRN,"Iran, Islamic Rep.",MIC,worldbank
+middle_income,Middle income,IRQ,Iraq,MIC,worldbank
+middle_income,Middle income,JAM,Jamaica,MIC,worldbank
+middle_income,Middle income,JOR,Jordan,MIC,worldbank
+middle_income,Middle income,KAZ,Kazakhstan,MIC,worldbank
+middle_income,Middle income,KEN,Kenya,MIC,worldbank
+middle_income,Middle income,KGZ,Kyrgyz Republic,MIC,worldbank
+middle_income,Middle income,KHM,Cambodia,MIC,worldbank
+middle_income,Middle income,KIR,Kiribati,MIC,worldbank
+middle_income,Middle income,LAO,Lao PDR,MIC,worldbank
+middle_income,Middle income,LBN,Lebanon,MIC,worldbank
+middle_income,Middle income,LBY,Libya,MIC,worldbank
+middle_income,Middle income,LCA,St. Lucia,MIC,worldbank
+middle_income,Middle income,LKA,Sri Lanka,MIC,worldbank
+middle_income,Middle income,LSO,Lesotho,MIC,worldbank
+middle_income,Middle income,MAR,Morocco,MIC,worldbank
+middle_income,Middle income,MDA,Moldova,MIC,worldbank
+middle_income,Middle income,MDV,Maldives,MIC,worldbank
+middle_income,Middle income,MEX,Mexico,MIC,worldbank
+middle_income,Middle income,MHL,Marshall Islands,MIC,worldbank
+middle_income,Middle income,MKD,North Macedonia,MIC,worldbank
+middle_income,Middle income,MMR,Myanmar,MIC,worldbank
+middle_income,Middle income,MNE,Montenegro,MIC,worldbank
+middle_income,Middle income,MNG,Mongolia,MIC,worldbank
+middle_income,Middle income,MRT,Mauritania,MIC,worldbank
+middle_income,Middle income,MUS,Mauritius,MIC,worldbank
+middle_income,Middle income,MYS,Malaysia,MIC,worldbank
+middle_income,Middle income,NAM,Namibia,MIC,worldbank
+middle_income,Middle income,NGA,Nigeria,MIC,worldbank
+middle_income,Middle income,NIC,Nicaragua,MIC,worldbank
+middle_income,Middle income,NPL,Nepal,MIC,worldbank
+middle_income,Middle income,PAK,Pakistan,MIC,worldbank
+middle_income,Middle income,PER,Peru,MIC,worldbank
+middle_income,Middle income,PHL,Philippines,MIC,worldbank
+middle_income,Middle income,PLW,Palau,MIC,worldbank
+middle_income,Middle income,PNG,Papua New Guinea,MIC,worldbank
+middle_income,Middle income,PRY,Paraguay,MIC,worldbank
+middle_income,Middle income,PSE,West Bank and Gaza,MIC,worldbank
+middle_income,Middle income,RUS,Russian Federation,MIC,worldbank
+middle_income,Middle income,SEN,Senegal,MIC,worldbank
+middle_income,Middle income,SLB,Solomon Islands,MIC,worldbank
+middle_income,Middle income,SLV,El Salvador,MIC,worldbank
+middle_income,Middle income,SRB,Serbia,MIC,worldbank
+middle_income,Middle income,STP,São Tomé and Principe,MIC,worldbank
+middle_income,Middle income,SUR,Suriname,MIC,worldbank
+middle_income,Middle income,SWZ,Eswatini,MIC,worldbank
+middle_income,Middle income,THA,Thailand,MIC,worldbank
+middle_income,Middle income,TJK,Tajikistan,MIC,worldbank
+middle_income,Middle income,TKM,Turkmenistan,MIC,worldbank
+middle_income,Middle income,TLS,Timor-Leste,MIC,worldbank
+middle_income,Middle income,TON,Tonga,MIC,worldbank
+middle_income,Middle income,TUN,Tunisia,MIC,worldbank
+middle_income,Middle income,TUR,Türkiye,MIC,worldbank
+middle_income,Middle income,TUV,Tuvalu,MIC,worldbank
+middle_income,Middle income,TZA,Tanzania,MIC,worldbank
+middle_income,Middle income,UKR,Ukraine,MIC,worldbank
+middle_income,Middle income,UZB,Uzbekistan,MIC,worldbank
+middle_income,Middle income,VCT,St. Vincent and the Grenadines,MIC,worldbank
+middle_income,Middle income,VNM,Vietnam,MIC,worldbank
+middle_income,Middle income,VUT,Vanuatu,MIC,worldbank
+middle_income,Middle income,WSM,Samoa,MIC,worldbank
+middle_income,Middle income,XKX,Kosovo,MIC,worldbank
+middle_income,Middle income,ZAF,South Africa,MIC,worldbank
+middle_income,Middle income,ZWE,Zimbabwe,MIC,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),AGO,Angola,SSA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),ALB,Albania,ECA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),ARG,Argentina,LAC,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),ARM,Armenia,ECA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),ASM,American Samoa,EAP,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),AZE,Azerbaijan,ECA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),BDI,Burundi,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),BEN,Benin,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),BFA,Burkina Faso,SSA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),BGR,Bulgaria,ECA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),BIH,Bosnia and Herzegovina,ECA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),BLR,Belarus,ECA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),BLZ,Belize,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),BOL,Bolivia,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),BRA,Brazil,LAC,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),BWA,Botswana,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),CAF,Central African Republic,SSA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),CHN,China,EAP,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),CIV,Côte d'Ivoire,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),CMR,Cameroon,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),COD,"Congo, Dem. Rep.",SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),COG,"Congo, Rep.",SSA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),COL,Colombia,LAC,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),COM,Comoros,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),CPV,Cabo Verde,SSA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),CRI,Costa Rica,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),CUB,Cuba,LAC,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),DJI,Djibouti,MNA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),DMA,Dominica,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),DOM,Dominican Republic,LAC,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),DZA,Algeria,MNA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),ECU,Ecuador,LAC,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),EGY,"Egypt, Arab Rep.",MNA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),ERI,Eritrea,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),ETH,Ethiopia,SSA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),FJI,Fiji,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),FSM,"Micronesia, Fed. Sts.",EAP,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),GAB,Gabon,SSA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),GEO,Georgia,ECA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),GHA,Ghana,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),GIN,Guinea,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),GMB,"Gambia, The",SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),GNB,Guinea-Bissau,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),GNQ,Equatorial Guinea,SSA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),GRD,Grenada,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),GTM,Guatemala,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),GUY,Guyana,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),HND,Honduras,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),HTI,Haiti,LAC,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),IDN,Indonesia,EAP,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),IRN,"Iran, Islamic Rep.",MNA,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),IRQ,Iraq,MNA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),JAM,Jamaica,LAC,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),JOR,Jordan,MNA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),KAZ,Kazakhstan,ECA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),KEN,Kenya,SSA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),KGZ,Kyrgyz Republic,ECA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),KHM,Cambodia,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),KIR,Kiribati,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),LAO,Lao PDR,EAP,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),LBN,Lebanon,MNA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),LBR,Liberia,SSA,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),LBY,Libya,MNA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),LCA,St. Lucia,LAC,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),LSO,Lesotho,SSA,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),MAR,Morocco,MNA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),MDA,Moldova,ECA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),MDG,Madagascar,SSA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),MEX,Mexico,LAC,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),MHL,Marshall Islands,EAP,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),MKD,North Macedonia,ECA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),MLI,Mali,SSA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),MMR,Myanmar,EAP,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),MNE,Montenegro,ECA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),MNG,Mongolia,EAP,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),MOZ,Mozambique,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),MRT,Mauritania,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),MUS,Mauritius,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),MWI,Malawi,SSA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),MYS,Malaysia,EAP,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),NAM,Namibia,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),NER,Niger,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),NGA,Nigeria,SSA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),NIC,Nicaragua,LAC,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),PER,Peru,LAC,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),PHL,Philippines,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),PLW,Palau,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),PNG,Papua New Guinea,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),PRK,"Korea, Dem. People's Rep.",EAP,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),PRY,Paraguay,LAC,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),PSE,West Bank and Gaza,MNA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),RUS,Russian Federation,ECA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),RWA,Rwanda,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),SDN,Sudan,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),SEN,Senegal,SSA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),SLB,Solomon Islands,EAP,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),SLE,Sierra Leone,SSA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),SLV,El Salvador,LAC,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),SOM,Somalia,SSA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),SRB,Serbia,ECA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),SSD,South Sudan,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),STP,São Tomé and Principe,SSA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),SUR,Suriname,LAC,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),SWZ,Eswatini,SSA,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),SYR,Syrian Arab Republic,MNA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),TCD,Chad,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),TGO,Togo,SSA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),THA,Thailand,EAP,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),TJK,Tajikistan,ECA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),TKM,Turkmenistan,ECA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),TLS,Timor-Leste,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),TON,Tonga,EAP,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),TUN,Tunisia,MNA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),TUR,Türkiye,ECA,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),TUV,Tuvalu,EAP,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),TZA,Tanzania,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),UGA,Uganda,SSA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),UKR,Ukraine,ECA,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),UZB,Uzbekistan,ECA,worldbank
+latin_america_caribbean_excluding_high_income,Latin America & Caribbean (excluding high income),VCT,St. Vincent and the Grenadines,LAC,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),VNM,Vietnam,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),VUT,Vanuatu,EAP,worldbank
+east_asia_pacific_excluding_high_income,East Asia & Pacific (excluding high income),WSM,Samoa,EAP,worldbank
+europe_central_asia_excluding_high_income,Europe & Central Asia (excluding high income),XKX,Kosovo,ECA,worldbank
+middle_east_north_africa_excluding_high_income,Middle East & North Africa (excluding high income),YEM,"Yemen, Rep.",MNA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),ZAF,South Africa,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),ZMB,Zambia,SSA,worldbank
+sub_saharan_africa_excluding_high_income,Sub-Saharan Africa (excluding high income),ZWE,Zimbabwe,SSA,worldbank
+eu_countries,European Union Countries,BEL,Belgium,EU28,NA
+eu_countries,European Union Countries,BGR,Bulgaria,EU28,NA
+eu_countries,European Union Countries,CZE,Czechia,EU28,NA
+eu_countries,European Union Countries,DNK,Denmark,EU28,NA
+eu_countries,European Union Countries,DEU,Germany,EU28,NA
+eu_countries,European Union Countries,EST,Estonia,EU28,NA
+eu_countries,European Union Countries,IRL,Ireland,EU28,NA
+eu_countries,European Union Countries,GRC,Greece,EU28,NA
+eu_countries,European Union Countries,ESP,Spain,EU28,NA
+eu_countries,European Union Countries,FRA,France,EU28,NA
+eu_countries,European Union Countries,HRV,Croatia,EU28,NA
+eu_countries,European Union Countries,ITA,Italy,EU28,NA
+eu_countries,European Union Countries,CYP,Cyprus,EU28,NA
+eu_countries,European Union Countries,LVA,Latvia,EU28,NA
+eu_countries,European Union Countries,LTU,Lithuania,EU28,NA
+eu_countries,European Union Countries,LUX,Luxembourg,EU28,NA
+eu_countries,European Union Countries,HUN,Hungary,EU28,NA
+eu_countries,European Union Countries,MLT,Malta,EU28,NA
+eu_countries,European Union Countries,NLD,Netherlands,EU28,NA
+eu_countries,European Union Countries,AUT,Austria,EU28,NA
+eu_countries,European Union Countries,POL,Poland,EU28,NA
+eu_countries,European Union Countries,PRT,Portugal,EU28,NA
+eu_countries,European Union Countries,ROU,Romania,EU28,NA
+eu_countries,European Union Countries,SVN,Slovenia,EU28,NA
+eu_countries,European Union Countries,SVK,Slovakia,EU28,NA
+eu_countries,European Union Countries,FIN,Finland,EU28,NA
+eu_countries,European Union Countries,SWE,Sweden,EU28,NA
+eu_countries,European Union Countries,GBR,United Kingdom,EU28,NA
+africa,Africa,DZA,Algeria,NA,NA
+africa,Africa,AGO,Angola,NA,NA
+africa,Africa,BEN,Benin,NA,NA
+africa,Africa,BWA,Botswana,NA,NA
+africa,Africa,BFA,Burkina Faso,NA,NA
+africa,Africa,BDI,Burundi,NA,NA
+africa,Africa,CMR,Cameroon,NA,NA
+africa,Africa,CPV,Cape Verde,NA,NA
+africa,Africa,CAF,Central African Republic,NA,NA
+africa,Africa,TCD,Chad,NA,NA
+africa,Africa,COM,Comoros,NA,NA
+africa,Africa,DJI,Djibouti,NA,NA
+africa,Africa,COD,DR Congo,NA,NA
+africa,Africa,EGY,Egypt,NA,NA
+africa,Africa,GNQ,Equatorial Guinea,NA,NA
+africa,Africa,ERI,Eritrea,NA,NA
+africa,Africa,SWZ,Eswatini,NA,NA
+africa,Africa,ETH,Ethiopia,NA,NA
+africa,Africa,GAB,Gabon,NA,NA
+africa,Africa,GMB,Gambia,NA,NA
+africa,Africa,GHA,Ghana,NA,NA
+africa,Africa,GIN,Guinea,NA,NA
+africa,Africa,GNB,Guinea-Bissau,NA,NA
+africa,Africa,CIV,Ivory Coast,NA,NA
+africa,Africa,KEN,Kenya,NA,NA
+africa,Africa,LSO,Lesotho,NA,NA
+africa,Africa,LBR,Liberia,NA,NA
+africa,Africa,LBY,Libya,NA,NA
+africa,Africa,MDG,Madagascar,NA,NA
+africa,Africa,MWI,Malawi,NA,NA
+africa,Africa,MLI,Mali,NA,NA
+africa,Africa,MRT,Mauritania,NA,NA
+africa,Africa,MUS,Mauritius,NA,NA
+africa,Africa,MYT,Mayotte,NA,NA
+africa,Africa,MAR,Morocco,NA,NA
+africa,Africa,MOZ,Mozambique,NA,NA
+africa,Africa,NAM,Namibia,NA,NA
+africa,Africa,NER,Niger,NA,NA
+africa,Africa,NGA,Nigeria,NA,NA
+africa,Africa,COG,Republic of the Congo,NA,NA
+africa,Africa,REU,Reunion,NA,NA
+africa,Africa,RWA,Rwanda,NA,NA
+africa,Africa,STP,Sao Tome and Principe,NA,NA
+africa,Africa,SEN,Senegal,NA,NA
+africa,Africa,SYC,Seychelles,NA,NA
+africa,Africa,SLE,Sierra Leone,NA,NA
+africa,Africa,SOM,Somalia,NA,NA
+africa,Africa,ZAF,South Africa,NA,NA
+africa,Africa,SSD,South Sudan,NA,NA
+africa,Africa,SDN,Sudan,NA,NA
+africa,Africa,TZA,Tanzania,NA,NA
+africa,Africa,TGO,Togo,NA,NA
+africa,Africa,TUN,Tunisia,NA,NA
+africa,Africa,UGA,Uganda,NA,NA
+africa,Africa,ESH,Western Sahara,NA,NA
+africa,Africa,ZMB,Zambia,NA,NA
+africa,Africa,ZWE,Zimbabwe,NA,NA
+asia,Asia,AFG,Afghanistan,NA,NA
+asia,Asia,ARM,Armenia,NA,NA
+asia,Asia,AZE,Azerbaijan,NA,NA
+asia,Asia,BHR,Bahrain,NA,NA
+asia,Asia,BGD,Bangladesh,NA,NA
+asia,Asia,BTN,Bhutan,NA,NA
+asia,Asia,BRN,Brunei,NA,NA
+asia,Asia,KHM,Cambodia,NA,NA
+asia,Asia,CHN,China,NA,NA
+asia,Asia,GEO,Georgia,NA,NA
+asia,Asia,HKG,Hong Kong,NA,NA
+asia,Asia,IND,India,NA,NA
+asia,Asia,IDN,Indonesia,NA,NA
+asia,Asia,IRN,Iran,NA,NA
+asia,Asia,IRQ,Iraq,NA,NA
+asia,Asia,ISR,Israel,NA,NA
+asia,Asia,JPN,Japan,NA,NA
+asia,Asia,JOR,Jordan,NA,NA
+asia,Asia,KAZ,Kazakhstan,NA,NA
+asia,Asia,KWT,Kuwait,NA,NA
+asia,Asia,KGZ,Kyrgyzstan,NA,NA
+asia,Asia,LAO,Laos,NA,NA
+asia,Asia,LBN,Lebanon,NA,NA
+asia,Asia,MAC,Macau,NA,NA
+asia,Asia,MYS,Malaysia,NA,NA
+asia,Asia,MDV,Maldives,NA,NA
+asia,Asia,MNG,Mongolia,NA,NA
+asia,Asia,MMR,Myanmar,NA,NA
+asia,Asia,NPL,Nepal,NA,NA
+asia,Asia,PRK,North Korea,NA,NA
+asia,Asia,OMN,Oman,NA,NA
+asia,Asia,PAK,Pakistan,NA,NA
+asia,Asia,PSE,Palestine,NA,NA
+asia,Asia,PHL,Philippines,NA,NA
+asia,Asia,QAT,Qatar,NA,NA
+asia,Asia,SAU,Saudi Arabia,NA,NA
+asia,Asia,SGP,Singapore,NA,NA
+asia,Asia,KOR,South Korea,NA,NA
+asia,Asia,LKA,Sri Lanka,NA,NA
+asia,Asia,SYR,Syria,NA,NA
+asia,Asia,TWN,Taiwan,NA,NA
+asia,Asia,TJK,Tajikistan,NA,NA
+asia,Asia,THA,Thailand,NA,NA
+asia,Asia,TLS,Timor-Leste,NA,NA
+asia,Asia,TUR,Turkey,NA,NA
+asia,Asia,TKM,Turkmenistan,NA,NA
+asia,Asia,ARE,United Arab Emirates,NA,NA
+asia,Asia,UZB,Uzbekistan,NA,NA
+asia,Asia,VNM,Vietnam,NA,NA
+asia,Asia,YEM,Yemen,NA,NA
+europe,Europe,ALB,Albania,NA,NA
+europe,Europe,AND,Andorra,NA,NA
+europe,Europe,AUT,Austria,NA,NA
+europe,Europe,BLR,Belarus,NA,NA
+europe,Europe,BEL,Belgium,NA,NA
+europe,Europe,BIH,Bosnia and Herzegovina,NA,NA
+europe,Europe,BGR,Bulgaria,NA,NA
+europe,Europe,HRV,Croatia,NA,NA
+europe,Europe,CYP,Cyprus,NA,NA
+europe,Europe,CZE,Czech Republic,NA,NA
+europe,Europe,DNK,Denmark,NA,NA
+europe,Europe,EST,Estonia,NA,NA
+europe,Europe,FRO,Faroe Islands,NA,NA
+europe,Europe,FIN,Finland,NA,NA
+europe,Europe,FRA,France,NA,NA
+europe,Europe,DEU,Germany,NA,NA
+europe,Europe,GIB,Gibraltar,NA,NA
+europe,Europe,GRC,Greece,NA,NA
+europe,Europe,GGY,Guernsey,NA,NA
+europe,Europe,HUN,Hungary,NA,NA
+europe,Europe,ISL,Iceland,NA,NA
+europe,Europe,IRL,Ireland,NA,NA
+europe,Europe,IMN,Isle of Man,NA,NA
+europe,Europe,ITA,Italy,NA,NA
+europe,Europe,JEY,Jersey,NA,NA
+europe,Europe,LVA,Latvia,NA,NA
+europe,Europe,LIE,Liechtenstein,NA,NA
+europe,Europe,LTU,Lithuania,NA,NA
+europe,Europe,LUX,Luxembourg,NA,NA
+europe,Europe,MLT,Malta,NA,NA
+europe,Europe,MDA,Moldova,NA,NA
+europe,Europe,MCO,Monaco,NA,NA
+europe,Europe,MNE,Montenegro,NA,NA
+europe,Europe,NLD,Netherlands,NA,NA
+europe,Europe,MKD,North Macedonia,NA,NA
+europe,Europe,NOR,Norway,NA,NA
+europe,Europe,POL,Poland,NA,NA
+europe,Europe,PRT,Portugal,NA,NA
+europe,Europe,ROU,Romania,NA,NA
+europe,Europe,RUS,Russia,NA,NA
+europe,Europe,SMR,San Marino,NA,NA
+europe,Europe,SRB,Serbia,NA,NA
+europe,Europe,SVK,Slovakia,NA,NA
+europe,Europe,SVN,Slovenia,NA,NA
+europe,Europe,ESP,Spain,NA,NA
+europe,Europe,SWE,Sweden,NA,NA
+europe,Europe,CHE,Switzerland,NA,NA
+europe,Europe,UKR,Ukraine,NA,NA
+europe,Europe,GBR,United Kingdom,NA,NA
+europe,Europe,VAT,Vatican City,NA,NA
+north_america,North America,AIA,Anguilla,NA,NA
+north_america,North America,ATG,Antigua and Barbuda,NA,NA
+north_america,North America,ABW,Aruba,NA,NA
+north_america,North America,BHS,Bahamas,NA,NA
+north_america,North America,BRB,Barbados,NA,NA
+north_america,North America,BLZ,Belize,NA,NA
+north_america,North America,BMU,Bermuda,NA,NA
+north_america,North America,VGB,British Virgin Islands,NA,NA
+north_america,North America,CAN,Canada,NA,NA
+north_america,North America,CYM,Cayman Islands,NA,NA
+north_america,North America,CRI,Costa Rica,NA,NA
+north_america,North America,CUB,Cuba,NA,NA
+north_america,North America,CUW,Curacao,NA,NA
+north_america,North America,DMA,Dominica,NA,NA
+north_america,North America,DOM,Dominican Republic,NA,NA
+north_america,North America,SLV,El Salvador,NA,NA
+north_america,North America,GRL,Greenland,NA,NA
+north_america,North America,GRD,Grenada,NA,NA
+north_america,North America,GLP,Guadeloupe,NA,NA
+north_america,North America,GTM,Guatemala,NA,NA
+north_america,North America,HTI,Haiti,NA,NA
+north_america,North America,HND,Honduras,NA,NA
+north_america,North America,JAM,Jamaica,NA,NA
+north_america,North America,MTQ,Martinique,NA,NA
+north_america,North America,MEX,Mexico,NA,NA
+north_america,North America,MSR,Montserrat,NA,NA
+north_america,North America,NIC,Nicaragua,NA,NA
+north_america,North America,PAN,Panama,NA,NA
+north_america,North America,PRI,Puerto Rico,NA,NA
+north_america,North America,BLM,Saint Barthelemy,NA,NA
+north_america,North America,KNA,Saint Kitts and Nevis,NA,NA
+north_america,North America,LCA,Saint Lucia,NA,NA
+north_america,North America,MAF,Saint Martin,NA,NA
+north_america,North America,SPM,Saint Pierre and Miquelon,NA,NA
+north_america,North America,VCT,Saint Vincent and the Grenadines,NA,NA
+north_america,North America,SXM,Sint Maarten,NA,NA
+north_america,North America,TTO,Trinidad and Tobago,NA,NA
+north_america,North America,TCA,Turks and Caicos Islands,NA,NA
+north_america,North America,USA,United States,NA,NA
+north_america,North America,VIR,United States Virgin Islands,NA,NA
+oceania,Oceania,ASM,American Samoa,NA,NA
+oceania,Oceania,AUS,Australia,NA,NA
+oceania,Oceania,COK,Cook Islands,NA,NA
+oceania,Oceania,FJI,Fiji,NA,NA
+oceania,Oceania,PYF,French Polynesia,NA,NA
+oceania,Oceania,GUM,Guam,NA,NA
+oceania,Oceania,KIR,Kiribati,NA,NA
+oceania,Oceania,MHL,Marshall Islands,NA,NA
+oceania,Oceania,FSM,Micronesia,NA,NA
+oceania,Oceania,NRU,Nauru,NA,NA
+oceania,Oceania,NCL,New Caledonia,NA,NA
+oceania,Oceania,NZL,New Zealand,NA,NA
+oceania,Oceania,NIU,Niue,NA,NA
+oceania,Oceania,MNP,Northern Mariana Islands,NA,NA
+oceania,Oceania,PLW,Palau,NA,NA
+oceania,Oceania,PNG,Papua New Guinea,NA,NA
+oceania,Oceania,WSM,Samoa,NA,NA
+oceania,Oceania,SLB,Solomon Islands,NA,NA
+oceania,Oceania,TKL,Tokelau,NA,NA
+oceania,Oceania,TON,Tonga,NA,NA
+oceania,Oceania,TUV,Tuvalu,NA,NA
+oceania,Oceania,VUT,Vanuatu,NA,NA
+oceania,Oceania,WLF,Wallis and Futuna,NA,NA
+south_america,South America,ARG,Argentina,NA,NA
+south_america,South America,BOL,Bolivia,NA,NA
+south_america,South America,BRA,Brazil,NA,NA
+south_america,South America,CHL,Chile,NA,NA
+south_america,South America,COL,Colombia,NA,NA
+south_america,South America,ECU,Ecuador,NA,NA
+south_america,South America,FLK,Falkland Islands,NA,NA
+south_america,South America,GUF,French Guiana,NA,NA
+south_america,South America,GUY,Guyana,NA,NA
+south_america,South America,PRY,Paraguay,NA,NA
+south_america,South America,PER,Peru,NA,NA
+south_america,South America,SUR,Suriname,NA,NA
+south_america,South America,URY,Uruguay,NA,NA
+south_america,South America,VEN,Venezuela,NA,NA
+america,America,AIA,Anguilla,NA,NA
+america,America,ATG,Antigua and Barbuda,NA,NA
+america,America,ABW,Aruba,NA,NA
+america,America,BHS,Bahamas,NA,NA
+america,America,BRB,Barbados,NA,NA
+america,America,BLZ,Belize,NA,NA
+america,America,BMU,Bermuda,NA,NA
+america,America,VGB,British Virgin Islands,NA,NA
+america,America,CAN,Canada,NA,NA
+america,America,CYM,Cayman Islands,NA,NA
+america,America,CRI,Costa Rica,NA,NA
+america,America,CUB,Cuba,NA,NA
+america,America,CUW,Curacao,NA,NA
+america,America,DMA,Dominica,NA,NA
+america,America,DOM,Dominican Republic,NA,NA
+america,America,SLV,El Salvador,NA,NA
+america,America,GRL,Greenland,NA,NA
+america,America,GRD,Grenada,NA,NA
+america,America,GLP,Guadeloupe,NA,NA
+america,America,GTM,Guatemala,NA,NA
+america,America,HTI,Haiti,NA,NA
+america,America,HND,Honduras,NA,NA
+america,America,JAM,Jamaica,NA,NA
+america,America,MTQ,Martinique,NA,NA
+america,America,MEX,Mexico,NA,NA
+america,America,MSR,Montserrat,NA,NA
+america,America,NIC,Nicaragua,NA,NA
+america,America,PAN,Panama,NA,NA
+america,America,PRI,Puerto Rico,NA,NA
+america,America,BLM,Saint Barthelemy,NA,NA
+america,America,KNA,Saint Kitts and Nevis,NA,NA
+america,America,LCA,Saint Lucia,NA,NA
+america,America,MAF,Saint Martin,NA,NA
+america,America,SPM,Saint Pierre and Miquelon,NA,NA
+america,America,VCT,Saint Vincent and the Grenadines,NA,NA
+america,America,SXM,Sint Maarten,NA,NA
+america,America,TTO,Trinidad and Tobago,NA,NA
+america,America,TCA,Turks and Caicos Islands,NA,NA
+america,America,USA,United States,NA,NA
+america,America,VIR,United States Virgin Islands,NA,NA
+america,America,ARG,Argentina,NA,NA
+america,America,BOL,Bolivia,NA,NA
+america,America,BRA,Brazil,NA,NA
+america,America,CHL,Chile,NA,NA
+america,America,COL,Colombia,NA,NA
+america,America,ECU,Ecuador,NA,NA
+america,America,FLK,Falkland Islands,NA,NA
+america,America,GUF,French Guiana,NA,NA
+america,America,GUY,Guyana,NA,NA
+america,America,PRY,Paraguay,NA,NA
+america,America,PER,Peru,NA,NA
+america,America,SUR,Suriname,NA,NA
+america,America,URY,Uruguay,NA,NA
+america,America,VEN,Venezuela,NA,NA
+eurasia,Eurasia,AFG,Afghanistan,NA,NA
+eurasia,Eurasia,ARM,Armenia,NA,NA
+eurasia,Eurasia,AZE,Azerbaijan,NA,NA
+eurasia,Eurasia,BHR,Bahrain,NA,NA
+eurasia,Eurasia,BGD,Bangladesh,NA,NA
+eurasia,Eurasia,BTN,Bhutan,NA,NA
+eurasia,Eurasia,BRN,Brunei,NA,NA
+eurasia,Eurasia,KHM,Cambodia,NA,NA
+eurasia,Eurasia,CHN,China,NA,NA
+eurasia,Eurasia,GEO,Georgia,NA,NA
+eurasia,Eurasia,HKG,Hong Kong,NA,NA
+eurasia,Eurasia,IND,India,NA,NA
+eurasia,Eurasia,IDN,Indonesia,NA,NA
+eurasia,Eurasia,IRN,Iran,NA,NA
+eurasia,Eurasia,IRQ,Iraq,NA,NA
+eurasia,Eurasia,ISR,Israel,NA,NA
+eurasia,Eurasia,JPN,Japan,NA,NA
+eurasia,Eurasia,JOR,Jordan,NA,NA
+eurasia,Eurasia,KAZ,Kazakhstan,NA,NA
+eurasia,Eurasia,KWT,Kuwait,NA,NA
+eurasia,Eurasia,KGZ,Kyrgyzstan,NA,NA
+eurasia,Eurasia,LAO,Laos,NA,NA
+eurasia,Eurasia,LBN,Lebanon,NA,NA
+eurasia,Eurasia,MAC,Macau,NA,NA
+eurasia,Eurasia,MYS,Malaysia,NA,NA
+eurasia,Eurasia,MDV,Maldives,NA,NA
+eurasia,Eurasia,MNG,Mongolia,NA,NA
+eurasia,Eurasia,MMR,Myanmar,NA,NA
+eurasia,Eurasia,NPL,Nepal,NA,NA
+eurasia,Eurasia,PRK,North Korea,NA,NA
+eurasia,Eurasia,OMN,Oman,NA,NA
+eurasia,Eurasia,PAK,Pakistan,NA,NA
+eurasia,Eurasia,PSE,Palestine,NA,NA
+eurasia,Eurasia,PHL,Philippines,NA,NA
+eurasia,Eurasia,QAT,Qatar,NA,NA
+eurasia,Eurasia,SAU,Saudi Arabia,NA,NA
+eurasia,Eurasia,SGP,Singapore,NA,NA
+eurasia,Eurasia,KOR,South Korea,NA,NA
+eurasia,Eurasia,LKA,Sri Lanka,NA,NA
+eurasia,Eurasia,SYR,Syria,NA,NA
+eurasia,Eurasia,TWN,Taiwan,NA,NA
+eurasia,Eurasia,TJK,Tajikistan,NA,NA
+eurasia,Eurasia,THA,Thailand,NA,NA
+eurasia,Eurasia,TLS,Timor-Leste,NA,NA
+eurasia,Eurasia,TUR,Turkey,NA,NA
+eurasia,Eurasia,TKM,Turkmenistan,NA,NA
+eurasia,Eurasia,ARE,United Arab Emirates,NA,NA
+eurasia,Eurasia,UZB,Uzbekistan,NA,NA
+eurasia,Eurasia,VNM,Vietnam,NA,NA
+eurasia,Eurasia,YEM,Yemen,NA,NA
+eurasia,Eurasia,ALB,Albania,NA,NA
+eurasia,Eurasia,AND,Andorra,NA,NA
+eurasia,Eurasia,AUT,Austria,NA,NA
+eurasia,Eurasia,BLR,Belarus,NA,NA
+eurasia,Eurasia,BEL,Belgium,NA,NA
+eurasia,Eurasia,BIH,Bosnia and Herzegovina,NA,NA
+eurasia,Eurasia,BGR,Bulgaria,NA,NA
+eurasia,Eurasia,HRV,Croatia,NA,NA
+eurasia,Eurasia,CYP,Cyprus,NA,NA
+eurasia,Eurasia,CZE,Czech Republic,NA,NA
+eurasia,Eurasia,DNK,Denmark,NA,NA
+eurasia,Eurasia,EST,Estonia,NA,NA
+eurasia,Eurasia,FRO,Faroe Islands,NA,NA
+eurasia,Eurasia,FIN,Finland,NA,NA
+eurasia,Eurasia,FRA,France,NA,NA
+eurasia,Eurasia,DEU,Germany,NA,NA
+eurasia,Eurasia,GIB,Gibraltar,NA,NA
+eurasia,Eurasia,GRC,Greece,NA,NA
+eurasia,Eurasia,GGY,Guernsey,NA,NA
+eurasia,Eurasia,HUN,Hungary,NA,NA
+eurasia,Eurasia,ISL,Iceland,NA,NA
+eurasia,Eurasia,IRL,Ireland,NA,NA
+eurasia,Eurasia,IMN,Isle of Man,NA,NA
+eurasia,Eurasia,ITA,Italy,NA,NA
+eurasia,Eurasia,JEY,Jersey,NA,NA
+eurasia,Eurasia,LVA,Latvia,NA,NA
+eurasia,Eurasia,LIE,Liechtenstein,NA,NA
+eurasia,Eurasia,LTU,Lithuania,NA,NA
+eurasia,Eurasia,LUX,Luxembourg,NA,NA
+eurasia,Eurasia,MLT,Malta,NA,NA
+eurasia,Eurasia,MDA,Moldova,NA,NA
+eurasia,Eurasia,MCO,Monaco,NA,NA
+eurasia,Eurasia,MNE,Montenegro,NA,NA
+eurasia,Eurasia,NLD,Netherlands,NA,NA
+eurasia,Eurasia,MKD,North Macedonia,NA,NA
+eurasia,Eurasia,NOR,Norway,NA,NA
+eurasia,Eurasia,POL,Poland,NA,NA
+eurasia,Eurasia,PRT,Portugal,NA,NA
+eurasia,Eurasia,ROU,Romania,NA,NA
+eurasia,Eurasia,RUS,Russia,NA,NA
+eurasia,Eurasia,SMR,San Marino,NA,NA
+eurasia,Eurasia,SRB,Serbia,NA,NA
+eurasia,Eurasia,SVK,Slovakia,NA,NA
+eurasia,Eurasia,SVN,Slovenia,NA,NA
+eurasia,Eurasia,ESP,Spain,NA,NA
+eurasia,Eurasia,SWE,Sweden,NA,NA
+eurasia,Eurasia,CHE,Switzerland,NA,NA
+eurasia,Eurasia,UKR,Ukraine,NA,NA
+eurasia,Eurasia,GBR,United Kingdom,NA,NA
+eurasia,Eurasia,VAT,Vatican City,NA,NA
+australia_and_new_zealand,Australia and New Zealand,AUS,Australia,NA,NA
+australia_and_new_zealand,Australia and New Zealand,NZL,New Zealand,NA,NA
+caribbean,Caribbean,AIA,Anguilla,NA,NA
+caribbean,Caribbean,ATG,Antigua and Barbuda,NA,NA
+caribbean,Caribbean,ABW,Aruba,NA,NA
+caribbean,Caribbean,BHS,Bahamas,NA,NA
+caribbean,Caribbean,BRB,Barbados,NA,NA
+caribbean,Caribbean,VGB,British Virgin Islands,NA,NA
+caribbean,Caribbean,CYM,Cayman Islands,NA,NA
+caribbean,Caribbean,CUB,Cuba,NA,NA
+caribbean,Caribbean,CUW,Curacao,NA,NA
+caribbean,Caribbean,DMA,Dominica,NA,NA
+caribbean,Caribbean,DOM,Dominican Republic,NA,NA
+caribbean,Caribbean,GRD,Grenada,NA,NA
+caribbean,Caribbean,GLP,Guadeloupe,NA,NA
+caribbean,Caribbean,HTI,Haiti,NA,NA
+caribbean,Caribbean,JAM,Jamaica,NA,NA
+caribbean,Caribbean,MTQ,Martinique,NA,NA
+caribbean,Caribbean,MSR,Montserrat,NA,NA
+caribbean,Caribbean,PRI,Puerto Rico,NA,NA
+caribbean,Caribbean,BLM,Saint Barthelemy,NA,NA
+caribbean,Caribbean,KNA,Saint Kitts and Nevis,NA,NA
+caribbean,Caribbean,LCA,Saint Lucia,NA,NA
+caribbean,Caribbean,MAF,Saint Martin,NA,NA
+caribbean,Caribbean,VCT,Saint Vincent and the Grenadines,NA,NA
+caribbean,Caribbean,SXM,Sint Maarten,NA,NA
+caribbean,Caribbean,TTO,Trinidad and Tobago,NA,NA
+caribbean,Caribbean,TCA,Turks and Caicos Islands,NA,NA
+caribbean,Caribbean,VIR,United States Virgin Islands,NA,NA
+central_america,Central America,BLZ,Belize,NA,NA
+central_america,Central America,CRI,Costa Rica,NA,NA
+central_america,Central America,SLV,El Salvador,NA,NA
+central_america,Central America,GTM,Guatemala,NA,NA
+central_america,Central America,HND,Honduras,NA,NA
+central_america,Central America,MEX,Mexico,NA,NA
+central_america,Central America,NIC,Nicaragua,NA,NA
+central_america,Central America,PAN,Panama,NA,NA
+central_asia,Central Asia,KAZ,Kazakhstan,NA,NA
+central_asia,Central Asia,KGZ,Kyrgyzstan,NA,NA
+central_asia,Central Asia,TJK,Tajikistan,NA,NA
+central_asia,Central Asia,TKM,Turkmenistan,NA,NA
+central_asia,Central Asia,UZB,Uzbekistan,NA,NA
+eastern_africa,Eastern Africa,BDI,Burundi,NA,NA
+eastern_africa,Eastern Africa,COM,Comoros,NA,NA
+eastern_africa,Eastern Africa,DJI,Djibouti,NA,NA
+eastern_africa,Eastern Africa,ERI,Eritrea,NA,NA
+eastern_africa,Eastern Africa,ETH,Ethiopia,NA,NA
+eastern_africa,Eastern Africa,KEN,Kenya,NA,NA
+eastern_africa,Eastern Africa,MDG,Madagascar,NA,NA
+eastern_africa,Eastern Africa,MWI,Malawi,NA,NA
+eastern_africa,Eastern Africa,MUS,Mauritius,NA,NA
+eastern_africa,Eastern Africa,MYT,Mayotte,NA,NA
+eastern_africa,Eastern Africa,MOZ,Mozambique,NA,NA
+eastern_africa,Eastern Africa,REU,Reunion,NA,NA
+eastern_africa,Eastern Africa,RWA,Rwanda,NA,NA
+eastern_africa,Eastern Africa,SYC,Seychelles,NA,NA
+eastern_africa,Eastern Africa,SOM,Somalia,NA,NA
+eastern_africa,Eastern Africa,TZA,Tanzania,NA,NA
+eastern_africa,Eastern Africa,UGA,Uganda,NA,NA
+eastern_africa,Eastern Africa,ZMB,Zambia,NA,NA
+eastern_africa,Eastern Africa,ZWE,Zimbabwe,NA,NA
+eastern_asia,Eastern Asia,CHN,China,NA,NA
+eastern_asia,Eastern Asia,HKG,Hong Kong,NA,NA
+eastern_asia,Eastern Asia,JPN,Japan,NA,NA
+eastern_asia,Eastern Asia,MAC,Macau,NA,NA
+eastern_asia,Eastern Asia,MNG,Mongolia,NA,NA
+eastern_asia,Eastern Asia,PRK,North Korea,NA,NA
+eastern_asia,Eastern Asia,KOR,South Korea,NA,NA
+eastern_asia,Eastern Asia,TWN,Taiwan,NA,NA
+eastern_europe,Eastern Europe,BLR,Belarus,NA,NA
+eastern_europe,Eastern Europe,BGR,Bulgaria,NA,NA
+eastern_europe,Eastern Europe,CYP,Cyprus,NA,NA
+eastern_europe,Eastern Europe,CZE,Czech Republic,NA,NA
+eastern_europe,Eastern Europe,HUN,Hungary,NA,NA
+eastern_europe,Eastern Europe,MDA,Moldova,NA,NA
+eastern_europe,Eastern Europe,POL,Poland,NA,NA
+eastern_europe,Eastern Europe,ROU,Romania,NA,NA
+eastern_europe,Eastern Europe,RUS,Russia,NA,NA
+eastern_europe,Eastern Europe,SVK,Slovakia,NA,NA
+eastern_europe,Eastern Europe,UKR,Ukraine,NA,NA
+melanesia,Melanesia,FJI,Fiji,NA,NA
+melanesia,Melanesia,NCL,New Caledonia,NA,NA
+melanesia,Melanesia,PNG,Papua New Guinea,NA,NA
+melanesia,Melanesia,SLB,Solomon Islands,NA,NA
+melanesia,Melanesia,VUT,Vanuatu,NA,NA
+micronesia,Micronesia,GUM,Guam,NA,NA
+micronesia,Micronesia,KIR,Kiribati,NA,NA
+micronesia,Micronesia,MHL,Marshall Islands,NA,NA
+micronesia,Micronesia,FSM,Micronesia,NA,NA
+micronesia,Micronesia,NRU,Nauru,NA,NA
+micronesia,Micronesia,MNP,Northern Mariana Islands,NA,NA
+micronesia,Micronesia,PLW,Palau,NA,NA
+middle_africa,Middle Africa,AGO,Angola,NA,NA
+middle_africa,Middle Africa,CMR,Cameroon,NA,NA
+middle_africa,Middle Africa,CAF,Central African Republic,NA,NA
+middle_africa,Middle Africa,TCD,Chad,NA,NA
+middle_africa,Middle Africa,COD,DR Congo,NA,NA
+middle_africa,Middle Africa,GNQ,Equatorial Guinea,NA,NA
+middle_africa,Middle Africa,GAB,Gabon,NA,NA
+middle_africa,Middle Africa,COG,Republic of the Congo,NA,NA
+middle_africa,Middle Africa,STP,Sao Tome and Principe,NA,NA
+middle_africa,Middle Africa,SSD,South Sudan,NA,NA
+northern_africa,Northern Africa,DZA,Algeria,NA,NA
+northern_africa,Northern Africa,EGY,Egypt,NA,NA
+northern_africa,Northern Africa,LBY,Libya,NA,NA
+northern_africa,Northern Africa,MAR,Morocco,NA,NA
+northern_africa,Northern Africa,SDN,Sudan,NA,NA
+northern_africa,Northern Africa,TUN,Tunisia,NA,NA
+northern_africa,Northern Africa,ESH,Western Sahara,NA,NA
+northern_america,Northern America,BMU,Bermuda,NA,NA
+northern_america,Northern America,CAN,Canada,NA,NA
+northern_america,Northern America,GRL,Greenland,NA,NA
+northern_america,Northern America,SPM,Saint Pierre and Miquelon,NA,NA
+northern_america,Northern America,USA,United States,NA,NA
+northern_europe,Northern Europe,DNK,Denmark,NA,NA
+northern_europe,Northern Europe,EST,Estonia,NA,NA
+northern_europe,Northern Europe,FRO,Faroe Islands,NA,NA
+northern_europe,Northern Europe,FIN,Finland,NA,NA
+northern_europe,Northern Europe,GGY,Guernsey,NA,NA
+northern_europe,Northern Europe,ISL,Iceland,NA,NA
+northern_europe,Northern Europe,IRL,Ireland,NA,NA
+northern_europe,Northern Europe,IMN,Isle of Man,NA,NA
+northern_europe,Northern Europe,JEY,Jersey,NA,NA
+northern_europe,Northern Europe,LVA,Latvia,NA,NA
+northern_europe,Northern Europe,LTU,Lithuania,NA,NA
+northern_europe,Northern Europe,NOR,Norway,NA,NA
+northern_europe,Northern Europe,SWE,Sweden,NA,NA
+northern_europe,Northern Europe,GBR,United Kingdom,NA,NA
+polynesia,Polynesia,ASM,American Samoa,NA,NA
+polynesia,Polynesia,COK,Cook Islands,NA,NA
+polynesia,Polynesia,PYF,French Polynesia,NA,NA
+polynesia,Polynesia,NIU,Niue,NA,NA
+polynesia,Polynesia,WSM,Samoa,NA,NA
+polynesia,Polynesia,TKL,Tokelau,NA,NA
+polynesia,Polynesia,TON,Tonga,NA,NA
+polynesia,Polynesia,TUV,Tuvalu,NA,NA
+polynesia,Polynesia,WLF,Wallis and Futuna,NA,NA
+south_america,South America,ARG,Argentina,NA,NA
+south_america,South America,BOL,Bolivia,NA,NA
+south_america,South America,BRA,Brazil,NA,NA
+south_america,South America,CHL,Chile,NA,NA
+south_america,South America,COL,Colombia,NA,NA
+south_america,South America,ECU,Ecuador,NA,NA
+south_america,South America,FLK,Falkland Islands,NA,NA
+south_america,South America,GUF,French Guiana,NA,NA
+south_america,South America,GUY,Guyana,NA,NA
+south_america,South America,PRY,Paraguay,NA,NA
+south_america,South America,PER,Peru,NA,NA
+south_america,South America,SUR,Suriname,NA,NA
+south_america,South America,URY,Uruguay,NA,NA
+south_america,South America,VEN,Venezuela,NA,NA
+south_central_asia,South Central Asia,AFG,Afghanistan,NA,NA
+south_eastern_asia,South-Eastern Asia,BRN,Brunei,NA,NA
+south_eastern_asia,South-Eastern Asia,KHM,Cambodia,NA,NA
+south_eastern_asia,South-Eastern Asia,IDN,Indonesia,NA,NA
+south_eastern_asia,South-Eastern Asia,LAO,Laos,NA,NA
+south_eastern_asia,South-Eastern Asia,MYS,Malaysia,NA,NA
+south_eastern_asia,South-Eastern Asia,MMR,Myanmar,NA,NA
+south_eastern_asia,South-Eastern Asia,PHL,Philippines,NA,NA
+south_eastern_asia,South-Eastern Asia,SGP,Singapore,NA,NA
+south_eastern_asia,South-Eastern Asia,THA,Thailand,NA,NA
+south_eastern_asia,South-Eastern Asia,TLS,Timor-Leste,NA,NA
+south_eastern_asia,South-Eastern Asia,VNM,Vietnam,NA,NA
+southern_africa,Southern Africa,BWA,Botswana,NA,NA
+southern_africa,Southern Africa,SWZ,Eswatini,NA,NA
+southern_africa,Southern Africa,LSO,Lesotho,NA,NA
+southern_africa,Southern Africa,NAM,Namibia,NA,NA
+southern_africa,Southern Africa,ZAF,South Africa,NA,NA
+southern_asia,Southern Asia,BGD,Bangladesh,NA,NA
+southern_asia,Southern Asia,BTN,Bhutan,NA,NA
+southern_asia,Southern Asia,IND,India,NA,NA
+southern_asia,Southern Asia,IRN,Iran,NA,NA
+southern_asia,Southern Asia,MDV,Maldives,NA,NA
+southern_asia,Southern Asia,NPL,Nepal,NA,NA
+southern_asia,Southern Asia,PAK,Pakistan,NA,NA
+southern_asia,Southern Asia,LKA,Sri Lanka,NA,NA
+southern_europe,Southern Europe,ALB,Albania,NA,NA
+southern_europe,Southern Europe,AND,Andorra,NA,NA
+southern_europe,Southern Europe,BIH,Bosnia and Herzegovina,NA,NA
+southern_europe,Southern Europe,HRV,Croatia,NA,NA
+southern_europe,Southern Europe,GIB,Gibraltar,NA,NA
+southern_europe,Southern Europe,GRC,Greece,NA,NA
+southern_europe,Southern Europe,ITA,Italy,NA,NA
+southern_europe,Southern Europe,MLT,Malta,NA,NA
+southern_europe,Southern Europe,MNE,Montenegro,NA,NA
+southern_europe,Southern Europe,MKD,North Macedonia,NA,NA
+southern_europe,Southern Europe,PRT,Portugal,NA,NA
+southern_europe,Southern Europe,SMR,San Marino,NA,NA
+southern_europe,Southern Europe,SRB,Serbia,NA,NA
+southern_europe,Southern Europe,SVN,Slovenia,NA,NA
+southern_europe,Southern Europe,ESP,Spain,NA,NA
+southern_europe,Southern Europe,VAT,Vatican City,NA,NA
+western_africa,Western Africa,BEN,Benin,NA,NA
+western_africa,Western Africa,BFA,Burkina Faso,NA,NA
+western_africa,Western Africa,CPV,Cape Verde,NA,NA
+western_africa,Western Africa,GMB,Gambia,NA,NA
+western_africa,Western Africa,GHA,Ghana,NA,NA
+western_africa,Western Africa,GIN,Guinea,NA,NA
+western_africa,Western Africa,GNB,Guinea-Bissau,NA,NA
+western_africa,Western Africa,CIV,Ivory Coast,NA,NA
+western_africa,Western Africa,LBR,Liberia,NA,NA
+western_africa,Western Africa,MLI,Mali,NA,NA
+western_africa,Western Africa,MRT,Mauritania,NA,NA
+western_africa,Western Africa,NER,Niger,NA,NA
+western_africa,Western Africa,NGA,Nigeria,NA,NA
+western_africa,Western Africa,SEN,Senegal,NA,NA
+western_africa,Western Africa,SLE,Sierra Leone,NA,NA
+western_africa,Western Africa,TGO,Togo,NA,NA
+western_asia,Western Asia,ARM,Armenia,NA,NA
+western_asia,Western Asia,AZE,Azerbaijan,NA,NA
+western_asia,Western Asia,BHR,Bahrain,NA,NA
+western_asia,Western Asia,GEO,Georgia,NA,NA
+western_asia,Western Asia,IRQ,Iraq,NA,NA
+western_asia,Western Asia,ISR,Israel,NA,NA
+western_asia,Western Asia,JOR,Jordan,NA,NA
+western_asia,Western Asia,KWT,Kuwait,NA,NA
+western_asia,Western Asia,LBN,Lebanon,NA,NA
+western_asia,Western Asia,OMN,Oman,NA,NA
+western_asia,Western Asia,PSE,Palestine,NA,NA
+western_asia,Western Asia,QAT,Qatar,NA,NA
+western_asia,Western Asia,SAU,Saudi Arabia,NA,NA
+western_asia,Western Asia,SYR,Syria,NA,NA
+western_asia,Western Asia,TUR,Turkey,NA,NA
+western_asia,Western Asia,ARE,United Arab Emirates,NA,NA
+western_asia,Western Asia,YEM,Yemen,NA,NA
+western_europe,Western Europe,AUT,Austria,NA,NA
+western_europe,Western Europe,BEL,Belgium,NA,NA
+western_europe,Western Europe,FRA,France,NA,NA
+western_europe,Western Europe,DEU,Germany,NA,NA
+western_europe,Western Europe,LIE,Liechtenstein,NA,NA
+western_europe,Western Europe,LUX,Luxembourg,NA,NA
+western_europe,Western Europe,MCO,Monaco,NA,NA
+western_europe,Western Europe,NLD,Netherlands,NA,NA
+western_europe,Western Europe,CHE,Switzerland,NA,NA
+latin_america,Latin America,BLZ,Belize,NA,NA
+latin_america,Latin America,CRI,Costa Rica,NA,NA
+latin_america,Latin America,SLV,El Salvador,NA,NA
+latin_america,Latin America,GLP,Guadeloupe,NA,NA
+latin_america,Latin America,GTM,Guatemala,NA,NA
+latin_america,Latin America,HND,Honduras,NA,NA
+latin_america,Latin America,MTQ,Martinique,NA,NA
+latin_america,Latin America,MEX,Mexico,NA,NA
+latin_america,Latin America,NIC,Nicaragua,NA,NA
+latin_america,Latin America,PAN,Panama,NA,NA
+latin_america,Latin America,BLM,Saint Barthelemy,NA,NA
+latin_america,Latin America,MAF,Saint Martin,NA,NA
+latin_america,Latin America,ARG,Argentina,NA,NA
+latin_america,Latin America,BOL,Bolivia,NA,NA
+latin_america,Latin America,BRA,Brazil,NA,NA
+latin_america,Latin America,CHL,Chile,NA,NA
+latin_america,Latin America,COL,Colombia,NA,NA
+latin_america,Latin America,ECU,Ecuador,NA,NA
+latin_america,Latin America,FLK,Falkland Islands,NA,NA
+latin_america,Latin America,GUF,French Guiana,NA,NA
+latin_america,Latin America,GUY,Guyana,NA,NA
+latin_america,Latin America,PRY,Paraguay,NA,NA
+latin_america,Latin America,PER,Peru,NA,NA
+latin_america,Latin America,SUR,Suriname,NA,NA
+latin_america,Latin America,URY,Uruguay,NA,NA
+latin_america,Latin America,VEN,Venezuela,NA,NA
+south_central_asia,South Central Asia,BGD,Bangladesh,NA,NA
+south_central_asia,South Central Asia,BTN,Bhutan,NA,NA
+south_central_asia,South Central Asia,IND,India,NA,NA
+south_central_asia,South Central Asia,KGZ,Kyrgyzstan,NA,NA
+south_central_asia,South Central Asia,MDV,Maldives,NA,NA
+south_central_asia,South Central Asia,NPL,Nepal,NA,NA
+south_central_asia,South Central Asia,PAK,Pakistan,NA,NA
+south_central_asia,South Central Asia,LKA,Sri Lanka,NA,NA
+south_central_asia,South Central Asia,TJK,Tajikistan,NA,NA
+south_central_asia,South Central Asia,TKM,Turkmenistan,NA,NA
+south_central_asia,South Central Asia,UZB,Uzbekistan,NA,NA
+southern_asia,Southern Asia,AFG,Afghanistan,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,AGO,Angola,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,BEN,Benin,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,BWA,Botswana,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,BFA,Burkina Faso,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,BDI,Burundi,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,CMR,Cameroon,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,CPV,Cape Verde,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,CAF,Central African Republic,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,TCD,Chad,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,COM,Comoros,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,DJI,Djibouti,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,COD,DR Congo,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,GNQ,Equatorial Guinea,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,ERI,Eritrea,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,SWZ,Eswatini,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,ETH,Ethiopia,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,GAB,Gabon,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,GMB,Gambia,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,GHA,Ghana,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,GIN,Guinea,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,GNB,Guinea-Bissau,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,CIV,Ivory Coast,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,KEN,Kenya,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,LSO,Lesotho,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,LBR,Liberia,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,MDG,Madagascar,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,MWI,Malawi,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,MLI,Mali,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,MRT,Mauritania,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,MUS,Mauritius,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,MYT,Mayotte,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,MOZ,Mozambique,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,NAM,Namibia,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,NER,Niger,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,NGA,Nigeria,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,COG,Republic of the Congo,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,REU,Reunion,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,RWA,Rwanda,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,STP,Sao Tome and Principe,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,SEN,Senegal,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,SYC,Seychelles,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,SLE,Sierra Leone,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,SOM,Somalia,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,ZAF,South Africa,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,SSD,South Sudan,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,TZA,Tanzania,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,TGO,Togo,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,UGA,Uganda,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,ZMB,Zambia,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,ZWE,Zimbabwe,NA,NA
+sub_saharan_africa,Sub-Saharan Africa,JEY,Jersey,NA,NA
+the_middle_east,The Middle East,EGY,Egypt,NA,NA
+the_middle_east,The Middle East,BHR,Bahrain,NA,NA
+the_middle_east,The Middle East,IRN,Iran,NA,NA
+the_middle_east,The Middle East,IRQ,Iraq,NA,NA
+the_middle_east,The Middle East,ISR,Israel,NA,NA
+the_middle_east,The Middle East,JOR,Jordan,NA,NA
+the_middle_east,The Middle East,KWT,Kuwait,NA,NA
+the_middle_east,The Middle East,LBN,Lebanon,NA,NA
+the_middle_east,The Middle East,OMN,Oman,NA,NA
+the_middle_east,The Middle East,PSE,Palestine,NA,NA
+the_middle_east,The Middle East,QAT,Qatar,NA,NA
+the_middle_east,The Middle East,SAU,Saudi Arabia,NA,NA
+the_middle_east,The Middle East,SYR,Syria,NA,NA
+the_middle_east,The Middle East,TUR,Turkey,NA,NA
+the_middle_east,The Middle East,ARE,United Arab Emirates,NA,NA
+the_middle_east,The Middle East,YEM,Yemen,NA,NA
+the_middle_east,The Middle East,CYP,Cyprus,NA,NA

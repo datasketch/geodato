@@ -39,6 +39,22 @@ validate_altids <- function(altids, map_name = NULL){
 }
 
 #' @export
+validate_regions <- function(regions, map_name){
+  if(!all(c("region_code", "region_name", "id") %in% names(regions)))
+    stop("Regions file column names must be 'region_code', 'region_name', 'id' ")
+  # All region codes must be in the gd_codes
+
+  codes <- gd_codes(map_name)
+  if(!all( regions$id %in% codes$id)){
+    missing <- dstools::which_not_in(regions$id, codes$id)
+    message("Not all region geocodes in gd_codes: ",
+            paste(missing, collapse = ", "))
+    # OJO: need to remove those regions with bad codes? or not?
+  }
+
+}
+
+#' @export
 validate_topojson <- function(tj, scope, centroids, map_name = NULL){
   if(!all(c("id", "name") %in% names(tj)))
     stop("Topojson mus have id and name for the features: ", map_name)
