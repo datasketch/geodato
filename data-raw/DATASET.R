@@ -72,14 +72,30 @@ available_maps_df <- bind_rows(main_maps, region_maps) |>
 dirs <- list.files("data-raw/sample_data", full.names = FALSE)
 
 sample_data <- map(dirs, function(dir){
-  # dir <- dirs[[1]]
-  samples <- list.files(file.path("data-raw/sample_data",dir), full.names = TRUE)
-  tables <- map(samples, read_csv)
-  names(tables) <-  basename(tools::file_path_sans_ext(samples))
-  tables
+  # dir <- dirs[[2]]
+  message(dir)
+  samples <- list.files(file.path("data-raw/sample_data",dir),
+                        pattern = "[^dic]\\.csv",
+                        full.names = TRUE)
+  #tables <- map(samples, read_csv)
+  tables_meta <- map(samples, function(x){
+    #x <- samples[[1]]
+    message(x)
+    table <- read_csv(x)
+    dic <- read_csv(gsub("csv$","dic\\.csv", x))
+    meta <- yaml::yaml.load_file(gsub("csv$","meta\\.yaml", x))
+    meta$data <- table
+    meta$dic <- dic
+    #meta$more$map_name <- dstools::create_slug(basename(tools::file_path_sans_ext(x)))
+    meta
+  })
+
+  names(tables_meta) <-  basename(tools::file_path_sans_ext(samples))
+  tables_meta
 })
 names(sample_data) <- dirs
 pryr::object_size(sample_data)
+
 
 #
 map_name <- "col_municipalities"
@@ -90,8 +106,8 @@ map_name <- "col_municipalities"
 
 ### Save
 
-usethis::use_data(maps, internal = TRUE, overwrite = TRUE)
-usethis::use_data(sample_data, internal = FALSE, overwrite = TRUE)
-usethis::use_data(available_maps_df, internal = FALSE, overwrite = TRUE)
 
+usethis::use_data(maps, internal = TRUE, overwrite = TRUE)
+usethis::use_data(available_maps_df, internal = FALSE, overwrite = TRUE)
+usethis::use_data(sample_data, internal = FALSE, overwrite = TRUE)
 

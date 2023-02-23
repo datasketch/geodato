@@ -1,0 +1,17 @@
+id,label,hdType
+place,place,Num
+pop2023,pop2023,Num
+growthrate,growthRate,Num
+area,area,Num
+country,country,Cat
+cca3,cca3,Cat
+cca2,cca2,Cat
+ccn3,ccn3,Num
+region,region,Cat
+subregion,subregion,Cat
+landareakm,landAreaKm,Num
+density,density,Num
+densitymi,densityMi,Num
+rank,Rank,Num
+continent,continent,Cat
+rank,rank,Num

@@ -1,0 +1,7 @@
+id,label,hdType
+departamento,departamento,Cat
+municipio,municipio,Cat
+mujeres,mujeres,Num
+hombres,hombres,Num
+total,total,Num
+mayoria,mayoria,Cat

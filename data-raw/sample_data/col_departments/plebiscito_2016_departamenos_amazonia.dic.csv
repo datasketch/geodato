@@ -1,0 +1,5 @@
+id,label,hdType
+cod_depto,cod_depto,Num
+departamento,departamento,Cat
+resultado,resultado,Cat
+porcentaje,porcentaje,Pct

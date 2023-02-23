@@ -1,0 +1,5 @@
+id,label,hdType
+municipio,municipio,Cat
+departamento,departamento,Cat
+resultado,resultado,Num
+porcentaje,porcentaje,Pct

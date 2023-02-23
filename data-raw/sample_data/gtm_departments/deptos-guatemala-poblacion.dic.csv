@@ -1,0 +1,12 @@
+id,label,hdType
+_1,...1,Num
+departamento,Departamento,Cat
+codigo_iso_1,Código ISO[1]​,Cat
+area_km,Área(km²),Num
+poblacion_2020_2,Población(2020)[2]​,Num
+densidad_de_poblacion_hab_km,"Densidad de
+población
+(hab/km²)",Num
+capital,Capital,Cat
+escudo,Escudo,___
+bandera,Bandera,___

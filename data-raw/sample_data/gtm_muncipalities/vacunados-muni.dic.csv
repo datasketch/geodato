@@ -1,0 +1,4 @@
+id,label,hdType
+municipio,municipio,Cat
+departamento,departamento,Cat
+vacunados_con_primera_dosis,Vacunados con primera dosis,Num
