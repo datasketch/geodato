@@ -49,6 +49,7 @@ validate_map_name <- function(map_name){
 
 
 map_name_from_region <- function(map_nm){
+  validate_map_name(map_nm)
   #map_nm <- map_name
   map_type_info <- geodato::available_maps_df |>
     dplyr::filter(map_name == map_nm)

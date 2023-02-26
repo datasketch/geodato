@@ -43,6 +43,10 @@ test_that("Functions for extracting meta data work", {
   tj <- gd_tj(map_name)
   tj
 
+  map_name <- "col_departments_antioquia"
+  expect_error(gd_tj(map_name))
+
+
 
   available_maps_df
   map_name <- "col_departments_amazonas"
