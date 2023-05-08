@@ -1,0 +1,31 @@
+label: Cdmx localities
+centroids_file: cdmx-localities-centroids.csv
+altids_file:
+level: localidades_cdmx
+id_format: "%02d"
+code_cols: ["id", "codigo"]
+name_cols: ["name", "localidades", "localities"]
+topojson:
+  label: CDMX localities
+  basename: cdmx-localities
+  scope: localidades_cdmx
+  geographyName: name
+  geographyId: id
+  path: cdmx-localities.topojson
+  projections:
+    mercator:
+      center: [-102.5, 25]
+      rotate: [0, 0]
+      scale: 1.7
+      translate: [0,0]
+    equirectangular:
+      center: [-102.5, 25]
+      rotate: [0, 0]
+      scale: 1.7
+      translate: [0,0]
+    albers:
+      scale: 1.7
+      rotate: [100, 0]
+      center: [0, 25]
+      parallels: [29.5, 45.5]
+      translate: [0,0]

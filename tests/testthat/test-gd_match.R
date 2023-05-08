@@ -2,8 +2,9 @@
 
 test_that("Match works",{
 
-  d <- geodato::sample_data$col_departments[[1]]
-  gd_match(d, "col_departments")
+  d <- geodato::sample_data$col_departments[[1]]$data
+  map_name <- "col_departments"
+  gd_match(d, map_name)
 
   d <- dplyr::tribble(
     ~ciudad,~value,

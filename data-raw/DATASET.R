@@ -14,7 +14,7 @@ dirs
 
 map_names <- basename(dirs)
 
-path <- dirs[4]
+path <- dirs[7]
 path
 read_meta_path(path)
 
@@ -53,10 +53,17 @@ main_maps <- tibble(
   map_name = all_maps
 )
 main_maps$type <- "main"
+
+available_maps_df <- main_maps
+usethis::use_data(available_maps_df, internal = FALSE, overwrite = TRUE)
+
+devtools::load_all()
+
+
 region_maps <- imap(all_maps, function(m, nm){
-  reg_codes <- gd_regions(m)
+  reg_codes <- unique(gd_regions(m)$region_code)
   if(is.null(reg_codes)) return(NULL)
-  d <- tibble(region = reg_codes)
+  d <- tibble(region = unique(reg_codes))
   d$main_map <- nm
   d$map_name <- paste(nm, reg_codes, sep = "_")
   d$type <- "region"
@@ -71,18 +78,22 @@ available_maps_df <- bind_rows(main_maps, region_maps) |>
 
 dirs <- list.files("data-raw/sample_data", full.names = FALSE)
 
-sample_data <- map(dirs, function(dir){
-  # dir <- dirs[[2]]
+sample_data <- purrr::map(dirs, function(dir){
+  # dir <- dirs[[4]]
   message(dir)
-  samples <- list.files(file.path("data-raw/sample_data",dir),
-                        pattern = "[^dic]\\.csv",
-                        full.names = TRUE)
+  samples_path <- file.path("data-raw/sample_data",dir)
+  if(!dir.exists(samples_path)){
+    stop("Sample path does not exists")
+  }
+
+  samples <-  fs::dir_ls(samples_path,
+                          regexp = "^(?=.*csv)(?!.*dic)", perl = TRUE)
   #tables <- map(samples, read_csv)
-  tables_meta <- map(samples, function(x){
+  tables_meta <- purrr::map(samples, function(x){
     #x <- samples[[1]]
     message(x)
     table <- read_csv(x)
-    dic <- read_csv(gsub("csv$","dic\\.csv", x))
+    dic <- readr::read_csv(gsub("csv$","dic\\.csv", x))
     meta <- yaml::yaml.load_file(gsub("csv$","meta\\.yaml", x))
     meta$data <- table
     meta$dic <- dic
@@ -95,12 +106,6 @@ sample_data <- map(dirs, function(dir){
 })
 names(sample_data) <- dirs
 pryr::object_size(sample_data)
-
-
-#
-map_name <- "col_municipalities"
-
-
 
 
 

@@ -23,7 +23,7 @@ test_that("Guess geo columns", {
   expect_equal(which_geocode_col(d, "col_municipalities"), "ciudad")
 
   map_name <- "gtm_municipalities"
-  data <- geodato::sample_data$gtm_muncipalities$`vacunados-muni` |>
+  data <- geodato::sample_data$gtm_municipalities |>
     dplyr::rename(vacunados = `Vacunados con primera dosis`)
   var <- "vacunados"
   data$..var <- data[[var]]
