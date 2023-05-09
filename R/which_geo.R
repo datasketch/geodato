@@ -1,11 +1,28 @@
-
-
-
-
+#' Identify the column with geocode data in a dataframe
+#'
+#' This function takes a dataframe and a map name as inputs, and returns the name
+#' of the column that has the geocode data for the specified map. If data have
+#' more than 50 rows, the function looks at the first 50 rows of the dataframe
+#' and checks if any column has values that match the geocode ids for the given map.
+#' The column with the highest number of matching geocode ids is returned, provided
+#' that at least 90% of the values in that column agree with the geocode.
+#'
+#' @param d A dataframe containing the data to be analyzed.
+#' @param map_name A character string specifying the name of the map to be used,
+#' you can view available maps with geodato::available_maps().
+#' @return The name of the column with geocode data, or NA if no column meets the
+#' 90\% agreement threshold.
+#' @importFrom dplyr slice arrange filter pull
+#' @importFrom purrr map_df
+#' @importFrom tidyr pivot_longer
+#' @examples
+#' df <- data.frame(id_country = c("ARG", "COL", "AGO", "BRA"), value = runif(4))
+#' which_geocode_col(df, "world_countries")
+#' @keywords internal
 which_geocode_col <- function(d, map_name){
   x <- d |> dplyr::slice(1:50)
   code_counts <- purrr::map_df(x, function(col){
-    sum(str_clean(col) %in% gd_codes(map_name)$id)
+    sum(str_clean(col) %in% str_clean(gd_codes(map_name)$id))
   })
   if(sum(code_counts) == 0) return(NA)
   code_top_count <- code_counts |>
@@ -21,7 +38,23 @@ which_geocode_col <- function(d, map_name){
 }
 
 
-
+#' Identify the column with geoname data in a dataframe
+#'
+#' This function takes a dataframe and a map name as inputs, and returns the name
+#' of the column that has the geoname data for the specified map. If data have
+#' more than 50 rows, the function looks at the first 50 rows of the dataframe
+#' and checks if any column has values that match the geocode ids for the given map.
+#' The column with the highest number of matching geocode ids is returned, provided
+#' that at least 90% of the values in that column agree with the geocode.
+#'
+#' @param d A dataframe containing the data to be analyzed.
+#' @param map_name A character string specifying the name of the map to be used,
+#' you can view available maps with geodato::available_maps().
+#' @return The name of the column with geoname data, or NA if no column meets the
+#' 90\% agreement threshold.
+#' @examples
+#' df <- data.frame(country = c("Argentina", "Colombia", "Angora", "Brasil"), value = runif(4))
+#' which_geoname_col(df, "world_countries")
 which_geoname_col <- function(d, map_name){
 
   x <- d |> dplyr::slice(1:50)
@@ -51,6 +84,15 @@ which_geoname_col <- function(d, map_name){
   name_top_count
 }
 
+#' Check if input values are codes or names for a given map
+#'
+#' This function checks if the input values are codes or names for the specified map.
+#'
+#' @param v A vector of values to be checked.
+#' @param map_name The name of the map for which the values should be checked.
+#' @return A character string: "code" if the majority of the input values are codes, "name" otherwise.
+#' @examples
+#' is_code_or_name(c("Bogotá", "Quindio", "Caldas", "Atlantico"), "col_departments")
 #' @export
 is_code_or_name <- function(v, map_name){
   v <- v[1:min(50,length(v))]
