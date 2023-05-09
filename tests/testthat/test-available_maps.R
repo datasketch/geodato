@@ -25,13 +25,20 @@ test_that("Available maps", {
 test_that("Search works", {
 
   q <- "col_muni"
-  search_maps(q, type = "main")
+  result <- search_maps(q, type = "main")
+  expect_equal(result, "col_municipalities")
 
   q <- "col_muni"
-  search_maps(q, type = "region")
+  result <- search_maps(q, type = "region")
+  expected <- available_maps_df |>
+    filter(type == "region", main_map == "col_municipalities")
+  expect_equivalent(result, expected$map_name)
+
 
   q <- "europ"
-  search_maps(q)
+  result <- search_maps(q)
+  expected <- available_maps_df$map_name[grep("europe",available_maps_df$map_name)]
+  expect_equivalent(result, expected)
 
 })
 

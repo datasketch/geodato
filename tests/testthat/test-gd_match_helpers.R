@@ -17,19 +17,19 @@ test_that("Guess geo columns", {
 
   map_name <- "col_departments"
   d <- data.frame(depa = "bogota", valor = 1)
-  expect_equal(which_geoname_col(d, "col_departments"), "depa")
+  expect_equal(geodato:::which_geoname_col(d, "col_departments"), "depa")
 
   d <- data.frame(ciudad = 11001, valor = 1)
-  expect_equal(which_geocode_col(d, "col_municipalities"), "ciudad")
+  expect_equal(geodato:::which_geocode_col(d, "col_municipalities"), "ciudad")
 
   map_name <- "gtm_municipalities"
-  data <- geodato::sample_data$gtm_municipalities |>
+  data <- geodato::sample_data$gtm_municipalities$vacunados_muni$data |>
     dplyr::rename(vacunados = `Vacunados con primera dosis`)
   var <- "vacunados"
   data$..var <- data[[var]]
   d <- data
 
-  expect_true(is.na(which_geocode_col(d, map_name)))
+  expect_true(is.na(geodato:::which_geocode_col(d, map_name)))
 
 
 })
@@ -68,7 +68,7 @@ test_that("Matching by name works",{
 
   map_name <- "col_municipalities"
   library(dplyr)
-  d <- sample_data$col_municipalities$censo_municipios
+  d <- sample_data$col_municipalities$censo_municipios$data
   d <- d |> filter(municipio == "ALBANIA")
   col <- which_geoname_col(d, map_name)
 

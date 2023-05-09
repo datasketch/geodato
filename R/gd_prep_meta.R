@@ -1,5 +1,13 @@
-
-
+#' Read Metadata from a Geodato Map
+#'
+#' This function (TEMPORARY TO ADD EXTERNAL MAPS) reads the metadata from a geodato
+#'  map and validates the associated centroids, altnames, altids and parent_map_name.
+#'
+#' @param path The path to the geodato map folder containing the metadata file and related files.
+#' @return A list containing the validated metadata and additional information.
+#' @importFrom readr read_csv cols
+#' @examples
+#' read_meta("data-raw/geodato/col/col_bog_localidades")
 #' @export
 read_meta <- function(path){
   l <- yaml::yaml.load_file(fs::path(path, "meta.yaml"))
@@ -19,7 +27,7 @@ read_meta <- function(path){
   # Validate altids
   if(!is.null(l$altids)){
     l$altids <- read_csv(fs::path(path, l$altids),
-                           col_types = cols(.default = "c"))
+                         col_types = cols(.default = "c"))
     geodato::validate_altids(l$altids, map_name)
   }
   if(!is.null(l$parent_map_name)){
@@ -35,6 +43,15 @@ read_meta <- function(path){
   l
 }
 
+#' Read Metadata and Associated Files from a Geodato Map Path
+#'
+#' This function reads the metadata from a geodato map folder and validates the
+#' associated centroids, altnames, and altids.
+#'
+#' @param path The path to the geodato map folder containing the metadata file and related files.
+#' @return A list containing the validated metadata, associated files, and additional information.
+#' @examples
+#' read_meta_path("data-raw/geodato/col/col_bog_localidades")
 #' @export
 read_meta_path <- function(path){
   l <- yaml::yaml.load_file(fs::path(path, "meta.yaml"))
@@ -74,7 +91,7 @@ read_meta_path <- function(path){
   # Get regions is they exist
   if(!is.null(l$regions_file)){
     l$regions <- read_csv(fs::path(path, l$regions_file),
-                         col_types = cols(.default = "c"))
+                          col_types = cols(.default = "c"))
     validate_regions(l$regions, map_name)
     l$region_codes <- unique(l$regions$region_code)
   }
