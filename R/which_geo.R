@@ -55,6 +55,7 @@ which_geocode_col <- function(d, map_name){
 #' @examples
 #' df <- data.frame(country = c("Argentina", "Colombia", "Angora", "Brasil"), value = runif(4))
 #' which_geoname_col(df, "world_countries")
+#' @keywords internal
 which_geoname_col <- function(d, map_name){
 
   x <- d |> dplyr::slice(1:50)
