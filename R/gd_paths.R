@@ -59,24 +59,6 @@ gd_topo_path <- function(map_name, system = FALSE) {
 }
 
 
-#' Read topojson file as lines
-#'
-#' This function reads a topojson file associated with a given map name and returns its content as lines.
-#'
-#' @param map_name The name of the map whose topojson file is to be read.
-#' @param system Logical, if TRUE (default), the function will look for an absolute system path. If FALSE, a relative path is used.
-#'
-#' @return A character vector where each element represents a line in the topojson file.
-#'
-#' @examples
-#' gd_topo_lines(map_name = "col_departments", system = TRUE)
-#' gd_topo_lines(map_name = "col_departments", system = FALSE)
-#'
-#' @export
-gd_topo_lines <- function(map_name, system = TRUE) {
-  path <- gd_topo_path(map_name = map_name, system = system)
-  readLines(path)
-}
 
 
 
