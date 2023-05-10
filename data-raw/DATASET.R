@@ -8,13 +8,12 @@ devtools::load_all()
 
 ## Meta data
 
-dirs <- fs::dir_ls("data-raw/geodato", recurse = 1, type = "directory",
-                   regexp = "/.*/.*/")
+dirs <- gd_dir()
 dirs
 
 map_names <- basename(dirs)
 
-path <- dirs[7]
+path <- gd_dir(map_name = map_names[3])
 path
 read_meta_path(path)
 
