@@ -1,22 +1,30 @@
-Package: geodato
 Type: Package
+Package: geodato
 Title: geodato package for maps
 Version: 0.1.0
 Date: 2022-01-01
 Author: Juan Pablo Marin Diaz
 Maintainer: Juan Pablo Marin Diaz <jpmarindiaz@gmail.com>
 Description: geodato package for maps
+License: MIT + file LICENSE
 Depends:
-    R (>= 4.1),
-    yaml,
     geojsonio,
-    sf
+    R (>= 4.1),
+    sf,
+    yaml
 Imports:
     dplyr,
-    purrr
-License: MIT + file LICENSE
+    dstools,
+    fs,
+    httr,
+    pryr,
+    purrr,
+    readr,
+    rmapshaper,
+    tibble,
+    tidyr
+Suggests: 
+    testthat (>= 2.1.0)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
-Suggests: 
-    testthat (>= 2.1.0)
