@@ -42,6 +42,23 @@ test_that("Match works",{
   expect_equal(nrow(tj), 6)
 
 
+  ## A map with codes
+
+  map_name <- "gtm_municipalities"
+  d <- dplyr::tribble(
+    ~cod_municipio,~value,
+    101,1,
+    201,2,
+    301,2,
+    401,3
+  )
+
+  col <- "cod_municipio"
+  gd_match_codes(d, map_name = map_name, col = col)
+
+  gd_match(d, map_name = map_name)
+
+
 
 })
 

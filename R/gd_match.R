@@ -95,6 +95,11 @@ gd_match_codes <- function(d, map_name = NULL, col = NULL){
   codes <- gd_codes(map_name) |> rename_dotdot()
   codes$id <- codes$..gd_id
 
+  # Quick fix when the codes in input table are numbers
+  if(is.character(codes$id)){
+    d[[col]] <- as.character(d[[col]])
+  }
+
   if(map_name == "col_departments"){
     d[[col]] <- leading_zeros(d[[col]], 2)
   }
