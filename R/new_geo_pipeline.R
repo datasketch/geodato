@@ -56,30 +56,37 @@ new_geo_pipeline <- function(country, adm1,
     if(!dir.exists(glue::glue("data-raw/files/{country}/{country}_{adm1}"))){
 
       dir.create(glue::glue("data-raw/files/{country}/{country}_{adm1}"))
-      file.create(glue::glue("data-raw/files/{country}/{country}_{adm1}/{country}_{adm1}_geo_downloader.R"))
+      file.create(glue::glue("data-raw/files/{country}/{country}_{adm1}/{country}_{adm1}-geo_downloader.R"))
 
       cat("A geo_downloader script was created. Please, if posible, write the necesary code to reproduce how to obtain the layer")
     }
   }
 
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ##  ~ With two divition levels  ----
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   if(!is.null(adm2) & is.null(adm3)){
 
     if(!dir.exists(glue::glue("data-raw/files/{country}/{country}_{adm1}_{adm2}"))){
 
       dir.create(glue::glue("data-raw/files/{country}/{country}_{adm1}_{adm2}"))
-      file.create(glue::glue("data-raw/files/{country}/{country}_{adm1}/{country}_{adm1}_{adm2}_geo_downloader.R"))
+      file.create(glue::glue("data-raw/files/{country}/{country}_{adm1}/{country}_{adm1}_{adm2}-geo_downloader.R"))
 
       cat("A geo_downloader script was created. Please, if posible, write the necesary code to reproduce how to obtain the layer")
 
     }
   }
 
+
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ##  ~ With three divition levels  ----
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   if(!is.null(adm2) & !is.null(adm3)){
 
     if(!dir.exists(glue::glue("data-raw/files/{country}/{country}_{adm1}_{adm2}_{adm3}"))){
 
       dir.create(glue::glue("data-raw/files/{country}/{country}_{adm1}_{adm2}_{adm3}"))
-      file.create(glue::glue("data-raw/files/{country}/{country}_{adm1}/{country}_{adm1}_{adm2}_{adm3}_geo_downloader.R"))
+      file.create(glue::glue("data-raw/files/{country}/{country}_{adm1}/{country}_{adm1}_{adm2}_{adm3}-geo_downloader.R"))
 
       cat("A geo_downloader script was created. Please, if posible, write the necesary code to reproduce how to obtain the layer")
 
@@ -100,7 +107,10 @@ new_geo_pipeline <- function(country, adm1,
     }
   }
 
-  if(!is.null(adm2) & is.null(adm3)){
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ##  ~ With two divition levels  ----
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if(!is.null(adm2) & is.null(adm3)){
 
     if(!dir.exists(glue::glue("data-raw/geodato/{country}/{country}_{adm1}_{adm2}"))){
 
@@ -109,6 +119,9 @@ new_geo_pipeline <- function(country, adm1,
     }
   }
 
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ##  ~ With three divition levels  ----
+  ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   if(!is.null(adm2) & !is.null(adm3)){
 
     if(!dir.exists(glue::glue("data-raw/geodato/{country}/{country}_{adm1}_{adm2}_{adm3}"))){
