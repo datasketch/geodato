@@ -99,10 +99,24 @@ write_csv(codes, file.path(file_path, glue::glue("usa_{adm1}-codes.csv")))
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##                                 Validation                               ----
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#topojson <- read_sf("data-raw/geodato/usa/usa_regions/usa_regions.topojson")
-#codes <- read_csv(file.path(file_path, "usa_regions-codes.csv"))
+topojson <- read_sf("data-raw/geodato/usa/usa_states/usa_states.topojson")
+#codes <- read_csv(file.path(file_path, "usa_states-codes.csv"))
 #centroids <- read_csv(file.path(geodato_path, glue::glue("usa_{adm1}-codes.csv")))
 
 
 # Make sure topojsons and codes have the same names
 check_names_in_topojson(tj = topojson, codes = codes)
+
+
+
+##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##                                  Altnames                                ----
+##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+codes <- st_drop_geometry(topojson)
+
+altnames <- codes %>%
+  select(id, altname = name) %>%
+  distinct()
+write_csv(altnames, file.path(geodato_path, glue::glue("usa_{adm1}-altnames.csv")))
+

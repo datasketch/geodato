@@ -103,3 +103,16 @@ centroids <- read_csv(file.path(geodato_path, "usa_regions-centroids.csv"))
 
 # Make sure topojsons and codes have the same names
 check_names_in_topojson(tj = topojson, codes = codes)
+
+
+
+##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##                                  Altnames                                ----
+##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+codes <- st_drop_geometry(topojson)
+
+altnames <- codes %>%
+  select(id, altname = name) %>%
+  distinct()
+write_csv(altnames, "data-raw/geodato/usa/usa_regions/usa_regions-altnames.csv")
