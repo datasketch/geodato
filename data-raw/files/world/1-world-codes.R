@@ -35,21 +35,21 @@ c1 <- c0 %>%
 
 c2 <- c1 %>%
   separate(name, "name", sep = ",")
-write_csv(c2, file.path(file_path, map_name, "aux/world_countries-codes-0.csv"))
+write_csv(c2, file.path(file_path, map_name, "auxi/world_countries-codes-0.csv"))
 
 altnames1 <- c1 %>%
   mutate(name_list = strsplit(name, split = ",")) %>%
   unnest(cols = name_list) %>%
   select(-name, altname = name_list) %>% distinct()
 write_csv(altnames1, file.path(file_path, map_name,
-                        "aux/world_countries-altnames-1.csv"))
+                        "auxi/world_countries-altnames-1.csv"))
 
 
 # ALTNAMES
 
 # merge altnames
 altnames0 <- read_csv(file.path(file_path, map_name,
-                                "aux/world-countries-altnames-0.csv"))
+                                "auxi/world-countries-altnames-0.csv"))
 altnames <- bind_rows(altnames0, altnames1) %>%
   distinct() %>%
   arrange(id)

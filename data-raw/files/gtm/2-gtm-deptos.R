@@ -12,7 +12,7 @@ geodato_path <-  "data-raw/geodato/gtm"
 # Make sure topojsons and codes have the same names
 
 codes <- read_csv("data-raw/files/gtm/gtm_departments-codes.csv")
-topojson_path <- "data-raw/files/gtm/aux/gtm-departments-0.topojson"
+topojson_path <- "data-raw/files/gtm/auxi/gtm-departments-0.topojson"
 tj0 <- read_sf(topojson_path)
 
 check_names_in_topojson(tj0, codes)
