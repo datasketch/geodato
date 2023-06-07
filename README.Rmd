@@ -40,6 +40,19 @@ library(geodato)
 available_maps_df
 ```
 
+## Getting a map from geodato
+```{r}
+library(geodato)
+library(ggplot2)
+
+tj <- geodato::gd_tj("col_municipalities")
+
+ggplot(tj) +
+  geom_sf(fill = "#CCCCCC", color= "#444444") +
+  theme_void()
+```
+
+
 ## How to contribute
 
 A new map can be added by following the steps described on the article `new-geography-layer`, available by running `vignette("new-geography-layer.Rmd")`

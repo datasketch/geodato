@@ -58,6 +58,22 @@ available_maps_df
 #> # ℹ 199 more rows
 ```
 
+## Getting a map from geodato
+
+``` r
+library(geodato)
+library(ggplot2)
+#> Warning: package 'ggplot2' was built under R version 4.2.2
+
+tj <- geodato::gd_tj("col_municipalities")
+
+ggplot(tj) +
+  geom_sf(fill = "#CCCCCC", color= "#444444") +
+  theme_void()
+```
+
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
+
 ## How to contribute
 
 A new map can be added by following the steps described on the article
