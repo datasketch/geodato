@@ -35,9 +35,9 @@ gd_codes <- function(map_name){
 
   l <- geodato:::maps[[map_name_main]]
   if(!is.null(l$parent_map_name)){
-    codes <- l$centroids %>% dplyr::select(id, name, zone, zone_id)
+    codes <- l$centroids |>  dplyr::select(id, name, zone, zone_id)
   }else{
-    codes <- l$centroids %>% dplyr::select(id, name)
+    codes <- l$centroids |>  dplyr::select(id, name)
   }
   if(!is.null(region_filter_codes)){
     codes <- codes |> dplyr::filter(id %in% region_filter_codes)

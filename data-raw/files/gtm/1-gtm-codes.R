@@ -28,10 +28,10 @@ tj$stroke <- NULL
 tj$fill.opacity <- NULL
 
 names(tj)
-tj0 <- tj %>% dplyr::filter(!COD_MUNI_1 %in% c(0, 2000))
-tj1 <- tj0 %>%
+tj0 <- tj |>  dplyr::filter(!COD_MUNI_1 %in% c(0, 2000))
+tj1 <- tj0 |>
   dplyr::rename(zone = DEPTO_1, zone_id = COD_DEPT_1,
-                id = COD_MUNI_1, name = NOMBRE_1) %>%
+                id = COD_MUNI_1, name = NOMBRE_1) |>
   select(id, name, everything()) %>%
   arrange(zone, name)
 
@@ -44,13 +44,13 @@ write_topojson(tj2, file.path(file_path, "aux/gtm_municipios-0.topojson"))
 # Codes
 
 codes <- st_drop_geometry(tj1)
-codes <- codes %>% arrange(zone, name)
+codes <- codes |> arrange(zone, name)
 
 
-codes_deptos <- codes %>%
-  select(id = zone_id, name = zone) %>% distinct()
+codes_deptos <- codes |>
+  select(id = zone_id, name = zone) |>  distinct()
 write_csv(codes_deptos, file.path(file_path, "gtm_departments-codes.csv"))
 
-codes_munis <- codes %>% distinct()
+codes_munis <- codes |>  distinct()
 write_csv(codes_munis, file.path(file_path, "gtm_municipalities-codes.csv"))
 

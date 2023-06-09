@@ -65,9 +65,9 @@ read_meta_path <- function(path){
   validate_centroids(l$centroids, map_name)
 
   if(!is.null(l$parent_map_name)){
-    codes <- l$centroids %>% dplyr::select(id, name, zone, zone_id)
+    codes <- l$centroids |>  dplyr::select(id, name, zone, zone_id)
   } else{
-    codes <- l$centroids %>% dplyr::select(id, name)
+    codes <- l$centroids |>  dplyr::select(id, name)
   }
 
   # Validate altnames

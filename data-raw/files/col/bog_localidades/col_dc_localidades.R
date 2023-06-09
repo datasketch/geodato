@@ -9,7 +9,7 @@ library(geojsonio)
 
 tj <- topojson_read("inst/geodato/col_dc/bog-localidades.topojson")
 
-dat <- tj@data %>% mutate(.id = 0:(nrow(.)-1))
+dat <- tj@data |>  mutate(.id = 0:(nrow(.)-1))
 idx <- dat$localidad != "Sumapaz"
 
 tj2 <- tj
@@ -21,16 +21,16 @@ topojson_write(tj2, "inst/geodato/col_dc/bog-localidades-sin-sumapaz.topojson")
 
 #
 # str(tj)
-# dtj <- fortify(tj) %>% mutate(.id = as.numeric(id)) %>% select(-id)
-# dat <- tj@data %>% mutate(.id = 0:(nrow(.)-1))
+# dtj <- fortify(tj) |>  mutate(.id = as.numeric(id)) %>% select(-id)
+# dat <- tj@data |>  mutate(.id = 0:(nrow(.)-1))
 #
 # str(dtj)
 # str(dat)
 #
 # dd <- left_join(dtj, dat)
 #
-# centers <- dd %>% select(id, name, lat, long) %>%
-#   group_by(id, name) %>% summarize(lat = mean(lat), long = mean(long))
+# centers <- dd |>  select(id, name, lat, long) %>%
+#   group_by(id, name) |>  summarize(lat = mean(lat), long = mean(long))
 #
 #
 # gg <- ggplot()

@@ -29,16 +29,16 @@ l <- map(dirs, purrr::safely(function(x){
   message(x)
   l <- read_meta_path(x)
   l
-})) %>% purrr::set_names(map_names)
+})) |>  purrr::set_names(map_names)
 
 message("maps = ", length(l))
 
-errors <- l %>% keep(~!is.null(.$error)) %>% map(~.$error)
+errors <- l |>  keep(~!is.null(.$error)) %>% map(~.$error)
 errors
 message("maps with errors = ", length(errors))
 message( paste0(paste0(" - ", names(errors)), collapse = "\n - "))
 
-maps <- l %>% keep(~!is.null(.$result))  %>% map(~.$result)
+maps <- l |>  keep(~!is.null(.$result))  %>% map(~.$result)
 pryr::object_size(maps)
 
 
