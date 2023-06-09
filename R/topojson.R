@@ -64,6 +64,8 @@ check_names_in_topojson <- function(tj, codes){
          "Not all topojson name in codes name: \n",
          collapse_char(which_not_in(tj$name, codes$name))
     )
+
+  cat("All good")
 }
 
 

@@ -1,0 +1,58 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# geodato
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+An R package to hold and facilitate geographies for spatial analysis.
+
+## Installation
+
+You can install the development version of geodato from [GitHub](https://github.com/) with:
+
+```r
+install.packages("devtools")
+devtools::install_github("datasketch/geodato")
+```
+
+## Available maps
+
+The available maps inside the package can be checked by running `available_maps_df()`:
+
+```{r}
+library(geodato)
+
+available_maps_df
+```
+
+## Getting a map from geodato
+```{r}
+library(geodato)
+library(ggplot2)
+
+tj <- geodato::gd_tj("col_municipalities")
+
+ggplot(tj) +
+  geom_sf(fill = "#CCCCCC", color= "#444444") +
+  theme_void()
+```
+
+
+## How to contribute
+
+A new map can be added by following the steps described on the article `new-geography-layer`, available by running `vignette("new-geography-layer.Rmd")`

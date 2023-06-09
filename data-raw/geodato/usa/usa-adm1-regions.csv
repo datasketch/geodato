@@ -1,0 +1,5 @@
+region_code,region_name,id,name
+northeast,Northeast,01,NORTHEAST
+midwest,Midwest,02,MIDWEST
+west,West,04,WEST
+south,South,03,SOUTH
