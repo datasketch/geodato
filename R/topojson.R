@@ -33,7 +33,7 @@ centroids_from_topojson <- function(tj){
   }
   df <- suppressWarnings(st_centroid(tj, of_largest = TRUE))
   centroids <- tibble::as_tibble(sf::st_coordinates(df$geometry)) |>
-    purrr::set_names(c("lat", "lon"))
+    purrr::set_names(c("lon", "lat"))
   centroids <- df |>
     sf::st_drop_geometry() |>
     dplyr::bind_cols(centroids)
