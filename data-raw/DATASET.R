@@ -18,11 +18,14 @@ path
 read_meta_path(path)
 
 
+map_name <- "gtm_municipalities"
 map_name <- "col_municipalities"
+map_name <- "usa_states"
+
+read_meta_path(path = "data-raw/geodato/usa/usa_states")
 l <- gd_meta(map_name)
 l$regions
 
-#### OJO gd_centroids SE ESTÁ LEYENDO COMO CHR PARA LON LAT
 
 l <- map(dirs, purrr::safely(function(x){
   ## Read and validate metadata
@@ -57,6 +60,7 @@ available_maps_df <- main_maps
 usethis::use_data(available_maps_df, internal = FALSE, overwrite = TRUE)
 
 devtools::load_all()
+
 
 
 region_maps <- imap(all_maps, function(m, nm){

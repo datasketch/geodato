@@ -1,0 +1,103 @@
+region_code,region_name,id,name,type,region
+south,South,AL,Alabama,region,NA
+west,West,AK,Alaska,region,NA
+west,West,AZ,Arizona,region,NA
+south,South,AR,Arkansas,region,NA
+west,West,CA,California,region,NA
+west,West,CO,Colorado,region,NA
+northeast,Northeast,CT,Connecticut,region,NA
+south,South,DE,Delaware,region,NA
+south,South,DC,District of Columbia,region,NA
+south,South,FL,Florida,region,NA
+south,South,GA,Georgia,region,NA
+west,West,HI,Hawaii,region,NA
+west,West,ID,Idaho,region,NA
+midwest,Midwest,IL,Illinois,region,NA
+midwest,Midwest,IN,Indiana,region,NA
+midwest,Midwest,IA,Iowa,region,NA
+midwest,Midwest,KS,Kansas,region,NA
+south,South,KY,Kentucky,region,NA
+south,South,LA,Louisiana,region,NA
+northeast,Northeast,ME,Maine,region,NA
+south,South,MD,Maryland,region,NA
+northeast,Northeast,MA,Massachusetts,region,NA
+midwest,Midwest,MI,Michigan,region,NA
+midwest,Midwest,MN,Minnesota,region,NA
+south,South,MS,Mississippi,region,NA
+midwest,Midwest,MO,Missouri,region,NA
+west,West,MT,Montana,region,NA
+midwest,Midwest,NE,Nebraska,region,NA
+west,West,NV,Nevada,region,NA
+northeast,Northeast,NH,New Hampshire,region,NA
+northeast,Northeast,NJ,New Jersey,region,NA
+west,West,NM,New Mexico,region,NA
+northeast,Northeast,NY,New York,region,NA
+south,South,NC,North Carolina,region,NA
+midwest,Midwest,ND,North Dakota,region,NA
+midwest,Midwest,OH,Ohio,region,NA
+south,South,OK,Oklahoma,region,NA
+west,West,OR,Oregon,region,NA
+northeast,Northeast,PA,Pennsylvania,region,NA
+northeast,Northeast,RI,Rhode Island,region,NA
+south,South,SC,South Carolina,region,NA
+midwest,Midwest,SD,South Dakota,region,NA
+south,South,TN,Tennessee,region,NA
+south,South,TX,Texas,region,NA
+west,West,UT,Utah,region,NA
+northeast,Northeast,VT,Vermont,region,NA
+south,South,VA,Virginia,region,NA
+west,West,WA,Washington,region,NA
+south,South,WV,West Virginia,region,NA
+midwest,Midwest,WI,Wisconsin,region,NA
+west,West,WY,Wyoming,region,NA
+east_south_central,East South Central,AL,Alabama,division,South
+pacific,Pacific,AK,Alaska,division,West
+mountain,Mountain,AZ,Arizona,division,West
+west_south_central,West South Central,AR,Arkansas,division,South
+pacific,Pacific,CA,California,division,West
+mountain,Mountain,CO,Colorado,division,West
+new_england,New england,CT,Connecticut,division,Northeast
+south_atlantic,South Atlantic,DE,Delaware,division,South
+south_atlantic,South Atlantic,DC,District of Columbia,division,South
+south_atlantic,South Atlantic,FL,Florida,division,South
+south_atlantic,South Atlantic,GA,Georgia,division,South
+pacific,Pacific,HI,Hawaii,division,West
+mountain,Mountain,ID,Idaho,division,West
+east_north_central,East North Central,IL,Illinois,division,Midwest
+east_north_central,East North Central,IN,Indiana,division,Midwest
+west_north_central,West North Central,IA,Iowa,division,Midwest
+west_north_central,West North Central,KS,Kansas,division,Midwest
+east_south_central,East South Central,KY,Kentucky,division,South
+west_south_central,West South Central,LA,Louisiana,division,South
+new_england,New england,ME,Maine,division,Northeast
+south_atlantic,South Atlantic,MD,Maryland,division,South
+new_england,New england,MA,Massachusetts,division,Northeast
+east_north_central,East North Central,MI,Michigan,division,Midwest
+west_north_central,West North Central,MN,Minnesota,division,Midwest
+east_south_central,East South Central,MS,Mississippi,division,South
+west_north_central,West North Central,MO,Missouri,division,Midwest
+mountain,Mountain,MT,Montana,division,West
+west_north_central,West North Central,NE,Nebraska,division,Midwest
+mountain,Mountain,NV,Nevada,division,West
+new_england,New england,NH,New Hampshire,division,Northeast
+middle_atlantic,Middle Atlantic,NJ,New Jersey,division,Northeast
+mountain,Mountain,NM,New Mexico,division,West
+middle_atlantic,Middle Atlantic,NY,New York,division,Northeast
+south_atlantic,South Atlantic,NC,North Carolina,division,South
+west_north_central,West North Central,ND,North Dakota,division,Midwest
+east_north_central,East North Central,OH,Ohio,division,Midwest
+west_south_central,West South Central,OK,Oklahoma,division,South
+pacific,Pacific,OR,Oregon,division,West
+middle_atlantic,Middle Atlantic,PA,Pennsylvania,division,Northeast
+new_england,New england,RI,Rhode Island,division,Northeast
+south_atlantic,South Atlantic,SC,South Carolina,division,South
+west_north_central,West North Central,SD,South Dakota,division,Midwest
+east_south_central,East South Central,TN,Tennessee,division,South
+west_south_central,West South Central,TX,Texas,division,South
+mountain,Mountain,UT,Utah,division,West
+new_england,New england,VT,Vermont,division,Northeast
+south_atlantic,South Atlantic,VA,Virginia,division,South
+pacific,Pacific,WA,Washington,division,West
+south_atlantic,South Atlantic,WV,West Virginia,division,South
+east_north_central,East North Central,WI,Wisconsin,division,Midwest
+mountain,Mountain,WY,Wyoming,division,West

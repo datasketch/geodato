@@ -1,9 +1,9 @@
 label: United States states
 centroids_file: usa_states-centroids.csv
 altnames_file: usa_states-altnames.csv
+regions_file: usa_states-regions.csv
 level: ADM1
-regions:
-id_format: "%02d"
+id_format: "2 letter characters"
 topojson:
   scope: XXX
   geographyName: name

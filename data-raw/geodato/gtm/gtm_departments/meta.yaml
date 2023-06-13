@@ -1,6 +1,6 @@
 label: Guatemala departaments
 centroids_file: gtm_departments-centroids.csv
-altids_file: gtm_departments-altids.csv
+altids_file: 
 altnames_file: gtm_departments-altnames.csv
 level: ADM1
 regions: 

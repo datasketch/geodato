@@ -81,8 +81,8 @@ id,name,zone,zone_id
 108,Mixco,Guatemala,01
 105,Palencia,Guatemala,01
 117,Petapa,Guatemala,01
-104,San José del Golfo,Guatemala,01
 103,San José Pinula,Guatemala,01
+104,San José del Golfo,Guatemala,01
 110,San Juan Sacatepéquez,Guatemala,01
 107,San Pedro Ayampuc,Guatemala,01
 109,San Pedro Sacatepéquez,Guatemala,01
@@ -124,8 +124,9 @@ id,name,zone,zone_id
 1315,Todos Santos Cuchumatán,Huehuetenango,13
 1332,Unión Cantinil,Huehuetenango,13
 1803,El Estor,Izabal,18
-1802,Lívingston,Izabal,18
 1805,Los Amates,Izabal,18
+1802,Lívingston,Izabal,18
+1802,Lívingston,Izabal,18
 1804,Morales,Izabal,18
 1801,Puerto Barrios,Izabal,18
 2101,Jalapa,Jalapa,21
@@ -193,8 +194,8 @@ id,name,zone,zone_id
 1418,Canillá,Quiché,14
 1405,Chajul,Quiché,14
 1419,Chicamán,Quiché,14
-1402,Chiché,Quiché,14
 1406,Chichicastenango,Quiché,14
+1402,Chiché,Quiché,14
 1403,Chinique,Quiché,14
 1410,Cunén,Quiché,14
 1420,Ixcán,Quiché,14

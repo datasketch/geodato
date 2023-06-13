@@ -24,13 +24,11 @@ tj1 <- change_topojson_names(topojson_path, new_names)
 check_names_in_topojson(tj1, codes)
 
 
-altids <- st_drop_geometry(tj1) %>%
-  select(id_1 = id, name) %>%
-  left_join(codes) %>%
-  select(id, name, id_1)
-
-write_csv(altids, file.path(file_path, "gtm_departments-altids.csv"))
-write_csv(altids, file.path(geodato_path, map_name,"gtm_departments-altids.csv"))
+# altids <-  codes_deptos |>
+#   bind_rows(st_drop_geometry(tj1))
+#
+# write_csv(altids, file.path(file_path, "gtm_departments-altids.csv"))
+# write_csv(altids, file.path(geodato_path, map_name,"gtm_departments-altids.csv"))
 
 # Make sure topojsons and codes have the same ids
 

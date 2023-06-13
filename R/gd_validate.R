@@ -129,6 +129,5 @@ validate_topojson <- function(tj, scope, centroids, map_name = NULL){
     )
   if (!all(centroids$id %in% tj$id))
     stop("Not all centroids id in topojson id: ", map_name)
-
-  cat("All good")
+  cat("All good\n")
 }

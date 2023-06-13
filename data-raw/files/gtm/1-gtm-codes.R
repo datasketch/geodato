@@ -9,11 +9,11 @@ geodato_path <-  "data-raw/geodato/gtm"
 ### MUNICIPIOS
 # Prepater municipios geojson
 ## datos de https://guilles.website/2017/03/17/datos-gis-del-ign/
-tj0 <- sf::read_sf(file.path(file_path, "aux/municipios.geojson"))
+tj0 <- sf::read_sf(file.path(file_path, "auxi/municipios.geojson"))
 
 
 tj0 <- st_collection_extract(tj0,type = c("POLYGON", "POINT", "LINESTRING"))
-write_topojson(tj0, file.path(file_path, "aux/tmp.topojson"))
+write_topojson(tj0, file.path(file_path, "auxi/tmp.topojson"))
 
 tj <- tj0
 
@@ -39,7 +39,7 @@ pryr::object_size(tj1)
 tj2 <- gd_simplify(tj1)
 pryr::object_size(tj2)
 
-write_topojson(tj2, file.path(file_path, "aux/gtm_municipios-0.topojson"))
+write_topojson(tj2, file.path(file_path, "auxi/gtm_municipios-0.topojson"))
 
 # Codes
 
@@ -52,5 +52,7 @@ codes_deptos <- codes |>
 write_csv(codes_deptos, file.path(file_path, "gtm_departments-codes.csv"))
 
 codes_munis <- codes |>  distinct()
+codes_munis <- codes_munis |>
+  select(id, name, zone, zone_id)
 write_csv(codes_munis, file.path(file_path, "gtm_municipalities-codes.csv"))
 
