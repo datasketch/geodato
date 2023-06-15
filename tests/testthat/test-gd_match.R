@@ -61,7 +61,8 @@ test_that("Match works",{
     color = sample(c("green", "yellow", "orange"), 5, replace = T)
   )
   col <- "code"
-  gd_match_codes(data, map_name = map_name, col = col)
+  m <- gd_match_codes(d, map_name = map_name, col = col)
+  expect_false(any(is.na(m$..gd_id)))
 
 
 
