@@ -64,6 +64,10 @@ test_that("Match works",{
   m <- gd_match_codes(d, map_name = map_name, col = col)
   expect_false(any(is.na(m$..gd_id)))
 
+  map_name <- "col_municipalities_antioquia"
+  col <- "code"
+  m <- gd_match_codes(d, map_name = map_name, col = col)
+  expect_false(any(is.na(m$..gd_id[1:2])))
 
 
 

@@ -100,10 +100,10 @@ gd_match_codes <- function(d, map_name = NULL, col = NULL){
     d[[col]] <- as.character(d[[col]])
   }
 
-  if(map_name == "col_departments"){
+  if(grepl("col_departments", map_name)){
     d[[col]] <- leading_zeros(d[[col]], 2)
   }
-  if(map_name == "col_municipalities"){
+  if(grepl("col_municipalities", map_name)){
     d[[col]] <- leading_zeros(d[[col]], 5)
   }
 
