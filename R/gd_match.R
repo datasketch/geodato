@@ -103,6 +103,9 @@ gd_match_codes <- function(d, map_name = NULL, col = NULL){
   if(map_name == "col_departments"){
     d[[col]] <- leading_zeros(d[[col]], 2)
   }
+  if(map_name == "col_municipalities"){
+    d[[col]] <- leading_zeros(d[[col]], 5)
+  }
 
   dplyr::left_join(d, codes, by = join_by)
 

@@ -53,10 +53,16 @@ test_that("Match works",{
     401,3
   )
 
-  col <- "cod_municipio"
-  gd_match_codes(d, map_name = map_name, col = col)
+  # Col municipalities with codes
+  map_name <- "col_municipalities"
+  d <- data.frame(
+    code = c(5206, 5756, 08001, 17524, 15276),
+    riesgo = sample(c("bajo", "medio", "alto"), 5, replace = T),
+    color = sample(c("green", "yellow", "orange"), 5, replace = T)
+  )
+  col <- "code"
+  gd_match_codes(data, map_name = map_name, col = col)
 
-  gd_match(d, map_name = map_name)
 
 
 
