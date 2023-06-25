@@ -18,7 +18,7 @@
 #' @examples
 #' df <- data.frame(id_country = c("ARG", "COL", "AGO", "BRA"), value = runif(4))
 #' which_geocode_col(df, "world_countries")
-#' @keywords internal
+#' @export
 which_geocode_col <- function(d, map_name){
   x <- d |> dplyr::slice(1:50)
   code_counts <- purrr::map_df(x, function(col){
@@ -31,7 +31,7 @@ which_geocode_col <- function(d, map_name){
     dplyr::arrange(desc(value)) |>
     dplyr::slice(1)
   # At least 90% of values should agree with the geocode
-  if(code_top_count$value < 0.9 * nrow(d)) return(NA)
+  if(code_top_count$value < 0.9 * nrow(x)) return(NA)
   code_top_count <- code_top_count |>
     dplyr::pull(name)
   code_top_count
@@ -55,7 +55,7 @@ which_geocode_col <- function(d, map_name){
 #' @examples
 #' df <- data.frame(country = c("Argentina", "Colombia", "Angora", "Brasil"), value = runif(4))
 #' which_geoname_col(df, "world_countries")
-#' @keywords internal
+#' @export
 which_geoname_col <- function(d, map_name){
 
   x <- d |> dplyr::slice(1:50)
@@ -103,4 +103,18 @@ is_code_or_name <- function(v, map_name){
   if(n_codes > n_names) return("code")
   return("name")
 }
+
+
+
+which_value_col <- function(d, map_name){
+  geocode_col <- which_geocode_col(d, map_name)
+  geoname_col <- which_name_col(d, map_name)
+  nms <- names(d)
+  possible_nms <- nms[!nms %in% c(geocode_col, geoname_col)]
+
+  if(length(possible_nms) == 0) return()
+  if(purrr::keep(d, is.numeric)){}
+
+}
+
 

@@ -4,7 +4,7 @@
 \alias{map_name_from_region}
 \title{Retrieve the main map name from a region map}
 \usage{
-map_name_from_region(map_nm)
+map_name_from_region(map_nm, ...)
 }
 \arguments{
 \item{map_nm}{A character string specifying the map name to retrieve the main map name from.}

@@ -6,7 +6,6 @@ level: ADM2
 id_format: "%05d"
 regions_file: col-adm2-municipalities-regions.csv
 parent_map_name: col_departments
-id_format: "%05d"
 topojson:
   scope: mpio
   geographyName: name

@@ -27,10 +27,10 @@ gd_meta <- function(map_name){
 #' gd_codes("col_municipalities")
 #' gd_codes("world_countries")
 #' @export
-gd_codes <- function(map_name){
-  validate_map_name(map_name)
+gd_codes <- function(map_name, ...){
+  # validate_map_name(map_name)
 
-  map_name_main <- map_name_from_region(map_name)
+  map_name_main <- map_name_from_region(map_name, ...)
   region_filter_codes <- map_name_from_region_filter_codes(map_name)
 
   l <- geodato:::maps[[map_name_main]]
@@ -105,12 +105,17 @@ gd_region_codes <- function(map_name){
 #' gd_regions("col_municipalities")
 #' gd_regions("col_municipalities_sarare") # This will result in an error
 #' @export
-gd_regions <- function(map_name){
+gd_regions <- function(map_name, path = NULL){
   if(main_or_region_map(map_name) == "region"){
     stop("No regions defined for region maps")
   }
-  l <- geodato:::maps[[map_name]]
-  l$regions
+  if(!is.null(path)){
+
+  }else{
+    l <- geodato:::maps[[map_name]]
+    regions <- l$regions
+  }
+  regions
 }
 
 #' Retrieve possible names for a map in geodato

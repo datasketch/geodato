@@ -46,6 +46,7 @@ search_maps <- function(q, type = "all") {
 #' available_maps(type = "regions")
 #' @export
 available_maps <- function(type = "all"){
+
   main_maps <- names(geodato:::maps)
   if(type == "main"){
     return(main_maps)
@@ -122,9 +123,10 @@ validate_map_name <- function(map_name){
 #' map_name_from_region("col_municipalities_sur_de_narino")
 #' map_name_from_region("world_countries_latin_america")
 #' @export
-map_name_from_region <- function(map_nm){
-  validate_map_name(map_nm)
+map_name_from_region <- function(map_nm, ...){
+  # validate_map_name(map_nm)
   #map_nm <- map_name
+
   map_type_info <- geodato::available_maps_df |>
     dplyr::filter(map_name == map_nm)
   if(map_type_info$type == "region"){

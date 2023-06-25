@@ -4,7 +4,7 @@
 \alias{gd_codes}
 \title{Retrieve geocodes for a map in geodato}
 \usage{
-gd_codes(map_name)
+gd_codes(map_name, ...)
 }
 \arguments{
 \item{map_name}{A character string specifying the map name to retrieve the geocodes.}

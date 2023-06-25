@@ -19,20 +19,53 @@ read_meta_path(path)
 
 
 map_name <- "gtm_municipalities"
-map_name <- "col_municipalities"
-map_name <- "usa_states"
 
-read_meta_path(path = "data-raw/geodato/usa/usa_states")
-l <- gd_meta(map_name)
-l$regions
+map_name <- "col_municipalities"
+read_meta_path_local(path = "data-raw/geodato/col/col_municipalities/")
+
+map_name <- "usa_states"
+read_meta_path_local(path = "data-raw/geodato/usa/usa_states")
+
+#l <- gd_meta(map_name)
+#l$regions
 
 
 l <- map(dirs, purrr::safely(function(x){
   ## Read and validate metadata
+  #x <- "data-raw/geodato/col/col_municipalities"
+  #x <- "data-raw/geodato/gtm/gtm_departments"
   message(x)
-  l <- read_meta_path(x)
-  l
+  l <- read_meta_path_local(x)
+  #l
+
+  # Main Maps
+  map_df <- tibble(
+    map_name = l$map_name,
+    type = "main",
+    main_map = NA,
+    region = NA
+  )
+  # Region maps
+  reg_codes <- unique(l$regions$region_code)
+  if(!is.null(reg_codes)){
+    regions_df <- tibble(region = unique(reg_codes))
+    regions_df$main_map <- l$map_name
+    regions_df$map_name <- paste(l$map_name, reg_codes, sep = "_")
+    regions_df$type <- "region"
+  } else{
+    regions_df <- NULL
+  }
+
+  map <- l
+  map_df <- bind_rows(map_df,regions_df) |> relocate(main_map, .after = type)
+
+  list(
+    map = map,
+    map_df = map_df
+  )
 })) |>  purrr::set_names(map_names)
+
+
 
 message("maps = ", length(l))
 
@@ -41,40 +74,15 @@ errors
 message("maps with errors = ", length(errors))
 message( paste0(paste0(" - ", names(errors)), collapse = "\n - "))
 
-maps <- l |>  keep(~!is.null(.$result))  %>% map(~.$result)
+maps <- l |>  keep(~!is.null(.$result)) |> map(~.$result$map)
+message( "main maps: ", length(maps))
 pryr::object_size(maps)
 
 
 # Available maps
 # TODO Add title and descriptions in english and other languages
-
-all_maps <- names(maps)
-names(all_maps) <- all_maps
-
-main_maps <- tibble(
-  map_name = all_maps
-)
-main_maps$type <- "main"
-
-available_maps_df <- main_maps
-usethis::use_data(available_maps_df, internal = FALSE, overwrite = TRUE)
-
-devtools::load_all()
-
-
-
-region_maps <- imap(all_maps, function(m, nm){
-  reg_codes <- unique(gd_regions(m)$region_code)
-  if(is.null(reg_codes)) return(NULL)
-  d <- tibble(region = unique(reg_codes))
-  d$main_map <- nm
-  d$map_name <- paste(nm, reg_codes, sep = "_")
-  d$type <- "region"
-  d
-}) |> bind_rows()
-available_maps_df <- bind_rows(main_maps, region_maps) |>
-  relocate(main_map, .after = type)
-
+available_maps_df <- l |>  keep(~!is.null(.$result)) |>
+  map(~.$result$map_df) |> bind_rows()
 
 
 ### Sample DATA
@@ -82,7 +90,7 @@ available_maps_df <- bind_rows(main_maps, region_maps) |>
 dirs <- list.files("data-raw/sample_data", full.names = FALSE)
 
 sample_data <- purrr::map(dirs, function(dir){
-  # dir <- dirs[[4]]
+  # dir <- dirs[[2]]
   message(dir)
   samples_path <- file.path("data-raw/sample_data",dir)
   if(!dir.exists(samples_path)){

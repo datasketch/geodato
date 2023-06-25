@@ -4,7 +4,7 @@
 \alias{validate_regions}
 \title{Validate Regions}
 \usage{
-validate_regions(regions, map_name)
+validate_regions(regions, map_name, ...)
 }
 \arguments{
 \item{regions}{A dataframe containing the regions to be validated.}

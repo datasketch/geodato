@@ -89,11 +89,11 @@ validate_altids <- function(altids, map_name = NULL){
 #' regions <- gd_regions("col_municipalities")
 #' validate_regions(regions, "col_municipalities")
 #' @export
-validate_regions <- function(regions, map_name){
+validate_regions <- function(regions, map_name, ...){
   if(!all(c("region_code", "region_name", "id") %in% names(regions)))
     stop("Regions file column names must be 'region_code', 'region_name', 'id' ")
   # All region codes must be in the gd_codes
-  codes <- gd_codes(map_name)
+  codes <- gd_codes(map_name, ...)
   if (!all( regions$id %in% codes$id)) {
     missing <- dstools::which_not_in(regions$id, codes$id)
     message("Not all region geocodes in gd_codes: ",

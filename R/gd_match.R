@@ -59,10 +59,13 @@ gd_match <- function(d, map_name, col = NULL, centroids = TRUE){
   if(centroids){
     centroids <- gd_centroids(map_name) |>
       dplyr::rename(..gd_id = id, ..gd_name = name)
-    if(all(c("zone", "zone_id") %in% names(centroids)))
+    by <- c("..gd_id","..gd_name")
+    if(all(c("zone", "zone_id") %in% names(centroids))){
+      by <- c("..gd_id","..gd_name","..gd_zone","..gd_zone_id")
       centroids <- centroids |>
         dplyr::rename(..gd_zone_id = zone_id, ..gd_zone = zone)
-    out <- out |> dplyr::left_join(centroids)
+    }
+    out <- out |> dplyr::left_join(centroids, by = by)
   }
   out
 }

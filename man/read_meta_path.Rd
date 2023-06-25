@@ -4,7 +4,7 @@
 \alias{read_meta_path}
 \title{Read Metadata and Associated Files from a Geodato Map Path}
 \usage{
-read_meta_path(path)
+read_meta_path(path, ...)
 }
 \arguments{
 \item{path}{The path to the geodato map folder containing the metadata file and related files.}

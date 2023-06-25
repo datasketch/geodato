@@ -28,4 +28,3 @@ that at least 90% of the values in that column agree with the geocode.
 df <- data.frame(id_country = c("ARG", "COL", "AGO", "BRA"), value = runif(4))
 which_geocode_col(df, "world_countries")
 }
-\keyword{internal}
