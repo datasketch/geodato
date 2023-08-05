@@ -4,7 +4,7 @@
 \alias{gd_regions}
 \title{Retrieve regions for a main map in geodato}
 \usage{
-gd_regions(map_name)
+gd_regions(map_name, path = NULL)
 }
 \arguments{
 \item{map_name}{A character string specifying the main map name to retrieve regions.}
