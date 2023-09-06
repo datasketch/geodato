@@ -1,0 +1,25 @@
+label: Ecuador Provinces
+centroids_file: ecu-provinces-centroids.csv
+altids_file:
+level: ECU_adm1
+id_format: "%02d"
+code_cols: ["id", "codigo"]
+name_cols: ["name", "province"]
+topojson:
+  label: CDMX AGEB
+  basename: ecu_provinces
+  scope: ECU_adm1
+  geographyName: name
+  geographyId: id
+  path: ecu-provinces.topojson
+  projections:
+    mercator:
+      center: [-78.5, -2.20]
+      rotate: [0, 0]
+      scale: 1.7
+      translate: [0,0]
+    equirectangular:
+      center: [-78.5, -2.20]
+      rotate: [0, 0]
+      scale: 1.7
+      translate: [0,0]
